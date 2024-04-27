@@ -1,0 +1,390 @@
+private_folders: &Pfolders
+    - "pCloudDrive"
+    - ".*"
+    - "Applications"
+    - "OneDrive"
+
+private_files: &Pfiles 
+    - ".steampath"
+    
+rules:
+#--------------------------------------------------------------------
+    - name: move screenshots into "Screenshots" folder
+      locations:
+          - path : ~/Pictures/
+            max_depth : 1
+            exclude_dirs: [*Pfolders, "Screenshots"]
+      filters:
+          - name:
+                contains: "Screen"
+                case_sensitive: false
+      actions:
+          - move: 
+                dest: ~/Pictures/Screenshots/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+    - name: move Recordings into "Recordings" folder
+      locations:
+          - ~/Videos/
+          - /mnt/GAMES/Videos/
+      filters:
+          - name:
+                contains:
+                  - "Record"
+                  - "Replay"
+                case_sensitive: false
+      actions:
+          - move:
+                dest: /mnt/GAMES/Videos/Recordings/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+    - name: move Documents into documents folder
+      locations:
+          - path: ~/
+            max_Depth: 2
+            exclude_dirs: [*Pfolders, "Documents"]
+            exclude_files: [*Pfiles]
+      filters:
+          - extension:
+            - doc
+            - docx
+            - msg
+            - odt
+            - pages
+            - wpd
+            - wps
+            - gddoc
+            - ppt
+            - pptx
+            - xlr
+            - xls
+            - xlsx
+            - pdf
+            - mobi
+      actions:
+          - move: 
+                dest: ~/Documents/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+ 
+    - name: move Log files into Logs folder
+      locations:
+          - path: ~/
+            max_Depth: 2
+            exclude_dirs: [*Pfolders, "Logs"]
+            exclude_files: [*Pfiles]
+      filters:
+          - extension:
+            - log
+      actions:
+          - move:
+                dest: ~/Logs/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+    - name: Move applications into Applications folder
+      locations:
+        - path: ~/
+          max_Depth: 2
+          exclude_dirs: [*Pfolders, "Applications"]
+          exclude_files: [*Pfiles]
+      filters:
+          - extension:
+            - apk
+            - app
+            - exe
+            - msi
+            - jar
+            - appimage
+            - rpm
+            - deb
+            - pkg
+            - .pkg.tar.xz
+            - .pkg.tar.zst
+      actions:
+          - move:
+                dest: ~/Applications/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+
+#--------------------------------------------------------------------
+
+    - name: Move audio files into music folder
+      locations:
+          - path: ~/
+            max_Depth: 2
+            exclude_dirs: [*Pfolders, "Music"]
+            exclude_files: [*Pfiles]
+      filters:
+          - extension:
+            - aif
+            - iff
+            - m3u
+            - m4a
+            - mid
+            - mp3
+            - mpa
+            - wav
+            - wma
+      actions:
+          - move:
+                dest: ~/Music/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+    - name: Move video files into Videos
+      locations:
+          - path: ~/
+            max_Depth: 2
+            exclude_dirs: [*Pfolders, "Videos"]
+            exclude_files: [*Pfiles]
+      filters:
+          - extension:
+            - 3g2
+            - 3gp
+            - asf
+            - avi
+            - flv
+            - m4v
+            - mov
+            - mp4
+            - mpg
+            - rm
+            - srt
+            - swf
+            - vob
+            - wmv
+      actions:
+          - move:
+                dest: /mnt/GAMES/Videos/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+      name: Move image files into Pictures
+      locations:
+          - path: ~/
+            max_Depth: 2
+            exclude_dirs: [*Pfolders, "Pictures"]
+            exclude_files: [*Pfiles]
+      filters:
+          - extension:
+            - bmp
+            - dds
+            - gif
+            - heic
+            - jpg
+            - png
+            - psd
+            - pspimage
+            - tga
+            - thm
+            - tif
+            - tiff
+            - yuv
+            - ai
+            - eps
+            - svg
+      actions:
+          - move: 
+                dest: ~/Pictures/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+    - name: Move Archives into compressed folder
+      locations:
+          - ~/Downloads/
+      filters:
+          - extension:
+            - tar
+            - 7z
+            - cbr
+            - gz
+            - rar
+            - sitx
+            - gz
+            - zst
+            - xz
+            - zip
+            - zipx
+      actions:
+          - move:
+                dest: ~/Downloads/Compressed/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+
+#--------------------------------------------------------------------
+
+    - name: Move Scripts into Scripts folder
+      locations:
+        - path: ~/
+          max_Depth: 2
+          exclude_dirs: [*Pfolders, "Scripts", "Applications", "emudeck"]
+          exclude_files: [*Pfiles]
+      filters:
+          - extension:
+            - sh
+            - bat
+            - vbs
+      actions:
+          - move: 
+                dest: ~/Scripts/
+                on_conflict: rename_new
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+    - name: Move 3ds roms into 3ds rom folder
+      locations:        
+        - path: ~/Downloads
+          max_Depth: 2
+          exclude_dirs: []
+          exclude_files: []
+      filters:
+        - extension:
+          - 3ds
+          - cci
+          - cfa
+          - cia
+          - csu
+          - cxi
+      actions:
+        - move:
+              dest: /mnt/GAMES/Emulation/roms/3ds/
+              on_conflict: skip
+              rename_template: "{name}-{counter}{extension}"
+
+#--------------------------------------------------------------------
+
+    - name: Move n64 roms into n64 rom folder
+      locations:
+        - path: ~/Downloads
+          max_Depth: 2
+          exclude_dirs: []
+          exclude_files: []
+      filters:
+          - extension:
+            - z64
+            - n64
+            - N64
+            - u64
+            - v64
+            - usa
+            - pal
+            - jap
+      actions:
+          - move:
+                dest: /mnt/GAMES/Emulation/roms/n64/
+                on_conflict: skip
+                rename_template: "{name}-{counter}{extension}"
+
+#--------------------------------------------------------------------
+
+    - name: Move nds roms into nds rom folder
+      locations:
+        - path: ~/Downloads
+          max_Depth: 2
+          exclude_dirs: []
+          exclude_files: []
+      filters:
+          - extension:
+            - nds
+            - srl
+            - tad
+      actions:
+          - move:
+                dest: /mnt/GAMES/Emulation/roms/nds/
+                on_conflict: skip
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+    - name: Move nes roms into nes rom folder
+      locations:
+        - path: ~/Downloads
+          max_Depth: 2
+          exclude_dirs: []
+          exclude_files: []
+      filters:
+          - extension:
+            - nes
+      actions:
+          - move:
+                dest: /mnt/GAMES/Emulation/roms/nes/
+                on_conflict: skip
+                rename_template: "{name}-{counter}{extension}"
+
+#--------------------------------------------------------------------
+
+    - name: Move snes roms into snes rom folder
+      locations:
+        - path: ~/Downloads
+          max_Depth: 2
+          exclude_dirs: []
+          exclude_files: []
+      filters:
+          - extension:
+            - sfc
+      actions:
+          - move:
+                dest: /mnt/GAMES/Emulation/roms/snes/
+                on_conflict: skip
+                rename_template: "{name}-{counter}{extension}"
+#--------------------------------------------------------------------
+
+    - name: Move GB roms into GB rom folder
+      locations:
+          - path: ~/Downloads
+            max_Depth: 2
+            exclude_dirs: []
+            exclude_files: []
+      filters:
+          - extension:
+            - gb
+      actions:
+          - move:
+                dest: /mnt/GAMES/Emulation/roms/gb/
+                on_conflict: skip
+                rename_template: "{name}-{counter}{extension}"
+
+#--------------------------------------------------------------------
+
+    - name: Move GBC roms into GBC rom folder
+      locations:
+          - path: ~/Downloads
+            max_Depth: 2
+            exclude_dirs: []
+            exclude_files: []
+      filters:
+          - extension:
+            - gbc
+      actions:
+          - move:
+                dest: /mnt/GAMES/Emulation/roms/gbc/
+                on_conflict: skip
+                rename_template: "{name}-{counter}{extension}"
+
+#--------------------------------------------------------------------
+
+    - name: Move GBA roms into GBA rom folder
+      locations:
+          - path: ~/Downloads
+            max_Depth: 2
+            exclude_dirs: []
+            exclude_files: []
+      filters:
+          - extension:
+            - gba
+      actions:
+          - move:
+                dest: /mnt/GAMES/Emulation/roms/gba/
+                on_conflict: skip
+                rename_template: "{name}-{counter}{extension}"
+
+#--------------------------------------------------------------------
