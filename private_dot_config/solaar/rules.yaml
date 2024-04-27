@@ -1,0 +1,43 @@
+%YAML 1.3
+---
+- KeyIsDown: Middle Button
+- And:
+  - KeyIsDown: Smart Shift
+  - Set:
+    - null
+    - hires-smooth-resolution
+    - Toggle
+  - Execute: [notify-send, '"Toggle Scroll whell resolution"']
+...
+---
+- KeyIsDown: Middle Button
+- MouseClick: [middle, 0x1]
+...
+---
+- Key: [Mouse Gesture Button, pressed]
+- Execute: [copyq, menu]
+...
+---
+- MouseGesture: Mouse Up
+- KeyPress:
+  - [Alt_L, W]
+  - click
+...
+---
+- MouseGesture: Mouse Down
+- KeyPress:
+  - [Meta_L, Q]
+  - click
+...
+---
+- MouseGesture: Mouse Left
+- KeyPress:
+  - [Alt_L, Tab]
+  - click
+...
+---
+- MouseGesture: Mouse Right
+- KeyPress:
+  - [Alt_L, Shift_L, Tab]
+  - click
+...
