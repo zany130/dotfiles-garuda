@@ -1,0 +1,9 @@
+export AMD_VULKAN_ICD=RADV
+export BROWSER=vivaldi-stable
+export EDITOR=/usr/bin/micro
+export GTK2_RC_FILES="$HOME/.gtkrc-2.0"
+export GTK_USE_PORTAL=1
+export MAIL=vivaldi-stable
+export TERM=konsole
+export VISUAL=code-oss
+export SSH_AUTH_SOCK=/home/zany130/.goldwarden-ssh-agent.sock

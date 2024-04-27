@@ -1,0 +1,209 @@
+[Commands]
+1\Automatic=true
+1\Command="copyq:\nvar imageTab = '&Images';\n\nfunction startsWith(text, what) {\n    return what === text.substring(0, what.length)\n}\n\nfunction hasImageFormat(formats) {\n    for (var format of formats.values()) {\n        if (startsWith(format, 'image/'))\n            return true;\n    }\n    return false;\n}\n\nvar formats = dataFormats();\nif (hasImageFormat(formats)) {\n    setData(mimeOutputTab, imageTab);\n}"
+1\Icon=\xf302
+1\Name=Image Tab
+10\Automatic=true
+10\Command="copyq:\nvar tabName = 'Selections'\nsetData(mimeOutputTab, tabName)"
+10\Icon=\xf245
+10\MatchCommand="copyq: dataFormats().indexOf(mimeClipboardMode) == -1 && fail()"
+10\Name=Store Mouse Selections in Separate Tab
+11\Automatic=true
+11\Icon=\xf21b
+11\Input=x-kde-passwordManagerHint
+11\Name=KeePassXC protector v3
+11\Remove=true
+12\Automatic=true
+12\Command="copyq:\nvar tabName = 'BIG'\nvar minBytes = 250*1000\n\nfunction hasBigData() {\n    var itemSize = 0\n    var formats = dataFormats()\n    for (var i in formats) {\n        itemSize += data(formats[i]).size()\n        if (itemSize >= minBytes)\n            return true\n    }\n    return false\n}\n\nif (hasBigData()) {\n    setData(mimeOutputTab, tabName)\n}"
+12\Icon=\xf1c0
+12\Name=Big Data Tab
+13\Command="copyq:\nvar wasMonitoring = monitoring()\nif (wasMonitoring)\n    disable()\n\ntry {\n    copy()\n} catch (e) {\n}\n\nif (wasMonitoring)\n    enable()"
+13\GlobalShortcut=ctrl+shift+c
+13\Icon=\xf6fa
+13\IsGlobalShortcut=true
+13\Name=Copy a Secret
+14\Command="copyq:\nvar selectedItem1 = selectedItemData(0)[mimeText]\nvar selectedItem2 = selectedItemData(1)[mimeText]\n\nvar item1 = null\nvar item2 = null\n\nif (selectedItem2 == undefined) {\n    // the selected item either doesn't contain text\n    // or the command is run as global shortcut.\n    // select the last two clipboard in this case.\n    item1 = read(1)\n    item2 = read(0)\n} else {\n    item1 = selectedItem1\n    item2 = selectedItem2\n}\n\nfunction tempFile(content) {\n    var file = new TemporaryFile()\n    file.openWriteOnly()\n    file.write(content)\n    file.close()\n    return file\n}\n\nvar f1 = tempFile(item1)\nvar f2 = tempFile(item2)\nvar name1 = f1.fileName()\nvar name2 = f2.fileName()\n\n// Choose your favorite diff tool (leave just one execute(...) uncommented):\n\n// === Beyond Compare ===\n// reference: https://www.scootersoftware.com/v4help/command_line_reference.html\nexecute('bcompare', name1, name2)\n\n// === WinMerge ===\n// reference: https://manual.winmerge.org/en/Command_line.html\n// execute('winmergeu', '/e', '/x', '/u', '/fl', '/dl', 'item1', '/dr', 'item2', name1, name2)\n\n// Wait few seconds before exiting script and deleting temporary files,\n// because the command may be executed in background.\nsleep(5000)"
+14\GlobalShortcut=meta+alt+d
+14\Icon=\xf0db
+14\InMenu=true
+14\IsGlobalShortcut=true
+14\Name=Diff Latest Items
+14\Shortcut=ctrl+d
+15\Command="var timeoutSeconds = 600;\n\nfunction option() {\n    return isClipboard()\n        ? 'clear_clipboard/clipboard_change_counter'\n        : 'clear_clipboard/selection_change_counter'\n}\n\nfunction getCount() {\n    return Number(settings(option())) || 0\n}\n\nfunction bumpCounter() {\n    var counter = getCount() + 1\n    settings(option(), counter)\n    return counter\n}\n\nfunction resetLater(counter) {\n    for (var i = 0; i < timeoutSeconds && counter == getCount(); ++i) {\n        sleep(1000)\n    }\n\n    if (counter != getCount())\n        return\n\n    if (isClipboard())\n        copy('')\n    else\n        copySelection('')\n}\n\nvar onClipboardChanged_ = onClipboardChanged\nonClipboardChanged = function() {\n    var counter = bumpCounter()\n    onClipboardChanged_()\n    resetLater(counter)\n}\n\nvar onOwnClipboardChanged_ = onOwnClipboardChanged\nonOwnClipboardChanged = function() {\n    var counter = bumpCounter()\n    onOwnClipboardChanged_()\n    resetLater(counter)\n}"
+15\Icon=\xf2f2
+15\IsScript=true
+15\Name=Clear Clipboard After Interval
+16\Command="copyq:\nvar prefix = 'file://'\nvar suffixToMime = {\n    'png': 'image/png',\n    'jpg': 'image/jpeg',\n    'jpeg': 'image/jpeg',\n    'bmp': 'image/bmp',\n    'svg': 'image/svg+xml',\n}\n\nfunction startsWith(text, what) {\n    return what === text.substring(0, what.length)\n}\n\nfunction tryShowImage(mime) {\n    var text = str(data(mime))\n    if ( !startsWith(text, prefix) )\n        return false\n\n    var i = text.lastIndexOf('.')\n    if (i == -1)\n        return false\n\n    var suffix = text.substring(i + 1)\n    var imageMime = suffixToMime[suffix]\n    if (imageMime === undefined)\n        return false\n\n    var path = text.substring(prefix.length)\n\n    var f = new File(path)\n    if ( !f.openReadOnly() )\n        return false\n\n    var imageData = f.readAll()\n    f.close()\n    if ( imageData.size() === 0 )\n        return false\n\n    setData(mimeItemNotes, path)\n    setData(imageMime, imageData)\n    return true\n}\n\ntryShowImage(mimeText)\n    || tryShowImage(mimeUriList)"
+16\Display=true
+16\Icon=\xf1c5
+16\Name=Preview Image Files
+17\Automatic=true
+17\Command="copyq:\n// Imports raw commands code (starting with [Command] or [Commands])\n// or from a link ('https://github.com/**/copyq-commands/blob/**.ini').\nvar timeOutSeconds = 10\nvar rawDataUrlPrefix = 'https://raw.githubusercontent.com'\n\n// Don't run this when mouse selection changes.\nif ( dataFormats().indexOf(mimeClipboardMode) != -1 )\n  abort()\n\nfunction importCommandsFromUrl(url)\n{\n  var m = url.match(/^https?:\\/\\/github\\.com(\\/.*)\\/blob(\\/.*\\.ini)/)\n  if (!m)\n    return;\n\n  var rawDataUrl = rawDataUrlPrefix + m[1] + m[2]\n  var reply = networkGet(rawDataUrl)\n  var commandsData = str(reply.data)\n  if (reply.status != 200) {\n    throw 'Failed to fetch commands.'\n        + '\\nStatus code: ' + reply.status\n        + '\\nError: ' + reply.error\n  }\n  if ( !commandsData.match(/^\\[Commands?\\]/) )\n    return;\n\n  return importCommands(commandsData);\n}\n\nvar cmds = importCommandsFromUrl(str(input())) || importCommands(input())\n\nvar list = '<ul>'\nfor (var i in cmds) {\n  var cmd = cmds[i]\n  var cmdType =\n    cmd.automatic ? 'automatic' :\n    cmd.inMenu ? 'menu/shortcut' :\n    cmd.globalShortcuts ? 'global shortcut' : '<b>???</b>';\n  list += '<li>' + escapeHtml(cmds[i].name) + ' (' + cmdType + ')</li>'\n}\nlist += '</ul>'\n\nvar message = '<p><b>Import commands</b> from clipboard?</p>' + list\nnotification(\n  '.title', 'Commands Available',\n  '.message', message,\n  '.time', timeOutSeconds*1000,\n  '.icon', '\xf085',\n  '.id', 'CopyQ_commands_in_clipboard',\n  '.button', 'Cancel', '', '',\n  '.button', 'Import', 'copyq: addCommands( importCommands(input()) )', exportCommands(cmds)\n)"
+17\Icon=\xf085
+17\Input=text/plain
+17\Match=^\\[Commands?\\]|https?://github\\.com/.*/copyq-commands/blob/.*\\.ini
+17\Name=Notification for Copied Commands
+18\Command="/*\nThis adds support for KDE, Gnome and Sway Wayland sessions.\n\nFor Sway, this requires:\n- `ydotool` utility to send copy/paste shortcuts to applications\n- `grim` for taking screenshot\n- `slurp` for selecting screenshot area\n\nFor KDE, this requires Spectacle for taking screenshots.\n\nGetting current window title is not supported in KDE.\n\nGlobal shortcut commands can be triggered with:\n\n    copyq triggerGlobalShortcut {COMMAND_NAME}\n\nOn Gnome, clipboard monitor is executed as X11 app using XWayland.\n\nLinks:\n- https://github.com/ReimuNotMoe/ydotool\n- https://github.com/emersion/grim\n- https://github.com/emersion/slurp\n*/\n\nfunction isSway() {\n    return env('SWAYSOCK').length != 0\n}\n\nfunction isGnome() {\n    return str(env('XAUTHORITY')).includes('mutter-Xwayland')\n}\n\nfunction run() {\n    var p = execute.apply(this, arguments)\n    if (!p) {\n        throw 'Failed to start ' + arguments[0]\n    }\n    if (p.exitCode && p.stderr.length) {\n        throw 'Failed command ' + arguments[0] + ': ' + str(p.stderr)\n    }\n    return p.stdout\n}\n\nfunction swayGetTree() {\n    var tree = run('swaymsg', '-t', 'get_tree')\n    return JSON.parse(str(tree))\n}\n\nfunction swayFindFocused(tree) {\n    var nodes = tree['nodes'].concat(tree['floating_nodes'])\n    for (var i in nodes) {\n        var node = nodes[i]\n        if (node['focused'])\n            return node\n        var focusedNode = swayFindFocused(node)\n        if (focusedNode)\n            return focusedNode\n    }\n    return undefined\n}\n\nfunction sendShortcut(shortcut) {\n    sleep(100)\n    run('ydotool', 'key', shortcut)\n}\n\nglobal.currentWindowTitle = function() {\n    if (!isSway())\n        return ''\n    var tree = swayGetTree()\n    var focusedNode = swayFindFocused(tree)\n    return focusedNode ? focusedNode['name'] : ''\n}\n\nglobal.paste = function() {\n    sendShortcut('shift+insert')\n}\n\nvar copy_ = global.copy\nglobal.copy = function() {\n    if (arguments.length == 0) {\n        sendShortcut('ctrl+c')\n    } else {\n        copy_.apply(this, arguments)\n    }\n}\n\nglobal.focusPrevious = function() {\n    hide()\n}\n\nvar monitorClipboard_ = monitorClipboard\nmonitorClipboard = function() {\n    if (isGnome() && env('QT_QPA_PLATFORM') != 'xcb') {\n        serverLog('Starting X11 clipboard monitor')\n        setEnv('QT_QPA_PLATFORM', 'xcb')\n        execute('copyq', '--clipboard-access', 'monitorClipboard')\n        serverLog('Stopping X11 clipboard monitor')\n        return\n    }\n    return monitorClipboard_()\n}\n\nvar onClipboardChanged_ = onClipboardChanged\nonClipboardChanged = function() {\n    var title = currentWindowTitle()\n    if (title)\n        setData(mimeWindowTitle, title)\n    onClipboardChanged_()\n}\n\nscreenshot = function(format, screenName) {\n    if (isSway())\n        return run('grim', '-t', format || 'png', '-')\n    return run(\n        'spectacle',\n        '--background',\n        '--nonotify',\n        '--pointer',\n        '--output',\n        '/dev/stdout',\n    )\n}\n\nscreenshotSelect = function(format, screenName) {\n    if (isSway()) {\n        var geometry = run('slurp')\n        geometry = str(geometry).trim()\n        return run('grim', '-c', '-g', geometry, '-t', format || 'png', '-')\n    }\n    return run(\n        'spectacle',\n        '--background',\n        '--nonotify',\n        '--pointer',\n        '--region',\n        '--output',\n        '/dev/stdout',\n    )\n}\n\nglobal.triggerGlobalShortcut = function(commandName) {\n    var cmds = commands()\n    for (var i in cmds) {\n        var cmd = cmds[i]\n        if (cmd.isGlobalShortcut && cmd.enable && cmd.name == commandName)\n            return action(cmd.cmd)\n    }\n    throw 'Failed to find enabled global command with given name'\n}"
+18\Icon=\xf2d0
+18\IsScript=true
+18\Name=Wayland Support
+19\Command="copyq:\nvar moveToTop = config('move') == 'true'\nvar activatePastes = config('activate_pastes') == 'true'\nvar activateCloses = config('activate_closes') == 'true'\nvar activateFocuses = config('activate_focuses') == 'true'\n\ncopy(mimeItems, input())\n\nif (moveToTop)\n    move(0)\n\nif (activateCloses)\n    hide()\n\nif (activateFocuses || activatePastes)\n    focusPrevious()\n\nif (activatePastes)\n    paste()"
+19\Icon=\xf328
+19\InMenu=true
+19\Input=application/x-copyq-item
+19\Name=Paste Items when Activated
+19\Shortcut=enter, return
+2\Command="copyq:\nfunction tabsSession() {\n    execute(\n        'copyq', '-s', 'tabs', '--start-server',\n        'tab', 'Tabs', ...arguments\n    )\n}\n\nvar cmd = `\n    config(\n        'check_clipboard', false,\n        'check_selection', false,\n        'copy_clipboard', false,\n        'copy_selection', false,\n        'disable_tray', true,\n        'hide_tabs', true,\n        'hide_toolbar', true,\n        'hide_main_window', true,\n    );\n    removeTab('Tabs')\n    setCommands([{\n        name: 'Show Tab',\n        inMenu: true,\n        hideWindow: true,\n        shortcuts: ['Enter', 'Return'],\n        cmd: 'copyq -s \"%SESSION%\" show %1'\n    }]);\n`;\nvar session = str(env('COPYQ_SESSION_NAME'));\ncmd = cmd.replace('%SESSION%', session);\ntabsSession(cmd);\ntabsSession('add', ...tab().reverse())\ntabsSession('show', 'Tabs')"
+2\Icon=\xf022
+2\InMenu=true
+2\Name=Tab Switcher
+2\Shortcut=alt+f1
+20\Automatic=true
+20\Command="copyq:\nvar window = str(data('application/x-copyq-owner-window-title'))\nvar tagsMime = 'application/x-copyq-tags'\nvar tags = str(data(tagsMime)) + ', ' + window\nsetData(tagsMime, tags)"
+20\Icon=\xf009
+20\Name=Store Window Title
+21\Automatic=true
+21\Command=copyq ignore
+21\Icon=\xf069
+21\Name=Ignore *\"Password\"* window
+21\Remove=true
+21\Window=Bitwarden
+22\Automatic=true
+22\Command="copyq:\nvar time = dateString('yyyy-MM-dd hh:mm:ss')\nsetData('application/x-copyq-user-copy-time', time)\n\nvar tagsMime = 'application/x-copyq-tags'\nvar tags = str(data(tagsMime)) + ', ' + time\nsetData(tagsMime, tags)"
+22\Icon=\xf017
+22\Name=Store Copy Time
+23\Command="copyq:\ntext = str(input())\njs = 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'\n\nhtml = '<html><head><script type=\"text/javascript\" src=\"' + js + '\"></script></head><body>' + escapeHTML(text) + '</body></html>';\n\ntab(selectedtab())\nwrite(index() + 1, 'text/html', html)"
+23\Icon=\xf12b
+23\InMenu=true
+23\Input=text/plain
+23\Name=Render Math Equations
+24\Command="copyq:\ntab(selectedtab())\nwrite(index() + 1, 'text/html', input())"
+24\InMenu=true
+24\Input=text/plain
+24\Match=^\\s*<(!|html)
+24\Name=Render HTML
+25\Automatic=true
+25\Command="copyq:\nvar link = str(input());\nvar href = '<a href=\"###\">###</a>';\nwrite(\n  'text/plain', link,\n  'text/html', href.replace(/###/g, link)\n);"
+25\Icon=\xf127
+25\Input=text/plain
+25\Match=^(https?|ftps?|file|mailto)://
+25\Name=Linkify
+25\Remove=true
+26\Command=copyq: plugins.itempinned.pin()
+26\Icon=\xf08d
+26\InMenu=true
+26\Input=!OUTPUT
+26\InternalId=copyq_pinned_pin
+26\Name=Pin
+26\Output=application/x-copyq-item-pinned
+27\Command=copyq: plugins.itempinned.unpin()
+27\Icon=\xf08d
+27\InMenu=true
+27\Input=application/x-copyq-item-pinned
+27\InternalId=copyq_pinned_unpin
+27\Name=Unpin
+28\Command=copyq: plugins.itemtags.tag(decodeURIComponent('Important'))
+28\Icon=\xf02b
+28\InMenu=true
+28\InternalId=copyq_tags_tag:Important
+28\MatchCommand=copyq: plugins.itemtags.hasTag(decodeURIComponent('Important')) && fail()
+28\Name=Tag as \x201cImportant\x201d
+29\Command=copyq: plugins.itemtags.untag(decodeURIComponent('Important'))
+29\Icon=\xf02b
+29\InMenu=true
+29\InternalId=copyq_tags_untag:Important
+29\MatchCommand=copyq: plugins.itemtags.hasTag(decodeURIComponent('Important')) || fail()
+29\Name=Remove tag \x201cImportant\x201d
+3\Automatic=true
+3\Command="copyq:\nvar tabName = '&URLs';\nfunction lower(data) {\n    return str(data).toLowerCase()\n}\n\nfunction findHeader(reply, headerName) {\n    reply.data  // fetches data and headers\n    var headers = reply.headers\n    for (var i in headers) {\n        var header = headers[i]\n        if (lower(header[0]) === headerName)\n           return header[1]\n    }\n    return ''\n}\n\nfunction fetchContent(url, maxRedirects) {\n    if (maxRedirects === undefined)\n        maxRedirects = 4\n\n    serverLog('Fetching: ' + url)\n    var reply = networkGet(url)\n    if (maxRedirects == 0)\n        return reply\n\n    var header = findHeader(reply, 'location')\n    if (header)\n        return fetchContent(header, maxRedirects - 1)\n\n    return reply\n}\n\nfunction decodeHtml(html) {\n    return html.replace(/&#(\\d+);/g, function(match, charCode) {\n        return String.fromCharCode(charCode);\n    });\n}\n\nfunction isHtml(reply) {\n    var headers = reply.headers\n    for (var i in headers) {\n      var header = headers[i]\n      if (lower(header[0]) === 'content-type')\n         return lower(header[1]).indexOf(mimeHtml) === 0\n    }\n    return false\n}\n\nfunction grep(content, re) {\n    return content ? (re.exec(content) || [])[1] : ''\n}\n\nfunction getTitle(content) {\n    var title = grep(content, /<title[^>]*>([^<]*)<\\/title>/i)\n    return title ? decodeHtml(title.trim()) : ''\n}\n\nfunction getFavicon(content) {\n    var iconLine = grep(content, /<link([^>]*rel=[\"'](?:shortcut )?icon[\"'][^>]*)/i)\n    var icon = grep(iconLine, /href=[\"']([^\"']*)/i)\n\n    if (!icon)\n      return ''\n\n    // Icon path can be complete URL.\n    if (icon.indexOf('://') != -1)\n      return fetchContent(icon).data\n\n    // Icon path can be missing protocol.\n    if (icon.substr(0, 2) === '//') {\n      var i = url.search(/\\/\\//)\n      var protocol = (i == -1) ? 'http:' : url.substr(0, i)\n      return fetchContent(protocol + icon).data\n    }\n\n    // Icon path can be relative to host URL.\n    if (icon[0] === '/') {\n      var baseUrl = url.substr(0, url.search(/[^\\/:](\\/|$)/) + 1)\n      return fetchContent(baseUrl + icon).data\n    }\n\n    // Icon path can be relative to current URL.\n    var baseUrl = url.substr(0, url.lastIndexOf('/') + 1)\n    return fetchContent(baseUrl + icon).data\n}\n\nvar url = str(input()).trim()\nserverLog('Fetching icon and title: ' + url)\n\n// URL already added? (Just check the top of the list.)\nif (url === str(read(0)))\n    abort()\n\n// Fetch HTML.\nvar reply = fetchContent(url)\nif (!isHtml(reply))\n    abort()\n\nvar content = str(reply.data)\n\nvar title = getTitle(content)\nvar icon = getFavicon(content)\n\nsetData(mimeText, url)\nsetData(mimeItemNotes, title || '')\nsetData(mimeIcon, icon)\nsetData(mimeOutputTab, tabName)"
+3\Icon=\xf0c1
+3\Input=text/plain
+3\Match=^https?://
+3\Name=Tab for URLs with Title and Icon
+30\Command=copyq: plugins.itemtags.tag()
+30\Icon=\xf02b
+30\InMenu=true
+30\InternalId=copyq_tags_tag
+30\Name=Add a Tag
+31\Command=copyq: plugins.itemtags.untag()
+31\Icon=\xf02b
+31\InMenu=true
+31\Input=application/x-copyq-tags
+31\InternalId=copyq_tags_untag
+31\Name=Remove a Tag
+32\Command=copyq: plugins.itemtags.clearTags()
+32\Icon=\xf02b
+32\InMenu=true
+32\Input=application/x-copyq-tags
+32\InternalId=copyq_tags_clear
+32\Name=Clear all tags
+33\Command=copyq: menu()
+33\Icon=\xf01c
+33\InternalId=copyq_global_menu
+33\IsGlobalShortcut=true
+33\Name=Show the tray menu
+34\Command=copyq: plugins.itemencrypted.encryptItems()
+34\Icon=\xf023
+34\InMenu=true
+34\Input=!OUTPUT
+34\InternalId=copyq_encrypted_encrypt
+34\Name=Encrypt (needs GnuPG)
+34\Output=application/x-copyq-encrypted
+34\Shortcut=ctrl+l
+35\Command=copyq: plugins.itemencrypted.decryptItems()
+35\Icon=\xf09c
+35\InMenu=true
+35\Input=application/x-copyq-encrypted
+35\InternalId=copyq_encrypted_decrypt
+35\Name=Decrypt
+35\Output=application/x-copyq-item
+35\Shortcut=ctrl+l
+36\Command=copyq: plugins.itemencrypted.copyEncryptedItems()
+36\Icon=\xf13e
+36\InMenu=true
+36\Input=application/x-copyq-encrypted
+36\InternalId=copyq_encrypted_decrypt_and_copy
+36\Name=Decrypt and Copy
+36\Shortcut=ctrl+shift+l
+37\Command=copyq: plugins.itemencrypted.pasteEncryptedItems()
+37\Icon=\xf13e
+37\InMenu=true
+37\Input=application/x-copyq-encrypted
+37\InternalId=copyq_encrypted_decrypt_and_paste
+37\Name=Decrypt and Paste
+37\Shortcut=enter
+4\Command=copyq:\nif (monitoring())\n    disable()\nelse\n    enable()
+4\GlobalShortcut=meta+alt+x
+4\Icon=\xf070
+4\InMenu=true
+4\IsGlobalShortcut=true
+4\Name=Toggle Clipboard Storing
+5\Command="copyq:\nvar maxChars = 18;\n\nfunction padStart(str, len, c) {\n    str = str ? str.toString() : '';\n\n    if (str.length >= len) {\n        return str;\n    }\n\n    var rpt = c || ' ';\n    for (var i = 1; i < len - str.length; i++) {\n        rpt += c;\n    }\n\n    return rpt + str;\n}\n\nfunction getCodeInfo(code) {\n    var chunks = [\n        'U+' + padStart(code.toString(16).toUpperCase(), 4, '0'),\n        '&#x' + code.toString(16) + ';',\n        code.toString(16),\n        '&#' + code + ';',\n        code,\n    ];\n\n    return chunks.join(' | ');\n}\n\nvar toLabelMap = {\n    '&' : '&&', // see https://doc.qt.io/qt-5/qlabel.html\n    ' ' : '&nbsp;',\n    '<' : '&lt;',\n    '>' : '&gt;'\n};\n\nfunction toLabel(c) {\n    return '<span>' + (toLabelMap[c] || c) + '&nbsp;</span>';\n}\n\n// # main\n\nvar text = str(input()) || str(clipboard());\n\ndo {\n    var charData = [];\n\n    for (var i = 0, max = Math.min(maxChars, text.length); i < max; i++) {\n        var c = text[i];\n        charData.push(toLabel(c));\n        charData.push(getCodeInfo(c.charCodeAt(0)));\n    }\n\n    var options = dialog.apply(this,\n        [\n        // Note: 'courier new' seems to be necessary on Windows\n        // - see https://stackoverflow.com/questions/1468022/how-to-specify-monospace-fonts-for-cross-platform-qt-applications\n        '.style', 'font-family: courier new, monospace',\n        '.title', 'Show Character Code',\n        '.label', 'Shows Unicode code info for the first ' + maxChars + ' characters of the given text.'\n            + '<br>Info format: &lt;unicodeNotation&gt; | &lt;xmlRefHex&gt; | &lt;hexCode&gt; | &lt;xmlRefDec&gt; | &lt;decCode&gt;',\n        'Text', text\n        ].concat(charData)\n    );\n\n    if (options) {\n        text = options['Text'] || options;\n    }\n} while (options);\n"
+5\Icon=\xf002
+5\InMenu=true
+5\Input=text/plain
+5\IsGlobalShortcut=true
+5\Name=Show Character Code
+6\Command="copyq:\ntab_name = \"Frequent\"\n\nsource = selectedtab()\ntab(source)\nitems = selecteditems()\np = \"application/x-copyq-\"\nfreq_mime = p + \"user-frequency\"\nignored = [\n    freq_mime,\n    p + \"owner\",\n    p + \"owner-window-title\",\n]\n\nfunction items_equal(item, i) {\n    for (var mime in item) {\n        if ( str(read(mime, i)) !== str(item[mime]) )\n            return false\n    }\n    return true\n}\n\nfunction index_of_item(item) {\n    for (var i = 0; i < size(); ++i) {\n      if (items_equal(item, i))\n          return i\n    }\n    return -1\n}\n\nfunction get_freq(i) {\n    return parseInt(str(read(freq_mime, i))) || 0\n}\n\nfunction find_index_for_frequency(freq) {\n    for (var i = 0; i < size(); ++i) {\n      if (freq >= get_freq(i))\n          return i\n    }\n    return size()\n}\n\nfor (i in items) {\n    item = getitem(items[i])\n    for (j in ignored)\n        delete item[ignored[j]];\n    tab(tab_name)\n    j = index_of_item(item)\n    if (j !== -1) {\n        item[freq_mime] = freq = get_freq(j) + 1\n        remove(j)\n        j = find_index_for_frequency(freq)\n    } else {\n        j = size()\n    }\n    setitem(j, item)\n    tab(source)\n}\n\nselect(items)\n\ntab(tab_name)\nselectitems([0])\n\nif ( config(\"activate_closes\") == \"true\" ) hide()\nif ( config(\"activate_pastes\") == \"true\" ) paste()"
+6\Icon=\xf004
+6\InMenu=true
+6\Name=Activate and Add to Frequent
+6\Shortcut=return, enter
+7\Command=copyq menu \"Frequent\"
+7\GlobalShortcut=meta+shift+f
+7\Icon=\xf004
+7\IsGlobalShortcut=true
+7\Name=Show Frequent
+8\Command=copyq add -
+8\Icon=\xf066
+8\InMenu=true
+8\Input=text/plain
+8\Name=Join Selected Items
+8\Shortcut=space
+9\Command="copyq:\nvar color = 'rgba(255, 255, 0, 0.5)'\nvar currentColor = str(selectedItemData(0)[mimeColor]);\nif (currentColor != color) {\n    setData(mimeColor, color)\n} else {\n    removeData(mimeColor)\n}"
+9\Icon=\xf591
+9\InMenu=true
+9\MatchCommand="copyq:\nvar color = 'rgba(255, 255, 0, 0.5)'\nvar currentColor = str(selectedItemData(0)[mimeColor])\nif (currentColor != color) {\n    menuItem['text'] = 'Mark Items'\n    menuItem['tag'] = '__'\n    menuItem['color'] = color.replace(/\\d+\\.\\d+/, 1)\n} else {\n    menuItem['text'] = 'Unmark Items'\n    menuItem['tag'] = 'x'\n    menuItem['color'] = 'white'\n}\nmenuItem['icon'] = '\xf591'"
+9\Name=Mark/Unmark Items
+9\Shortcut=ctrl+m
+size=37

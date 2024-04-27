@@ -1,0 +1,8 @@
+[Adapters]
+08:BE:AC:2A:E6:9F_powered=true
+
+[Devices]
+connectedDevices=
+
+[Global]
+launchState=enable

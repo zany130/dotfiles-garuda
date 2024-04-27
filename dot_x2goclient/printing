@@ -1,0 +1,16 @@
+[General]
+pdfview=false
+showdialog=true
+
+[CUPS]
+defaultprinter=Canon_TS6400_series_Garuda_Linux
+
+[print]
+command=lpr
+ps=false
+startcmd=false
+stdin=false
+
+[view]
+command=xpdf
+open=true
