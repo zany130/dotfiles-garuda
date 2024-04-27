@@ -1,0 +1,11 @@
+[Audio Preview Settings]
+Autoplay=false
+
+[FileDialogSize]
+3 screens: Height=822
+3 screens: Width=1018
+3 screens: Window-Maximized=true
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=818
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=1015
+DP-1 HDMI-A-1 Height 2048x864=828
+DP-1 HDMI-A-1 Width 2048x864=2032

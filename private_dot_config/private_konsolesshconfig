@@ -1,0 +1,12 @@
+[Global plugin config]
+manageProfile=false
+
+[SSH Config][steamdeck]
+hostname=192.168.2.21
+identifier=steamdeck
+importedFromSshConfig=true
+port=22
+profileName=
+sshkey=
+useSshConfig=true
+username=deck

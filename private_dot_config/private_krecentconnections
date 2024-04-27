@@ -1,0 +1,6 @@
+[ASUS]
+Type=SMB
+URL=smb://rt-ax86u-f748/Share
+
+[General]
+Index=ASUS

@@ -1,0 +1,43 @@
+[Keyboard]
+KeyRepeat=repeat
+NumLock=0
+RepeatDelay=250
+RepeatRate=25
+
+[Libinput][1133][16440][Logitech Wireless Mouse PID:4038]
+NaturalScroll=true
+
+[Libinput][1356][3302][DualSense Wireless Controller Touchpad]
+ClickMethod=2
+Enabled=false
+NaturalScroll=true
+TapDragLock=true
+TapToClick=true
+
+[Libinput][1356][3302][Sony Interactive Entertainment DualSense Wireless Controller Touchpad]
+Enabled=true
+
+[Libinput][1356][3302][Wireless Controller Touchpad]
+ClickMethod=1
+Enabled=false
+ScrollMethod=1
+TapDragLock=true
+TapToClick=true
+
+[Libinput][1356][3302][input-remapper DualSense Wireless Controller Touchpad forwarded]
+ClickMethod=2
+Enabled=false
+NaturalScroll=true
+TapDragLock=true
+TapToClick=true
+
+[Libinput][1356][3302][input-remapper Sony Interactive Entertainment DualSense Wireless Contr forwarde]
+Enabled=true
+
+[Libinput][1356][3302][input-remapper Wireless Controller Touchpad forwarded]
+Enabled=false
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+cursorSize=32
+cursorTheme=material_light_cursors

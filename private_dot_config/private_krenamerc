@@ -1,0 +1,67 @@
+[ExtHistoryComboEXTENSION_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[ExtHistoryComboEXTENSION_TEMPLATE]
+CompletionList=$:1
+HistoryList=$
+
+[ExtHistoryComboFILENAME_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[ExtHistoryComboFILENAME_TEMPLATE]
+CompletionList=$:1
+HistoryList=$
+
+[ExtHistoryComboPREVIX_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[ExtHistoryComboSUFFIX_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[GUISettings]
+Advanced=false
+Column0=352
+Column1=1570
+ExtensionSplitDot=0
+ExtensionSplitMode=1
+FileListSorting=0
+FileListSortingCustomMode=0
+FileListSortingCustomToken=creationdate;yyyyMMddHHmm
+ImagePreview2=true
+ImagePreviewName2=true
+StartIndex=1
+Stepping=1
+firststart4=false
+
+[KFileDialog Settings]
+Recent Files[$e]=Zero,file:$HOME/.local/share/Steam/steamapps/compatdata/1668540/pfx/drive_c/users/steamuser/Saved Games/Falcom/Azure,file:$HOME/.local/share/Steam/steamapps/compatdata/1668540/pfx/drive_c/users/steamuser/Saved Games/Falcom/Zero
+Recent URLs[$e]=file:$HOME/.local/share/Steam/steamapps/compatdata/1668540/pfx/drive_c/users/steamuser/Saved Games/Falcom/,file:$HOME/
+detailViewIconSize=16
+
+[KRenameWindowSettings]
+3 screens: Height=830
+3 screens: Width=2048
+DP-1 HDMI-A-1 Height 2048x864 DP-1=519
+DP-1 HDMI-A-1 Width 2048x864 DP-1=640
+DP-1 HDMI-A-1 Window-Maximized 2048x864 DP-1=true
+RestorePositionForNextInstance=false
+
+[PluginSettings]
+JavaScriptDefinitions=
+JavaScriptVariableNames=
+JavaScriptVariableTypes=
+JavaScriptVariableValues=
+
+[TokenHelpDialog]
+Column0=100
+Column1=100
+Column2=100
+Geometry=\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x0bt\x00\x00\x02\xa5\x00\x00\r\x97\x00\x00\x04\x00\x00\x00\x0bt\x00\x00\x02\xa5\x00\x00\r\x97\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x0bt\x00\x00\x02\xa5\x00\x00\r\x97\x00\x00\x04\x00
+LastSelectedCategory=
+Preview=false
+RecentTokens=
+Splitter=254,254

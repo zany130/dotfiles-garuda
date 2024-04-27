@@ -1,0 +1,17 @@
+[Plugins]
+org.kde.ActivityManager.VirtualDesktopSwitchEnabled=true
+
+[activities]
+ba3b1a17-4ea8-4002-91c3-ed494409356a=Work
+f577afb5-1dac-4cd8-932c-770f8518f05f=Default
+
+[activities-descriptions]
+ba3b1a17-4ea8-4002-91c3-ed494409356a=Work
+
+[activities-icons]
+ba3b1a17-4ea8-4002-91c3-ed494409356a=agenda
+
+[main]
+currentActivity=f577afb5-1dac-4cd8-932c-770f8518f05f
+runningActivities=f577afb5-1dac-4cd8-932c-770f8518f05f,ba3b1a17-4ea8-4002-91c3-ed494409356a
+stoppedActivities=

@@ -1,0 +1,37 @@
+[Audio Preview Settings]
+Autoplay=false
+
+[FileDialogSize]
+3 screens: Height=564
+3 screens: Width=1042
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=577
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=1044
+
+[General]
+SplitterSizes=746,1298
+
+[KFileDialog Settings]
+Recent Files[$e]=game-jolt-client,file:///opt/Fishbowl/client/bin/Fishbowl Client
+Recent URLs[$e]=file:///opt/Fishbowl/client/bin/
+detailViewIconSize=16
+
+[MainWindow]
+3 screens: Height=830
+3 screens: Width=2048
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=828
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=2048
+DP-1 HDMI-A-1 Height 2048x864=816
+DP-1 HDMI-A-1 Height 2048x864 DP-1=830
+DP-1 HDMI-A-1 Width 2048x864=1006
+DP-1 HDMI-A-1 Width 2048x864 DP-1=2048
+DisplayPort-0 HDMI-A-0 Height 2048x864=774
+DisplayPort-0 HDMI-A-0 Height 2560x1080=1038
+DisplayPort-0 HDMI-A-0 Width 2048x864=1006
+DisplayPort-0 HDMI-A-0 Width 2560x1080=1266
+DisplayPort-0 HDMI-A-0 XPosition 2048x864=1032
+DisplayPort-0 HDMI-A-0 XPosition 2560x1080=1286
+DisplayPort-0 HDMI-A-0 YPosition 2048x864=48
+DisplayPort-0 HDMI-A-0 YPosition 2560x1080=36
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACAAAAAMUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

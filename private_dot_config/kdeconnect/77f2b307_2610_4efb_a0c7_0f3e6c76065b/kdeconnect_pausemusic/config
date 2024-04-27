@@ -1,0 +1,5 @@
+[General]
+actionMute=false
+actionPause=true
+actionResume=true
+conditionTalking=true

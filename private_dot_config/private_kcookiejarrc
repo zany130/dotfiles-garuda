@@ -1,0 +1,10 @@
+[Cookie Dialog]
+PreferredPolicy=1
+ShowCookieDetails=false
+
+[Cookie Policy]
+AcceptSessionCookies=true
+CookieDomainAdvice=.steampowered.com:Accept,.www.sanebox.com:Accept,peopleconnect.us:AcceptForSession,.stjude.org:Accept
+CookieGlobalAdvice=Ask
+Cookies=true
+RejectCrossDomainCookies=true

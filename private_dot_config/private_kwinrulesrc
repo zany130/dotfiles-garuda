@@ -1,0 +1,734 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[00d88cc4-50fc-46ad-8a49-e3f46ddd8dcc]
+Description=Settings for pegasus-frontend
+fullscreen=true
+screen=1
+screenrule=2
+types=289
+wmclass=pegasus-frontend
+wmclassmatch=1
+
+[02c3c38b-64fc-455e-b60c-649a5e98a6fa]
+Description=Window settings for Cheat Engine Tracer
+screenrule=3
+title=Tracer
+titlematch=1
+
+[05025193-7b73-4ea5-982d-9d7171a8f5b4]
+Description=Settings for vivaldi-stable
+activity=00000000-0000-0000-0000-000000000000
+activityrule=2
+wmclass=vivaldi-stable
+wmclassmatch=1
+
+[08bcc298-bac9-42ca-81ca-511e97efa69c]
+Description=Settings for spotify
+activity=00000000-0000-0000-0000-000000000000
+activityrule=5
+wmclass=spotify
+wmclassmatch=1
+
+[0999b2b5-7b8b-43c7-bf87-5d5b6a7a7329]
+Description=Window settings for Cheat Engine Process List
+screenrule=3
+title=Process List
+titlematch=1
+
+[09dfa304-6a20-4591-99c5-eaf3330aaca5]
+Description=bismuth minimum geometry size
+minsize=1,1
+minsizerule=2
+types=1
+
+[0b011acc-21c4-4d8f-a014-5ca9d26be435]
+Description=Window settings for Cheat Engine Tracer
+screenrule=3
+title=Tracer
+titlematch=1
+
+[0d89d83a-2aaa-4c33-9267-85a456508da0]
+Description=Settings for gamescope
+fullscreen=true
+screen=1
+screenrule=2
+types=289
+wmclass=gamescope
+wmclassmatch=2
+
+[0f9696ea-03a4-49a6-9790-2b113ce77347]
+Description=Window settings for Cheat Engine Trainer
+screenrule=3
+title=Trainer
+titlematch=2
+
+[1]
+Description=Playstation Plus
+fullscreen=true
+fullscreenrule=3
+position=0,0
+positionrule=3
+screen=2
+screenrule=3
+title=Lua
+wmclass=pspluslauncher.exe
+wmclassmatch=1
+
+[10d09e85-9c41-4ce0-9e7c-cba1804a0c98]
+Description=Window settings for Notepad
+screenrule=3
+title=Notepad
+titlematch=2
+
+[12045ffc-3225-4fcc-9a30-117e0f81f01a]
+Description=Window settings for Cheat Engine Snapshot handler
+screenrule=3
+title=Snapshot handler
+titlematch=1
+
+[14]
+Description=Settings for gamescope
+blockcompositing=true
+blockcompositingrule=2
+fullscreen=true
+fullscreenrule=2
+screen=1
+screenrule=2
+types=289
+wmclass=gamescope
+wmclassmatch=2
+
+[15]
+Description=Settings for pegasus-frontend
+screen=1
+screenrule=2
+types=289
+wmclass=pegasus-frontend
+wmclassmatch=1
+
+[16]
+Description=Settings for steam
+fullscreen=true
+fullscreenrule=2
+minsize=1,1
+screen=1
+screenrule=2
+types=1
+wmclass=steam
+wmclassmatch=1
+
+[17]
+Description=non games
+screenrule=2
+types=289
+
+[17d50073-0f86-40dc-acbc-baf09ef9d365]
+Description=Window settings for Notepad
+fullscreen=true
+screenrule=3
+title=Notepad
+titlematch=2
+
+[18]
+Description=bismuth minimum geometry size
+minsize=1,1
+minsizerule=2
+types=1
+
+[1b6c96d8-64fb-4a85-b299-8e68497a67e2]
+Description=Window settings for Cheat Engine Snapshot handler
+minsize=1,1
+screenrule=3
+title=Snapshot handler
+titlematch=1
+
+[1c7c0750-90ea-4f2f-b0e1-f5cf187a8ab8]
+Description=Window settings for Cheat Engine Memory Viewer
+screenrule=3
+title=Memory Viewer
+titlematch=1
+
+[2]
+Description=Settings for steamtinkerlaunch
+above=true
+aboverule=2
+belowrule=2
+blockcompositing=true
+fullscreen=true
+position=0,0
+screen=2
+title=Lua
+wmclass=yad
+wmclassmatch=2
+
+[203b88b6-df8e-488f-99f7-7b6dd2c5f5d7]
+Description=Window settings for Cheat Engine Trainer
+screenrule=3
+title=Trainer
+titlematch=2
+
+[259ca309-3fde-4161-8080-7bb2b27a1954]
+Description=Settings for gamescope
+screen=1
+screenrule=2
+wmclass=gamescope
+wmclassmatch=1
+
+[28fd1df4-d128-413f-bc5d-2d5c47ab058e]
+Description=Window settings for Cheat Engine Memory Viewer
+screenrule=3
+title=Memory Viewer
+titlematch=1
+
+[29dab6d7-f261-4ee4-b1d2-80fdb40b7d93]
+Description=bismuth minimum geometry size
+minsize=1,1
+minsizerule=2
+types=1
+
+[2be89b28-a80a-4489-b30e-8ac5ca443aca]
+Description=Settings for steam
+fullscreen=true
+fullscreenrule=2
+minsize=1,1
+screen=1
+screenrule=2
+types=1
+wmclass=steam
+wmclassmatch=1
+
+[2d4bb82d-327b-4dab-ba93-7cc35e660e3b]
+Description=keyring prompt
+below=true
+belowrule=2
+screenrule=2
+title=Lua
+wmclass=gcr-prompter
+wmclassmatch=1
+
+[2ef9a47c-610c-44ab-9ac6-5583173b3447]
+Description=Window settings for Cheat Engine Trainer
+screenrule=3
+title=Trainer
+titlematch=2
+
+[2fe8e23d-77e1-497d-a7b3-a534839e8e57]
+Description=Window settings for Cheat Engine
+screenrule=3
+title=Cheat Engine
+titlematch=2
+
+[2febde04-a192-4a8d-aec6-5a6a751d479d]
+Description=Window settings for Cheat Engine Add address
+screenrule=3
+title=Add address
+titlematch=1
+
+[3]
+Description=Settings for gamescope
+fullscreen=true
+fullscreenrule=3
+position=0,0
+positionrule=3
+screen=1
+screenrule=3
+title=Lua
+wmclass=gamescope
+wmclassmatch=2
+
+[32e63fc2-42ec-4005-b2a0-f1ff036082d0]
+Description=Settings for steamtinkerlaunch
+above=true
+aboverule=2
+belowrule=2
+wmclass=yad
+wmclassmatch=2
+
+[332e08f6-75b5-4817-abfa-e2010e325d49]
+Description=Window settings for Cheat Engine Snapshot handler
+screenrule=3
+title=Snapshot handler
+titlematch=1
+
+[340c0d46-a6f3-493f-b1d6-1857540ed73e]
+Description=Window settings for Cheat Engine Object Inspector
+screenrule=3
+title=Object Inspector
+titlematch=1
+
+[3448dd0e-ad09-4918-ac04-01c5cb6c1adb]
+Description=Window settings for Cheat Engine Object Inspector
+screenrule=3
+title=Object Inspector
+titlematch=1
+
+[34612d7e-ec37-48fd-bf19-f42593735978]
+Description=Playstation Plus
+fullscreenrule=3
+position=2183,0
+positionrule=3
+wmclass=explorer.exe
+wmclassmatch=1
+
+[37cbc90a-4bc8-441a-9906-b77a6ada11ab]
+Description=Window settings for Cheat Engine Process List
+screenrule=3
+title=Process List
+titlematch=1
+
+[38193a71-000c-49b5-8053-4c3c8cc25cc1]
+Description=Window settings for Cheat Engine Trainer
+screenrule=3
+title=Trainer
+titlematch=2
+
+[4]
+Description=Settings for steam
+activity=f577afb5-1dac-4cd8-932c-770f8518f05f
+activityrule=2
+fullscreen=true
+position=0,0
+positionrule=3
+screen=2
+screenrule=3
+title=Lua
+wmclass=steam
+wmclassmatch=2
+
+[4159a61a-0805-434b-9bc4-7d392b5729c4]
+Description=Settings for quickaccess.py
+above=true
+aboverule=2
+belowrule=2
+wmclass=quickaccess.py
+wmclassmatch=1
+
+[437afd45-4023-4ffd-8a94-139d69907008]
+Description=Settings for steam
+fullscreen=true
+fullscreenrule=2
+screen=1
+screenrule=2
+types=1
+wmclass=steam
+wmclassmatch=2
+
+[4625487a-ce4a-4635-861d-5382d772e28e]
+Description=Window settings for Cheat Engine Memory Viewer
+screenrule=3
+title=Memory Viewer
+titlematch=1
+
+[47aa314e-8dde-4ed3-9e57-4e531b1eb581]
+Description=Window settings for Lua
+screenrule=3
+title=Lua
+titlematch=2
+
+[4995791f-bcf4-4f0e-9fd1-12ca727c4e69]
+Description=Settings for gamescope
+screen=1
+screenrule=2
+types=289
+wmclass=gamescope
+wmclassmatch=2
+
+[4df7a57c-720c-4762-9f1f-e51f86fd256b]
+Description=Settings for ryujinx
+position=0,0
+positionrule=3
+screen=2
+screenrule=3
+wmclass=ryujinx
+wmclassmatch=1
+
+[4f565969-c53a-4b1c-9f35-7a7eb30508bc]
+Description=Steam Games
+fullscreen=true
+fullscreenrule=1
+minsize=1,1
+position=2135,0
+positionrule=3
+screen=1
+screenrule=3
+title=Lua
+wmclass=steam
+wmclassmatch=2
+
+[5]
+Description=Settings for xdg-desktop-portal-kde org.freedesktop.impl.portal.desktop.kde
+above=true
+aboverule=2
+activity=00000000-0000-0000-0000-000000000000
+belowrule=2
+minsize=1,1
+position=0,0
+screen=2
+title=Lua
+wmclass=xdg-desktop-portal-kde org.freedesktop.impl.portal.desktop.kde
+wmclasscomplete=true
+wmclassmatch=1
+
+[55702ce7-fcae-4377-9d89-cb60dc56aa98]
+Description=Settings for gamescope
+screen=1
+screenrule=2
+types=289
+wmclass=gamescope
+wmclassmatch=2
+
+[6]
+Description=Settings for quickaccess.py
+above=true
+aboverule=2
+activity=ba3b1a17-4ea8-4002-91c3-ed494409356a
+belowrule=2
+minsize=1,1
+title=Lua
+wmclass=quickaccess.py
+wmclassmatch=1
+
+[62eed807-5584-49fc-871d-a37ba6f421ee]
+Description=Window settings for Cheat Engine Process List
+screenrule=3
+title=Process List
+titlematch=1
+
+[63924829-f0be-4680-8873-619aa3773d8e]
+Description=non games
+screenrule=3
+types=289
+
+[6428f972-d198-4b64-ba87-cfcbe2a915e3]
+Description=Settings for steam_app_1198090
+fullscreen=true
+fullscreenrule=2
+wmclass=steam_app_1198090
+wmclassmatch=1
+
+[6c2bc857-2483-40e6-aa5b-13cb1b061438]
+Description=Settings for steam
+fullscreen=true
+fullscreenrule=2
+screen=1
+screenrule=2
+types=1
+wmclass=steam
+wmclassmatch=2
+
+[6d3384fa-aeaa-46d0-8d77-362afe3ea57b]
+Description=Window settings for Cheat Engine Snapshot handler
+minsize=1,1
+screenrule=3
+title=Snapshot handler
+titlematch=1
+
+[6e2ef802-a847-4c40-9220-90e7426c8b80]
+Description=bismuth minimum geometry size
+minsize=1,1
+minsizerule=2
+types=1
+
+[7]
+Description=Settings for vivaldi-stable
+activity=00000000-0000-0000-0000-000000000000
+activityrule=2
+noborder=true
+title=Lua
+wmclass=Vivaldi-stable
+wmclassmatch=1
+
+[737e4172-807e-4900-878f-eae7e806fc20]
+Description=Window settings for Cheat Engine Tracer
+screenrule=3
+title=Tracer
+titlematch=1
+
+[75bbc224-b4d1-4a5d-86f5-d0b69ffd5355]
+Description=Settings for gamescope
+screen=1
+screenrule=1
+wmclass=gamescope
+wmclassmatch=1
+
+[8]
+Description=Settings for fishbowl client.exe
+aboverule=3
+activity=ba3b1a17-4ea8-4002-91c3-ed494409356a
+activityrule=2
+below=true
+belowrule=2
+title=Lua
+types=1
+wmclass=fishbowl client.exe
+wmclassmatch=2
+
+[811f7592-18e4-4536-9226-86d31db99df7]
+Description=Settings for pegasus-frontend
+screen=1
+screenrule=2
+wmclass=pegasus-frontend
+wmclassmatch=1
+
+[8480b466-77c1-4d7b-8f9f-bc8b2aa878cf]
+Description=Window settings for Cheat Engine Add address
+screenrule=3
+title=Add address
+titlematch=1
+
+[870c20c1-71a2-45fe-80ff-78e0c0aec1d9]
+Description=Settings for gamescope
+screen=1
+screenrule=4
+wmclass=gamescope
+wmclassmatch=2
+
+[87ecadd9-32ba-40eb-acd0-2e3dcc35fc79]
+Description=Settings for gamescope
+screen=1
+screenrule=2
+wmclass=gamescope
+wmclassmatch=2
+
+[88656684-5030-45af-b8d9-5cef06365401]
+Description=Window settings for Lua
+screenrule=3
+title=Lua
+titlematch=2
+
+[88fc6f1f-eb43-4777-92a1-b7a026729157]
+Description=Window settings for Cheat Engine
+screenrule=3
+title=Cheat Engine
+titlematch=2
+
+[8ca58472-b4c3-45c3-85f5-10fe21b1f75f]
+Description=Window settings for CEShare Initial Setup
+screenrule=3
+title=CEShare Initial Setup
+titlematch=1
+
+[9]
+Description=Window settings for CopyQ
+noborder=true
+noborderrule=3
+title=CopyQ
+wmclass=copyq com.github.hluk.copyq
+wmclasscomplete=true
+wmclassmatch=1
+
+[94a7030b-3d32-4665-9c63-744b290b25b6]
+Description=non games
+screenrule=3
+types=289
+
+[9864c8a7-354e-44f0-b1d1-aa0362fe3a12]
+Description=Window settings for Cheat Engine Tracer
+screenrule=3
+title=Tracer
+titlematch=1
+
+[988ad6dd-c3ee-4e57-9a56-9ccc410f1527]
+Description=Settings for pegasus-frontend
+screen=1
+screenrule=2
+types=289
+wmclass=pegasus-frontend
+wmclassmatch=1
+
+[9d58f695-c12a-4e4f-a168-4cb1df2bd1db]
+Description=Window settings for CEShare Initial Setup
+screenrule=3
+title=CEShare Initial Setup
+titlematch=1
+
+[General]
+count=9
+rules=1,2,3,4,5,6,7,8,9
+
+[a41251be-ccb1-4424-8e50-a2e737b42f80]
+Description=Settings for fishbowl client.exe
+aboverule=3
+activity=ba3b1a17-4ea8-4002-91c3-ed494409356a
+activityrule=2
+below=true
+belowrule=2
+types=1
+wmclass=fishbowl client.exe
+wmclassmatch=2
+
+[a774c89a-5186-43e1-b5e7-c1bf176a6a72]
+Description=non games
+minsize=1,1
+screenrule=3
+types=289
+
+[ab622156-3d24-413a-8c12-f7d053159c18]
+Description=bismuth minimum geometry size
+minsizerule=2
+types=1
+
+[abc23e00-93bd-4d5c-894f-efa483cb88e2]
+Description=Window settings for CopyQ
+noborder=true
+noborderrule=3
+title=CopyQ
+wmclass=copyq com.github.hluk.copyq
+wmclasscomplete=true
+wmclassmatch=1
+
+[ac4064d5-917f-432e-8638-7cb9a9c3dc24]
+Description=non games
+screenrule=2
+
+[acb3125c-c3f0-42e5-9cfd-6fdc45c85d2e]
+Description=keyring prompt
+below=true
+belowrule=2
+screenrule=2
+wmclass=gcr-prompter
+wmclassmatch=1
+
+[ae992019-c5b3-47f2-93bb-82cf74039c5f]
+Description=Settings for steam
+screen=1
+screenrule=2
+types=1
+wmclass=steam
+wmclassmatch=2
+
+[b40d46ba-2ffb-45d9-a265-a7cf6cf6fb93]
+Description=Window settings for CEShare Initial Setup
+screenrule=3
+title=CEShare Initial Setup
+titlematch=1
+
+[ba5a05cc-fda6-41c8-b06a-f69cfc9bef3f]
+Description=Settings for gamescope
+fullscreen=true
+fullscreenrule=3
+screen=1
+screenrule=2
+wmclass=gamescope
+wmclassmatch=1
+
+[c199d807-3740-4a04-8475-13b12b28ec02]
+Description=Window settings for Cheat Engine
+screenrule=3
+title=Cheat Engine
+titlematch=2
+
+[c5c9a0d3-4ec1-4ff5-b94a-b596d1ab04d7]
+Description=Settings for steam_proton Playstation Now
+screenrule=2
+wmclass=steam_proton
+wmclassmatch=1
+
+[cf9ec3fc-8b0d-4a70-ad6f-8f4547086ade]
+Description=New window settings
+wmclassmatch=1
+
+[d0a3c1de-6e6d-4d2d-8743-c7e72eede429]
+Description=Window settings for Lua
+screenrule=3
+title=Lua
+titlematch=2
+
+[d10b31c2-63d5-47ae-9472-4a455d31afb5]
+Description=Window settings for Lua
+screenrule=3
+title=Lua
+titlematch=2
+
+[d45f1fb1-4842-4cb1-bba2-eb722f62f6f0]
+Description=Settings for xdg-desktop-portal-kde org.freedesktop.impl.portal.desktop.kde
+above=true
+aboverule=2
+belowrule=2
+wmclass=xdg-desktop-portal-kde org.freedesktop.impl.portal.desktop.kde
+wmclasscomplete=true
+wmclassmatch=1
+
+[d602cf8a-b1fc-4226-ada9-6f23786d695b]
+Description=Window settings for Notepad
+screenrule=3
+title=Notepad
+titlematch=2
+
+[d6f19ada-eae2-4532-8031-6e0fb7a27194]
+Description=Window settings for Cheat Engine Object Inspector
+screenrule=3
+title=Object Inspector
+titlematch=1
+
+[d7942498-069c-4f9c-9df4-b6bf19856779]
+Description=Settings for steam_proton Playstation Now
+screenrule=2
+title=Lua
+wmclass=steam_proton
+wmclassmatch=1
+
+[d7a8b986-6053-4772-93f8-a6533d751893]
+Description=Settings for pegasus-frontend
+screen=1
+screenrule=2
+types=289
+wmclass=pegasus-frontend
+wmclassmatch=1
+
+[e2c0441f-b506-44d2-8cb7-fb7874242cd2]
+Description=Window settings for Cheat Engine Object Inspector
+screenrule=3
+title=Object Inspector
+titlematch=1
+
+[e582c6b6-05fe-4a8b-857b-5eb62468d38e]
+Description=Window settings for Cheat Engine Add address
+screenrule=3
+title=Add address
+titlematch=1
+
+[e60ff9a2-a234-4c89-b9a8-3bd9c9ce6502]
+Description=Window settings for CEShare Initial Setup
+screenrule=3
+title=CEShare Initial Setup
+titlematch=1
+
+[e7e3fac3-5665-450b-9626-00ab962066af]
+Description=Window settings for Cheat Engine
+screenrule=3
+title=Cheat Engine
+titlematch=2
+
+[e8665c0c-f7fb-4fdd-b875-4e9afffbd6ce]
+Description=Window settings for Cheat Engine Add address
+screenrule=3
+title=Add address
+titlematch=1
+
+[eab61626-46d1-4254-b2c5-df0e828a4aca]
+Description=Window settings for Notepad
+fullscreen=true
+screenrule=3
+title=Notepad
+titlematch=2
+
+[f19e82da-5caa-48d1-81dc-6812d5d3c496]
+Description=Window settings for Cheat Engine Memory Viewer
+screenrule=3
+title=Memory Viewer
+titlematch=1
+
+[fccfef10-c303-478b-9df8-033424f6c42c]
+Description=Window settings for Cheat Engine Process List
+screenrule=3
+title=Process List
+titlematch=1
+
+[fd9c8357-f69f-4ab8-8bba-6c0b81d001a2]
+Description=Steam Games
+screen=1
+screenrule=3
+wmclass=steam
+wmclassmatch=2

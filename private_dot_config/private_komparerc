@@ -1,0 +1,66 @@
+[Audio Preview Settings]
+Autoplay=false
+
+[Diff Options]
+CompareRecursively=true
+ConvertTabsToSpaces=false
+CreateSmallerDiff=true
+DiffProgram=
+Format=4
+IgnoreAllWhiteSpace=false
+IgnoreChangesDueToTabExpansion=false
+IgnoreChangesInCase=false
+IgnoreEmptyLines=false
+IgnoreRegExp=false
+IgnoreRegExpText=
+IgnoreRegExpTextHistory=
+IgnoreWhiteSpace=false
+LargeFiles=true
+LinesOfContext=3
+NewFiles=true
+ShowCFunctionChange=false
+
+[Exclude File Options]
+File=false
+FileHistoryList=
+FileURL=
+Pattern=false
+PatternList=
+
+[FileDialogSize]
+3 screens: Height=564
+3 screens: Width=1042
+DP-1 HDMI-A-1 Window-Maximized 2048x864=true
+
+[General Options]
+3 screens: Height=819
+3 screens: Width=1020
+3 screens: Window-Maximized=true
+DP-1 HDMI-A-1 Height 2048x864=816
+DP-1 HDMI-A-1 Height 2048x864 DP-1=818
+DP-1 HDMI-A-1 Width 2048x864=2026
+DP-1 HDMI-A-1 Width 2048x864 DP-1=1015
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAV0AAAA6PwBAAAAAfsAAAAUAE4AYQB2AGkAZwBhAHQAaQBvAG4BAAAAAAAABXQAAAFEAP///wAABXQAAABhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[KFileDialog Settings]
+Recent Files[$e]=alacritty.yml,file:$HOME/WindowsEDID,file:$HOME/LinuxEDID,file:$HOME/Documents/GitHub/steamtinkerlaunch/steamtinkerlaunch,file:$HOME/Documents/Vendors (4).diff,file:$HOME/Documents/Vendors (4).csv,file:$HOME/Documents/Vendors (3).csv,file:$HOME/Documents/Vendors (2).xlsx,file:$HOME/Documents/Vendors (3).xlsx,file:///mnt/GAMES/RdiffBak/.config/alacritty/alacritty.yml,file:$HOME/.config/alacritty/alacritty.yml
+Recent URLs[$e]=file:$HOME/.config/alacritty/,file:///mnt/GAMES/RdiffBak/.config/alacritty/,file:$HOME/Documents/,file:$HOME/.config/steamtinkerlaunch/gamecfgs/id/,file:$HOME/,file:$HOME/Downloads/,file:$HOME/Documents/GitHub/steamtinkerlaunch/
+detailViewIconSize=16
+
+[Recent Compare Files]
+Encoding=Default
+LastChosenDestinationListEntry=/home/zany130/WindowsEDID
+LastChosenSourceListEntry=/home/zany130/LinuxEDID
+Recent Destinations=file:///home/zany130/WindowsEDID,file:///home/zany130/Documents/GitHub/steamtinkerlaunch/steamtinkerlaunch,file:///home/zany130/Documents/Vendors (4).csv,file:///home/zany130/Documents/Vendors (2).xlsx,file:///mnt/GAMES/RdiffBak/.config/alacritty/alacritty.yml,file:///home/zany130/WindowsEDID
+Recent Sources=file:///home/zany130/LinuxEDID,file:///home/zany130/Documents/GitHub/steamtinkerlaunch/steamtinkerlaunch,file:///home/zany130/Documents/Vendors (3).csv,file:///home/zany130/Documents/Vendors (3).xlsx,file:///home/zany130/.config/alacritty/alacritty.yml,file:///home/zany130/LinuxEDID
+
+[View Options]
+AddColor=190,190,237
+AppliedColor=237,237,190
+ChangeColor=237,190,190
+RemoveColor=190,237,190
+ScrollNoOfLines=3
+TabToNumberOfSpaces=4
+TextFont=FiraCode Nerd Font Mono,10,-1,5,50,0,0,0,0,0

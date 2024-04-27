@@ -1,0 +1,18 @@
+[FileDialogSize]
+3 screens: Height=594
+3 screens: Width=1042
+
+[KFileDialog Settings]
+Recent Files[$e]=ddsviewer,file:///usr/bin/ddsviewer
+Recent URLs[$e]=file:///usr/bin/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+3 screens: Height=544
+3 screens: Width=575
+DP-1 HDMI-A-1 Height 2048x864=530
+DP-1 HDMI-A-1 Width 2048x864=427
+
+[Open-with settings]
+CompletionMode=1
+History=code,rid,cod,loss,kate

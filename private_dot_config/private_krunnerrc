@@ -1,0 +1,18 @@
+[General]
+FreeFloating=true
+
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+baloosearchEnabled=true
+emojirunnerEnabled=true
+krunner_sshEnabled=true
+
+[Runners][Kill Runner]
+sorting=1
+triggerWord=kill
+useTriggerWord=true
+
+[Runners][krunner_jetbrainsrunner]
+checkedUpdateDate=Sun Apr 21 2024

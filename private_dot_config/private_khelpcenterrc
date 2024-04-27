@@ -1,0 +1,27 @@
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[MainWindow]
+3 screens: Height=811
+3 screens: Width=1012
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=600
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=800
+DP-1 HDMI-A-1 Height 1707x960=924
+DP-1 HDMI-A-1 Height 2048x864=832
+DP-1 HDMI-A-1 Height 2048x864 DP-1=830
+DP-1 HDMI-A-1 Width 1707x960=841
+DP-1 HDMI-A-1 Width 2048x864=1012
+DP-1 HDMI-A-1 Width 2048x864 DP-1=2048
+DisplayPort-0 HDMI-A-0 Height 2048x864=821
+DisplayPort-0 HDMI-A-0 Width 2048x864=1006
+DisplayPort-0 HDMI-A-0 XPosition 2048x864=1032
+DisplayPort-0 HDMI-A-0 YPosition 2048x864=34
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/QAAALqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[MainWindowState]
+Splitter=427,587
+
+[Search]
+ScopeSelection=0
