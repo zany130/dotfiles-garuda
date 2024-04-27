@@ -1,5 +1,0 @@
-[Desktop Entry]
-Exec=flatpak run --command=io.github.alainm23.planify io.github.alainm23.planify --background
-Name=io.github.alainm23.planify
-Type=Application
-X-Flatpak=io.github.alainm23.planify

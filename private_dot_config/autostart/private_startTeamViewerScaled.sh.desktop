@@ -1,6 +1,0 @@
-[Desktop Entry]
-Exec=/home/zany130/Scripts/startTeamViewerScaled.sh
-Icon=dialog-scripts
-Name=startTeamViewerScaled.sh
-Type=Application
-X-KDE-AutostartScript=true

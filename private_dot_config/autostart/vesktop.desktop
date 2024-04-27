@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Vesktop
-Comment=Vesktop autostart script
-Exec="/usr/lib/electron29/electron" "/usr/lib/vesktop/app.asar" "--enable-blink-features=MiddleClickAutoscroll" "--start-minimized"
-StartupNotify=false
-Terminal=false

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=/home/zany130/Scripts/RestartGameMode.sh
-Icon=dialog-scripts
-Name=RestartGameMode.sh
-Path=
-Type=Application
-X-KDE-AutostartScript=true

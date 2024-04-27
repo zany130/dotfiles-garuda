@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Version=1.0
-Name=Inoreader
-Comment=Inoreaderstartup script
-Exec=/home/zany130/.webcatalog/Inoreader/Inoreader
-StartupNotify=false
-Terminal=false

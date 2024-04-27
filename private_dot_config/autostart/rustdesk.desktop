@@ -1,6 +1,0 @@
-
-[Desktop Entry]
-Type=Application
-Exec=rustdesk --tray
-NoDisplay=false
-        
