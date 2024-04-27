@@ -1,0 +1,15 @@
+{
+    "close_steam_before_sleep": true,
+    "force_big_picture": true,
+    "handled_displays": [
+    ],
+    "logging_rules": "",
+    "mac_address_override": "",
+    "nvidia_reset_mouse_acceleration_after_stream_end_hack": false,
+    "port": 59999,
+    "prefer_hibernation": false,
+    "registry_file_override": "",
+    "ssl_protocol": "SecureProtocols",
+    "steam_binary_override": "",
+    "sunshine_apps_filepath": ""
+}
