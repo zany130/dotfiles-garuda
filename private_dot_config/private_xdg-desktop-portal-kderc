@@ -1,0 +1,38 @@
+[Audio Preview Settings]
+Autoplay=false
+
+[FileDialogSize]
+2 screens: Height=798
+2 screens: Width=1020
+3 screens: Height=790
+3 screens: Width=1018
+3 screens: Window-Maximized=true
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=480
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=640
+DP-1 HDMI-A-1 Height 1536x864=480
+DP-1 HDMI-A-1 Height 2048x864=480
+DP-1 HDMI-A-1 Width 1536x864=640
+DP-1 HDMI-A-1 Width 2048x864=640
+DP-1 HDMI-A-1 Window-Maximized 1396x785 HDMI-A-1=true
+DP-1 HDMI-A-1 Window-Maximized 2048x864=true
+DP-1 HDMI-A-1 Window-Maximized 2048x864 DP-1=true
+DP-1 HDMI-A-2 HDMI-A-1 Height 2048x864 DP-1=480
+DP-1 HDMI-A-2 HDMI-A-1 Width 2048x864 DP-1=640
+DisplayPort-0 HDMI-A-0 Height 2560x1080=480
+DisplayPort-0 HDMI-A-0 Width 2560x1080=640
+DisplayPort-0 HDMI-A-0 Window-Maximized 2048x864=true
+DisplayPort-0 HDMI-A-0 Window-Maximized 2560x1080=true
+HDMI-A-0 DisplayPort-0 Window-Maximized 2560x1080=true
+HDMI-A-1 DP-1 Window-Maximized 2048x864=true
+
+[KFileDialog Settings]
+detailViewIconSize=48
+iconViewIconSize=64
+listViewIconSize=64
+treeViewIconSize=16
+
+[KPropertiesDialog]
+3 screens: Height=544
+3 screens: Width=575
+DisplayPort-0 HDMI-A-0 Height 2048x864=607
+DisplayPort-0 HDMI-A-0 Width 2048x864=487
