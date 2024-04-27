@@ -1,0 +1,1 @@
+{"enable_ftp_server": false, "ftp_username": "gamer", "ftp_password": "891RBPN5QAY8", "ftp_port": 2121, "keep_password": false, "recordings_dir": "/home/zany130/.local/share/chimera/recordings", "sls_conf_file": "/usr/share/chimera/config/sls.conf", "ffmpeg_inputs": ["-f x11grab -i :0", "-f alsa -i pulse"], "ffmpeg_vcodec": "", "ffmpeg_acodec": "", "enable_remote_launch": false}
