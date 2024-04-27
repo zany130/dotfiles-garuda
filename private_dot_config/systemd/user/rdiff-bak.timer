@@ -1,0 +1,13 @@
+[Unit]
+Description=Schedule Backup dot files with rdiff-bak
+Wants=rdiff-bak-clean.timer
+Wants=rdiff-bak-tar.timer
+
+[Timer]
+OnUnitInactive=rdiff-bak-clean.timer
+OnUnitInactive=rdiff-bak-tar.timer
+OnCalendar=*-*-* 0/2:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

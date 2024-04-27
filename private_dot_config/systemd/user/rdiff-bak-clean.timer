@@ -1,0 +1,13 @@
+[Unit]
+Description=Clean up rdiff-bak snapshots after every backup
+Wants=rdiff-bak.timer
+Wants=rdiff-bak-tar.timer
+
+[Timer]
+OnUnitInactive=rdiff-bak.timer
+OnUnitInactive=rdiff-bak-tar.timer
+OnCalendar=monthly
+Persistent=true
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,6 @@
+[Unit]
+Description=Backup rdiffbak files into a tar in pCloud
+
+[Service]
+Type=oneshot
+ExecStart=/home/zany130/Scripts/tarRdiff-Bak.sh

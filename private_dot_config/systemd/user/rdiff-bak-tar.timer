@@ -1,0 +1,13 @@
+[Unit]
+Description=Schedule Backup rdiffbak files into a tar in pCloud
+Wants=rdiff-bak.timer
+Wants=rdiff-bak-clean.timer
+
+[Timer]
+OnUnitInactive=rdiff-bak.timer
+OnUnitInactive=rdiff-bak-clean.timer
+OnCalendar=Daily
+Persistent=true
+
+[Install]
+WantedBy=timers.target
