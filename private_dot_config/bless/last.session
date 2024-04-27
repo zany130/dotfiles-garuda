@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<session>
+	<windowheight>2048</windowheight>
+	<windowwidth>2550</windowwidth>
+	<activefile>/home/zany130/.config/Ryujinx/games/0100149019460000/cache/cpu/0/1.3.2.info</activefile>
+	<file>
+		<path>/home/zany130/.config/Ryujinx/games/0100149019460000/cache/cpu/0/1.3.2.info</path>
+		<offset>18816</offset>
+		<cursoroffset>7005</cursoroffset>
+		<cursordigit>0</cursordigit>
+		<layout>/usr/share/bless/bless-default.layout</layout>
+		<focusedarea>0</focusedarea>
+	</file>
+</session>
