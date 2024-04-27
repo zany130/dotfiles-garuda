@@ -1,0 +1,9 @@
+[main]
+token = "U2FsdGVkX1+k4u5usGL4kKKDdUfN9DgEB20lvnFxYMU="
+persona = "pirate"
+prog = "senpai"
+version = "1.0"
+command_color = "bold bright blue"
+comment_color = "bright gray"
+execute = true
+metadata = true
