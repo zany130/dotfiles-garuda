@@ -1,7 +1,0 @@
-[GENERIC DOWNLOAD_MANAGER] INFO: Depot version: 2
-[V2] INFO: Initialized V2 Download Manager
-[V2] INFO: Creating Manifest instance from existing manifest
-[V2] WARNING: Verifying - ignoring obtained manifest in favor of existing one
-[V2] INFO: Deleted: 0 New: 12035 Changed: 0
-[API] INFO: Getting Dependencies repository
-[V2] INFO: All files look good
