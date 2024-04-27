@@ -1,0 +1,7 @@
+cacheDir: /home/zany130/.cache/onedriver
+log: debug
+auth:
+    clientID: ""
+    codeURL: ""
+    tokenURL: ""
+    redirectURL: ""
