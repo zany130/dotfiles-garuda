@@ -1,0 +1,23 @@
+[Desktop Action Remove]
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/OneDriveGUI-1.0.3-x86_64_02d8772d37b8b3fabe6f2a9d15740fe1.AppImage"
+Icon=AppImageLauncher
+Name[en_US]=Remove AppImage from system
+Name=Remove AppImage from system
+
+[Desktop Entry]
+Actions=Remove;
+Categories=Utility;
+Comment=
+Exec=/home/zany130/Applications/OneDriveGUI-1.0.3-x86_64_02d8772d37b8b3fabe6f2a9d15740fe1.AppImage
+Icon=appimagekit_6497475d2db3be2ec48772b821388d25_OneDriveGUI
+Name=OneDriveGUI (1.0.3)
+Terminal=false
+TryExec=/home/zany130/Applications/OneDriveGUI-1.0.3-x86_64_02d8772d37b8b3fabe6f2a9d15740fe1.AppImage
+Type=Application
+X-AppImage-Arch=x86_64
+X-AppImage-Identifier=6497475d2db3be2ec48772b821388d25
+X-AppImage-Name=OneDriveGUI
+X-AppImage-Old-Icon=OneDriveGUI
+X-AppImage-Old-Name=OneDriveGUI
+X-AppImage-Version=1.0.3
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC

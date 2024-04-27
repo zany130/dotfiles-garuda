@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Runner
+Comment=Autostart entry for Krunner Secret Service plugin
+Keywords=Runner;Krunner
+Categories=Utilities
+Path=/home/zany130/.local/share/krunner/plugin/miBwcli/
+Exec=/home/zany130/.local/share/krunner/plugin/miBwcli//mi_krunner_bwcli.py
+Icon=changes-allow-symbolic
+StartupNotify=false
