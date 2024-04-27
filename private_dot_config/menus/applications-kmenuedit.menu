@@ -1,0 +1,735 @@
+<!DOCTYPE Menu PUBLIC '-//freedesktop//DTD Menu 1.0//EN' 'http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd'>
+<Menu>
+ <Menu>
+  <Name>Games</Name>
+  <Include>
+   <Filename>remoteplaywhatever.desktop</Filename>
+   <Filename>PRINCE-2.desktop</Filename>
+   <Filename>rom-properites.desktop</Filename>
+   <Filename>steam-4.desktop</Filename>
+   <Filename>steam-5.desktop</Filename>
+   <Filename>steam-7.desktop</Filename>
+   <Filename>steam-2.desktop</Filename>
+  </Include>
+  <Menu>
+   <Name>Arcade</Name>
+   <Layout>
+    <Merge type="files"/>
+    <Filename>chromium-bsu.desktop</Filename>
+    <Filename>org.kde.granatier.desktop</Filename>
+    <Filename>org.kde.kapman.desktop</Filename>
+    <Filename>mari0.desktop</Filename>
+    <Filename>supertux2.desktop</Filename>
+    <Filename>supertuxkart.desktop</Filename>
+    <Filename>teeworlds.desktop</Filename>
+   </Layout>
+  </Menu>
+  <Exclude>
+   <Filename>steam-3.desktop</Filename>
+   <Filename>steam-native-3.desktop</Filename>
+   <Filename>GameJolt.desktop</Filename>
+   <Filename>steam-native-2.desktop</Filename>
+   <Filename>steam-6.desktop</Filename>
+  </Exclude>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>Proton 9.0 (Beta).desktop</Filename>
+   <Filename>dev.suyu_emu.suyu.desktop</Filename>
+   <Filename>8-Bit Bayonetta.desktop</Filename>
+   <Filename>AI THE SOMNIUM FILES - nirvanA Initiative.desktop</Filename>
+   <Filename>an-anime-game-launcher.desktop</Filename>
+   <Filename>DAEMON X MACHINA.desktop</Filename>
+   <Filename>Doki Doki Literature Club Plus!.desktop</Filename>
+   <Filename>Eternights.desktop</Filename>
+   <Filename>Fall Guys.desktop</Filename>
+   <Filename>Grand Theft Auto V.desktop</Filename>
+   <Filename>Horizon Zero Dawn Complete Edition.desktop</Filename>
+   <Filename>Just Cause 4.desktop</Filename>
+   <Filename>Mary Skelter 2.desktop</Filename>
+   <Filename>Mass Effect Legendary Edition.desktop</Filename>
+   <Filename>io.github.sharkwouter.Minigalaxy.desktop</Filename>
+   <Filename>Monark.desktop</Filename>
+   <Filename>pcsx2-qt.desktop</Filename>
+   <Filename>Persona 3 Reload.desktop</Filename>
+   <Filename>org.scummvm.scummvm.desktop</Filename>
+   <Filename>Sherlock Holmes Crimes and Punishments.desktop</Filename>
+   <Filename>Soulstice.desktop</Filename>
+   <Filename>the-honkers-railway-launcher.desktop</Filename>
+   <Filename>The Murder of Sonic the Hedgehog.desktop</Filename>
+   <Filename>Umineko When They Cry - Answer Arcs.desktop</Filename>
+   <Filename>Umineko When They Cry - Question Arcs.desktop</Filename>
+   <Filename>alvr.desktop</Filename>
+   <Filename>Breath of the Wild.desktop</Filename>
+   <Filename>appimagekit_62b45c66b5612cb62b087c056f254f09-Greenlight.desktop</Filename>
+   <Filename>Katamari Damacy REROLL.desktop</Filename>
+   <Filename>com.moonlight_stream.Moonlight.desktop</Filename>
+   <Filename>PAC-MAN MUSEUM+.desktop</Filename>
+   <Filename>io.github.shiiion.primehack.desktop</Filename>
+   <Filename>ryujinx.desktop</Filename>
+   <Filename>The Legend of Heroes Trails of Cold Steel II.desktop</Filename>
+   <Filename>The Legend of Heroes Trails of Cold Steel III.desktop</Filename>
+   <Filename>The Legend of Heroes Trails of Cold Steel IV.desktop</Filename>
+   <Filename>Three Minutes To Eight Demo.desktop</Filename>
+   <Filename>cemu.desktop</Filename>
+   <Filename>re.chiaki.Chiaki.desktop</Filename>
+   <Filename>EmuDeck.desktop</Filename>
+   <Filename>io.github.benjamimgois.goverlay.desktop</Filename>
+   <Filename>io.itch.itch.desktop</Filename>
+   <Filename>Kena Bridge of Spirits.desktop</Filename>
+   <Filename>Kena Bridge of Spirits (Original Soundtrack).desktop</Filename>
+   <Filename>Memory's Dogma CODE01.desktop</Filename>
+   <Filename>Proton 8.0.desktop</Filename>
+   <Filename>rpcs3.desktop</Filename>
+   <Filename>Sakura Gamer.desktop</Filename>
+   <Filename>Steam Linux Runtime - Sniper.desktop</Filename>
+   <Filename>SRM.desktop</Filename>
+   <Filename>The Caligula Effect Overdose.desktop</Filename>
+   <Filename>The Legend of Heroes Trails into Reverie.desktop</Filename>
+   <Filename>The Legend of Heroes Trails into Reverie - Songs of Reverie Official Soundtrack.desktop</Filename>
+   <Filename>The Legend of Heroes Trails into Reverie - Soundtrack Sampler.desktop</Filename>
+   <Filename>Your Only Move Is HUSTLE.desktop</Filename>
+   <Filename>itch.desktop</Filename>
+   <Filename>Proton Hotfix.desktop</Filename>
+   <Filename>Sonic Frontiers.desktop</Filename>
+   <Filename>Tales of Arise.desktop</Filename>
+   <Filename>vita3k.desktop</Filename>
+   <Filename>3DMark.desktop</Filename>
+   <Filename>A Hat in Time.desktop</Filename>
+   <Filename>A Hat in Time - Modding Tools.desktop</Filename>
+   <Filename>A Hat in Time - Soundtrack.desktop</Filename>
+   <Filename>A Story About My Uncle.desktop</Filename>
+   <Filename>Anima Gate of Memories.desktop</Filename>
+   <Merge type="menus"/>
+   <Menuname>Arcade</Menuname>
+   <Filename>Bloody Chronicles - New Cycle of Death.desktop</Filename>
+   <Menuname>Board</Menuname>
+   <Menuname>Card</Menuname>
+   <Filename>CLANNAD.desktop</Filename>
+   <Filename>CLANNAD Side Stories.desktop</Filename>
+   <Filename>Danganronpa V3 Killing Harmony.desktop</Filename>
+   <Filename>Dishonored.desktop</Filename>
+   <Filename>Doki Doki Literature Club.desktop</Filename>
+   <Filename>dolphin-emu.desktop</Filename>
+   <Filename>dosbox.desktop</Filename>
+   <Filename>Fallout 4.desktop</Filename>
+   <Filename>fault - milestone one.desktop</Filename>
+   <Filename>fault - milestone two side above.desktop</Filename>
+   <Filename>Game Character Hub Portfolio Edition.desktop</Filename>
+   <Menuname>Kidsgames</Menuname>
+   <Filename>io.github.hmlendea.geforcenow-electron.desktop</Filename>
+   <Filename>Hellblade Senua's Sacrifice.desktop</Filename>
+   <Filename>heroic.desktop</Filename>
+   <Filename>If My Heart Had Wings.desktop</Filename>
+   <Filename>Left 4 Dead 2.desktop</Filename>
+   <Filename>Legrand Legacy.desktop</Filename>
+   <Filename>Lightmatter.desktop</Filename>
+   <Menuname>Logic</Menuname>
+   <Filename>Lost Daughter.desktop</Filename>
+   <Filename>ludusavi.desktop</Filename>
+   <Filename>net.lutris.Lutris.desktop</Filename>
+   <Filename>Mad Father.desktop</Filename>
+   <Filename>minecraft-launcher.desktop</Filename>
+   <Filename>Moss.desktop</Filename>
+   <Filename>PCMark 10.desktop</Filename>
+   <Filename>PRICE.desktop</Filename>
+   <Filename>Proton BattlEye Runtime.desktop</Filename>
+   <Filename>Proton EasyAntiCheat Runtime.desktop</Filename>
+   <Filename>Proton Experimental.desktop</Filename>
+   <Filename>net.davidotek.pupgui2.desktop</Filename>
+   <Filename>Psychonauts.desktop</Filename>
+   <Filename>Quake II RTX.desktop</Filename>
+   <Filename>RaidersSphere4th.desktop</Filename>
+   <Filename>retroarch.desktop</Filename>
+   <Filename>Return to Shironagasu Island.desktop</Filename>
+   <Filename>rom-properites.desktop</Filename>
+   <Filename>Root Double -Before Crime  After Days- Xtend Edition.desktop</Filename>
+   <Filename>RPG Maker XP.desktop</Filename>
+   <Filename>RWBY Grimm Eclipse.desktop</Filename>
+   <Filename>samrewritten.desktop</Filename>
+   <Filename>STAR OCEAN - THE LAST HOPE - 4K &amp; Full HD Remaster.desktop</Filename>
+   <Filename>steam-native.desktop</Filename>
+   <Filename>steam.desktop</Filename>
+   <Filename>steam-2.desktop</Filename>
+   <Filename>Steam Linux Runtime.desktop</Filename>
+   <Filename>Steam Linux Runtime - Soldier.desktop</Filename>
+   <Filename>steamtinkerlaunch.desktop</Filename>
+   <Filename>SteamVR.desktop</Filename>
+   <Filename>Steamworks SDK Redist.desktop</Filename>
+   <Filename>Sunrider Academy.desktop</Filename>
+   <Filename>Sunrider Liberation Day - Captain's Edition.desktop</Filename>
+   <Filename>Sunrider Mask of Arcadius.desktop</Filename>
+   <Filename>Sunset Overdrive.desktop</Filename>
+   <Filename>SUPERHOT MIND CONTROL DELETE.desktop</Filename>
+   <Menuname>TacticStrategy</Menuname>
+   <Filename>Taima Miko Yuugi.desktop</Filename>
+   <Filename>Tales of Symphonia.desktop</Filename>
+   <Filename>The Awesome Adventures of Captain Spirit.desktop</Filename>
+   <Filename>The Legend of Heroes Trails in the Sky.desktop</Filename>
+   <Filename>The Legend of Heroes Trails in the Sky SC.desktop</Filename>
+   <Filename>The Legend of Heroes Trails in the Sky the 3rd.desktop</Filename>
+   <Filename>The Legend of Heroes Trails of Cold Steel.desktop</Filename>
+   <Filename>The Search.desktop</Filename>
+   <Filename>The Talos Principle.desktop</Filename>
+   <Filename>The Talos Principle Editor.desktop</Filename>
+   <Filename>The Vanishing of Ethan Carter Redux.desktop</Filename>
+   <Filename>The Witcher 2 Assassins of Kings Enhanced Edition.desktop</Filename>
+   <Filename>The Witcher 2 Bonus Content.desktop</Filename>
+   <Filename>The Witcher 3 Wild Hunt.desktop</Filename>
+   <Filename>The Witness.desktop</Filename>
+   <Filename>Tomb Raider.desktop</Filename>
+   <Filename>TY the Tasmanian Tiger 4.desktop</Filename>
+   <Filename>Undertale.desktop</Filename>
+   <Filename>Unreal Development Kit.desktop</Filename>
+   <Filename>valve-URI-steamvr.desktop</Filename>
+   <Filename>valve-URI-vrmonitor.desktop</Filename>
+   <Filename>valve-vrmonitor.desktop</Filename>
+   <Filename>Watch_Dogs 2.desktop</Filename>
+   <Filename>Welcome to the Game.desktop</Filename>
+   <Filename>xemu.desktop</Filename>
+   <Filename>Yu-Gi-Oh!  Master Duel.desktop</Filename>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>Development</Name>
+  <Include>
+   <Filename>PRINCE.desktop</Filename>
+   <Filename>ghidra.desktop</Filename>
+  </Include>
+  <Exclude>
+   <Filename>code-oss-2.desktop</Filename>
+  </Exclude>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>jetbrains-studio.desktop</Filename>
+   <Filename>bless.desktop</Filename>
+   <Filename>jetbrains-clion.desktop</Filename>
+   <Filename>cmake-gui.desktop</Filename>
+   <Filename>code-oss.desktop</Filename>
+   <Filename>ddd.desktop</Filename>
+   <Filename>electron.desktop</Filename>
+   <Filename>electron17.desktop</Filename>
+   <Filename>electron19.desktop</Filename>
+   <Filename>GameConqueror.desktop</Filename>
+   <Filename>ghidra.desktop</Filename>
+   <Filename>github-desktop.desktop</Filename>
+   <Filename>guiscrcpy.desktop</Filename>
+   <Filename>yad-icon-browser.desktop</Filename>
+   <Filename>jetbrains-idea-edu.desktop</Filename>
+   <Filename>jetbrains-toolbox.desktop</Filename>
+   <Filename>org.kde.kate.desktop</Filename>
+   <Filename>org.kde.kompare.desktop</Filename>
+   <Filename>org.kde.kuiviewer.desktop</Filename>
+   <Filename>micro.desktop</Filename>
+   <Filename>PRINCE.desktop</Filename>
+   <Filename>jetbrains-pycharm-edu.desktop</Filename>
+   <Filename>assistant.desktop</Filename>
+   <Filename>designer.desktop</Filename>
+   <Filename>linguist.desktop</Filename>
+   <Filename>qdbusviewer.desktop</Filename>
+   <Filename>renderdoc.desktop</Filename>
+   <Filename>jetbrains-rider.desktop</Filename>
+   <Merge type="menus"/>
+   <Menuname>Translation</Menuname>
+   <Filename>unityhub.desktop</Filename>
+   <Filename>com.unrealengine.UE5Editor.desktop</Filename>
+   <Filename>org.kde.kuserfeedback-console.desktop</Filename>
+   <Menuname>Web Development</Menuname>
+   <Filename>appimagekit_2a26830bc85e58394bd7afb052dd8c2f-windows2usb.desktop</Filename>
+   <Filename>org.zealdocs.Zeal.desktop</Filename>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>Utilities</Name>
+  <Include>
+   <Filename>remoteplaywhatever-2.desktop</Filename>
+   <Filename>PRINCE-3.desktop</Filename>
+   <Filename>hp-uiscan.desktop</Filename>
+   <Filename>apk_preview.desktop</Filename>
+   <Filename>Fishbowl Client.desktop</Filename>
+  </Include>
+  <Exclude>
+   <Filename>appimagekit_a95b0372c044dea3017ce471291894e1-App_Outlet-2.desktop</Filename>
+   <Filename>balena-etcher-electron-2.desktop</Filename>
+   <Filename>appimagekit_be41420693003f7379a1e4aebbfbd7af-XCloud-2.desktop</Filename>
+   <Filename>bitwarden-2.desktop</Filename>
+  </Exclude>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>Fishbowl Client.desktop</Filename>
+   <Filename>appimagekit_dfb3c124e4e911f212a97f1edb72155f-BetterDiscord.desktop</Filename>
+   <Filename>binggpt.desktop</Filename>
+   <Filename>io.github.philipk.boilr.desktop</Filename>
+   <Filename>cassowary_linux.desktop</Filename>
+   <Filename>appimagekit_4d5deac242e79ec814acdf86d937a66a-ChatALL.desktop</Filename>
+   <Filename>clamtk.desktop</Filename>
+   <Filename>com.github.hluk.copyq.desktop</Filename>
+   <Filename>appimagekit_b11460ca914cf0bb653b369947f329af-GameImage.desktop</Filename>
+   <Filename>org.localsend.localsend_app.desktop</Filename>
+   <Filename>cassowaryMicrosoftEdge.desktop</Filename>
+   <Filename>noisetorch.desktop</Filename>
+   <Filename>codes.merritt.Nyrna.desktop</Filename>
+   <Filename>onedriver.desktop</Filename>
+   <Filename>io.github.alainm23.planify.desktop</Filename>
+   <Filename>scrcpy.desktop</Filename>
+   <Filename>scrcpy-console.desktop</Filename>
+   <Filename>stacer.desktop</Filename>
+   <Filename>appimagekit_0b45d9e013eba401af4c47c9079b5b3c-Steam_ROM_Manager.desktop</Filename>
+   <Filename>appimagekit_f5866f6b37c977801c3a2bcd6b24bd6b-WebCatalog.desktop</Filename>
+   <Filename>org.kde.plasma-welcome.desktop</Filename>
+   <Filename>cassowaryWindowsPowerShell.desktop</Filename>
+   <Filename>org.kde.xwaylandvideobridge.desktop</Filename>
+   <Filename>apk_preview.desktop</Filename>
+   <Filename>appimagelaunchersettings.desktop</Filename>
+   <Filename>org.kde.ark.desktop</Filename>
+   <Filename>balena-etcher-electron.desktop</Filename>
+   <Filename>bitwarden.desktop</Filename>
+   <Filename>com.usebottles.bottles.desktop</Filename>
+   <Filename>code-oss.desktop</Filename>
+   <Filename>org.corectrl.corectrl.desktop</Filename>
+   <Filename>discover_overlay.desktop</Filename>
+   <Filename>discover_overlay_configure.desktop</Filename>
+   <Filename>org.gnome.DiskUtility.desktop</Filename>
+   <Filename>org.kde.plasma.emojier.desktop</Filename>
+   <Filename>org.kde.filelight.desktop</Filename>
+   <Filename>org.gnome.Firmware.desktop</Filename>
+   <Filename>GameConqueror.desktop</Filename>
+   <Filename>com.leinardi.gst.desktop</Filename>
+   <Filename>hplip.desktop</Filename>
+   <Filename>hp-uiscan.desktop</Filename>
+   <Filename>org.kde.kate.desktop</Filename>
+   <Filename>org.kde.kcalc.desktop</Filename>
+   <Filename>org.kde.kfind.desktop</Filename>
+   <Filename>org.kde.kleopatra.desktop</Filename>
+   <Filename>org.kde.krename.desktop</Filename>
+   <Filename>kvantummanager.desktop</Filename>
+   <Filename>org.kde.kwrite.desktop</Filename>
+   <Filename>micro.desktop</Filename>
+   <Filename>modem-manager-gui.desktop</Filename>
+   <Filename>OpenRGB.desktop</Filename>
+   <Filename>org.gnome.seahorse.Application.desktop</Filename>
+   <Filename>PRINCE-3.desktop</Filename>
+   <Filename>protontricks.desktop</Filename>
+   <Filename>net.davidotek.pupgui2.desktop</Filename>
+   <Filename>remoteplaywhatever-2.desktop</Filename>
+   <Filename>org.kde.smb4k.desktop</Filename>
+   <Filename>stoken-gui-small.desktop</Filename>
+   <Filename>stoken-gui.desktop</Filename>
+   <Filename>solaar.desktop</Filename>
+   <Filename>org.kde.spectacle.desktop</Filename>
+   <Filename>xgpsspeed.desktop</Filename>
+   <Filename>steam-metadata-editor.desktop</Filename>
+   <Filename>ventoy.desktop</Filename>
+   <Filename>vim.desktop</Filename>
+   <Filename>winetricks.desktop</Filename>
+   <Merge type="menus"/>
+   <Menuname>XUtilities</Menuname>
+   <Filename>xgps.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>Education</Name>
+  <Menu>
+   <Name>Mathematics</Name>
+   <Layout>
+    <Merge type="files"/>
+    <Filename>libreoffice-math.desktop</Filename>
+   </Layout>
+  </Menu>
+  <Menu>
+   <Name>Science</Name>
+   <Layout>
+    <Merge type="files"/>
+    <Filename>libreoffice-math.desktop</Filename>
+   </Layout>
+  </Menu>
+  <Layout>
+   <Merge type="menus"/>
+   <Menuname>Languages</Menuname>
+   <Menuname>Mathematics</Menuname>
+   <Menuname>Miscellaneous</Menuname>
+   <Menuname>Science</Menuname>
+   <Menuname>Tools</Menuname>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>Graphics</Name>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>displaycal-3dlut-maker.desktop</Filename>
+   <Filename>blender.desktop</Filename>
+   <Filename>displaycal-curve-viewer.desktop</Filename>
+   <Filename>displaycal.desktop</Filename>
+   <Filename>gimp.desktop</Filename>
+   <Filename>gpuvis.desktop</Filename>
+   <Filename>org.kde.gwenview.desktop</Filename>
+   <Filename>displaycal-profile-info.desktop</Filename>
+   <Filename>org.kde.krita.desktop</Filename>
+   <Filename>libreoffice-draw.desktop</Filename>
+   <Filename>org.kde.okular.desktop</Filename>
+   <Filename>displaycal-apply-profiles.desktop</Filename>
+   <Filename>displaycal-scripting-client.desktop</Filename>
+   <Filename>org.kde.skanlite.desktop</Filename>
+   <Filename>displaycal-synthprofile.desktop</Filename>
+   <Filename>displaycal-testchart-editor.desktop</Filename>
+   <Filename>org.mapeditor.Tiled.desktop</Filename>
+   <Filename>displaycal-vrml-to-x3d-converter.desktop</Filename>
+   <Filename>xdvi.desktop</Filename>
+   <Separator/>
+   <Merge type="menus"/>
+   <Menuname>More</Menuname>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>Internet</Name>
+  <Include>
+   <Filename>premid.desktop</Filename>
+   <Filename>com.gitlab.newsflash-2.desktop</Filename>
+  </Include>
+  <Exclude>
+   <Filename>discord-2.desktop</Filename>
+   <Filename>steam-native.desktop</Filename>
+   <Filename>steam.desktop</Filename>
+  </Exclude>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>org.telegram.desktop.desktop</Filename>
+   <Filename>webcatalog-whatsapp.desktop</Filename>
+   <Filename>com.anydesk.Anydesk.desktop</Filename>
+   <Filename>bssh.desktop</Filename>
+   <Filename>bvnc.desktop</Filename>
+   <Filename>chromium.desktop</Filename>
+   <Filename>discord.desktop</Filename>
+   <Filename>firedragon.desktop</Filename>
+   <Filename>io.github.hmlendea.geforcenow-electron.desktop</Filename>
+   <Filename>webcatalog-inoreader.desktop</Filename>
+   <Filename>jdownloader.desktop</Filename>
+   <Filename>org.kde.kdeconnect.app.desktop</Filename>
+   <Filename>org.kde.kdeconnect.sms.desktop</Filename>
+   <Filename>org.kde.ktorrent.desktop</Filename>
+   <Filename>megasync.desktop</Filename>
+   <Filename>modem-manager-gui.desktop</Filename>
+   <Filename>com.gitlab.newsflash-2.desktop</Filename>
+   <Filename>org.kde.kdeconnect_open.desktop</Filename>
+   <Filename>appimagekit_88c3b490ab1041bf207be7b1561270ed-pcloud.desktop</Filename>
+   <Filename>premid.desktop</Filename>
+   <Filename>remote-viewer.desktop</Filename>
+   <Filename>rustdesk.desktop</Filename>
+   <Filename>streamlink-twitch-gui.desktop</Filename>
+   <Merge type="menus"/>
+   <Menuname>Terminal</Menuname>
+   <Filename>urserver.desktop</Filename>
+   <Filename>vivaldi-stable.desktop</Filename>
+   <Filename>webcord.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>Multimedia</Name>
+  <Include>
+   <Filename>spotify-2.desktop</Filename>
+   <Filename>pimpmystremio.desktop</Filename>
+  </Include>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>org.kde.dragonplayer.desktop</Filename>
+   <Filename>echomixer.desktop</Filename>
+   <Filename>envy24control.desktop</Filename>
+   <Filename>hdajackretask.desktop</Filename>
+   <Filename>hdspconf.desktop</Filename>
+   <Filename>hdspmixer.desktop</Filename>
+   <Filename>hwmixvolume.desktop</Filename>
+   <Filename>me.timschneeberger.jdsp4linux.desktop</Filename>
+   <Filename>noisetorch.desktop</Filename>
+   <Filename>org.rncbc.qpwgraph.desktop</Filename>
+   <Filename>sonobus.desktop</Filename>
+   <Filename>spotify.desktop</Filename>
+   <Filename>spotify-2.desktop</Filename>
+   <Filename>audacity.desktop</Filename>
+   <Filename>droidcam.desktop</Filename>
+   <Filename>fr.handbrake.ghb.desktop</Filename>
+   <Filename>org.kde.kamoso.desktop</Filename>
+   <Filename>org.kde.kdenlive.desktop</Filename>
+   <Filename>losslesscut-bin.desktop</Filename>
+   <Filename>mpv.desktop</Filename>
+   <Filename>com.obsproject.Studio.desktop</Filename>
+   <Filename>pavucontrol-qt.desktop</Filename>
+   <Filename>qv4l2.desktop</Filename>
+   <Filename>qvidcap.desktop</Filename>
+   <Filename>streamlink-twitch-gui.desktop</Filename>
+   <Filename>smartcode-stremio.desktop</Filename>
+   <Filename>pimpmystremio.desktop</Filename>
+   <Filename>vlc.desktop</Filename>
+   <Separator/>
+   <Merge type="menus"/>
+   <Menuname>More</Menuname>
+  </Layout>
+  <Exclude/>
+ </Menu>
+ <Menu>
+  <Name>Office</Name>
+  <Include>
+   <Filename>logseq-desktop-2.desktop</Filename>
+  </Include>
+  <Exclude>
+   <Filename>joplin-desktop-2.desktop</Filename>
+  </Exclude>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>webcatalog-gmail.desktop</Filename>
+   <Filename>logseq-desktop.desktop</Filename>
+   <Filename>logseq-desktop-2.desktop</Filename>
+   <Filename>joplin-desktop.desktop</Filename>
+   <Filename>libreoffice-base.desktop</Filename>
+   <Filename>libreoffice-calc.desktop</Filename>
+   <Filename>libreoffice-draw.desktop</Filename>
+   <Filename>libreoffice-impress.desktop</Filename>
+   <Filename>libreoffice-math.desktop</Filename>
+   <Filename>libreoffice-startcenter.desktop</Filename>
+   <Filename>libreoffice-writer.desktop</Filename>
+   <Filename>org.kde.okular.desktop</Filename>
+   <Filename>semantik.desktop</Filename>
+   <Filename>semantik-d.desktop</Filename>
+   <Filename>appimagekit_c71615d150b6cccf90aefde41208b11c-Todoist.desktop</Filename>
+   <Separator/>
+   <Merge type="menus"/>
+   <Menuname>More</Menuname>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>Settingsmenu</Name>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>org.freedesktop.adriconf.desktop</Filename>
+   <Filename>appimagelaunchersettings.desktop</Filename>
+   <Filename>org.corectrl.corectrl.desktop</Filename>
+   <Filename>org.kde.fancontrol.gui.desktop</Filename>
+   <Filename>msm_kde_notifier_settings.desktop</Filename>
+   <Filename>garuda-settings-manager.desktop</Filename>
+   <Filename>org.pipewire.Helvum.desktop</Filename>
+   <Filename>input-remapper.desktop</Filename>
+   <Filename>kvantummanager.desktop</Filename>
+   <Filename>system-config-printer.desktop</Filename>
+   <Filename>rp-config.desktop</Filename>
+   <Filename>sc-controller.desktop</Filename>
+   <Filename>systemsettings.desktop</Filename>
+   <Filename>yad-settings.desktop</Filename>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>System</Name>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>Alacritty.desktop</Filename>
+   <Filename>avahi-discover.desktop</Filename>
+   <Filename>btop.desktop</Filename>
+   <Filename>btrfs-assistant.desktop</Filename>
+   <Filename>org.gnome.ColorProfileViewer.desktop</Filename>
+   <Filename>org.corectrl.corectrl.desktop</Filename>
+   <Filename>org.kde.drkonqi.coredump.gui.desktop</Filename>
+   <Filename>ca.desrt.dconf-editor.desktop</Filename>
+   <Filename>org.kde.discover.desktop</Filename>
+   <Filename>org.kde.dolphin.desktop</Filename>
+   <Filename>org.kde.fancontrol.gui.desktop</Filename>
+   <Filename>fish.desktop</Filename>
+   <Filename>garuda-assistant.desktop</Filename>
+   <Filename>garuda-boot-options.desktop</Filename>
+   <Filename>garuda-gamer.desktop</Filename>
+   <Filename>garuda-network-assistant.desktop</Filename>
+   <Filename>garuda-system-maintenance-settings.desktop</Filename>
+   <Filename>garuda-welcome.desktop</Filename>
+   <Filename>gsmartcontrol.desktop</Filename>
+   <Filename>lstopo.desktop</Filename>
+   <Filename>htop.desktop</Filename>
+   <Filename>org.kde.kinfocenter.desktop</Filename>
+   <Filename>org.kde.partitionmanager.desktop</Filename>
+   <Filename>org.kde.kdf.desktop</Filename>
+   <Filename>org.kde.konsole.desktop</Filename>
+   <Filename>org.kde.ksysguard.desktop</Filename>
+   <Filename>org.kde.ksystemlog.desktop</Filename>
+   <Filename>org.kde.kwalletmanager5.desktop</Filename>
+   <Filename>org.kde.kwikdisk.desktop</Filename>
+   <Filename>libinput-gestures-qt.desktop</Filename>
+   <Filename>cups.desktop</Filename>
+   <Filename>megasync.desktop</Filename>
+   <Filename>org.kde.kmenuedit.desktop</Filename>
+   <Filename>modem-manager-gui.desktop</Filename>
+   <Filename>octopi.desktop</Filename>
+   <Filename>octopi-cachecleaner.desktop</Filename>
+   <Filename>jconsole-java-openjdk.desktop</Filename>
+   <Filename>jshell-java-openjdk.desktop</Filename>
+   <Filename>ar.com.softwareperonista.Pace.desktop</Filename>
+   <Filename>phoronix-test-suite.desktop</Filename>
+   <Filename>system-config-printer.desktop</Filename>
+   <Filename>qjournalctl.desktop</Filename>
+   <Filename>qwikaccess.desktop</Filename>
+   <Filename>radeon-profile.desktop</Filename>
+   <Filename>reboot-to-uefi.desktop</Filename>
+   <Filename>reflector-simple.desktop</Filename>
+   <Filename>rp-config.desktop</Filename>
+   <Merge type="menus"/>
+   <Menuname>ScreenSavers</Menuname>
+   <Filename>setup-assistant.desktop</Filename>
+   <Filename>snapper-tools.desktop</Filename>
+   <Filename>suspend-then-hibernate.desktop</Filename>
+   <Filename>org.kde.plasma-systemmonitor.desktop</Filename>
+   <Menuname>Terminal</Menuname>
+   <Filename>uxterm.desktop</Filename>
+   <Filename>virt-manager.desktop</Filename>
+   <Filename>wihotspot.desktop</Filename>
+   <Filename>xterm.desktop</Filename>
+   <Separator/>
+   <Menuname>More</Menuname>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>wine-wine</Name>
+  <Menu>
+   <Name>wine-Programs</Name>
+   <Menu>
+    <Name>wine-Programs-Accessories</Name>
+    <Layout>
+     <Merge type="files"/>
+     <Filename>wine-notepad.desktop</Filename>
+    </Layout>
+   </Menu>
+   <Menu>
+    <Name>wine-Programs-Ubisoft</Name>
+    <Menu>
+     <Name>wine-Programs-Ubisoft-Ubisoft Connect</Name>
+     <Layout>
+      <Merge type="files"/>
+      <Filename>wine-Programs-Ubisoft-Ubisoft Connect-Ubisoft Connect.desktop</Filename>
+      <Filename>wine-Programs-Ubisoft-Ubisoft Connect-Uninstall.desktop</Filename>
+     </Layout>
+    </Menu>
+    <Layout>
+     <Merge type="menus"/>
+     <Menuname>wine-Programs-Ubisoft-Ubisoft Connect</Menuname>
+    </Layout>
+   </Menu>
+   <Menu>
+    <Name>wine-Programs-Cheat Engine 7.4</Name>
+    <Deleted/>
+   </Menu>
+   <Menu>
+    <Name>wine-Programs-PlayStation Plus</Name>
+    <Layout>
+     <Merge type="files"/>
+     <Filename>wine-Programs-PlayStation Plus-PlayStation Plus.desktop</Filename>
+    </Layout>
+    <Deleted/>
+   </Menu>
+   <Menu>
+    <Name>wine-Programs-PlayStationPlus</Name>
+    <Layout>
+     <Merge type="files"/>
+     <Filename>wine-Programs-PlayStationPlus-PlayStation Plus.desktop</Filename>
+    </Layout>
+    <Exclude>
+     <Filename>wine-Programs-PlayStationPlus-PlayStation Plus.desktop</Filename>
+    </Exclude>
+    <Deleted/>
+   </Menu>
+   <Menu>
+    <Name>wine-Programs-Playnite</Name>
+    <Deleted/>
+   </Menu>
+   <Layout>
+    <Merge type="menus"/>
+    <Menuname>wine-Programs-Accessories</Menuname>
+    <Menuname>wine-Programs-Far Manager 3 (x64)</Menuname>
+    <Menuname>wine-Programs-Ubisoft</Menuname>
+   </Layout>
+  </Menu>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>wine-browsedrive.desktop</Filename>
+   <Filename>wine-winecfg.desktop</Filename>
+   <Merge type="menus"/>
+   <Menuname>wine-Programs</Menuname>
+   <Filename>wine-uninstaller.desktop</Filename>
+   <Filename>Playnite--Playnite--1669421369.708851.desktop</Filename>
+  </Layout>
+  <Include>
+   <Filename>Playnite--Playnite--1669421369.708851.desktop</Filename>
+  </Include>
+ </Menu>
+ <Menu>
+  <Name>Applications</Name>
+  <Exclude>
+   <Filename>ghidra.desktop</Filename>
+   <Filename>premid.desktop</Filename>
+   <Filename>apk_preview.desktop</Filename>
+   <Filename>hp-uiscan.desktop</Filename>
+   <Filename>Playnite--Playnite--1669421369.708851.desktop</Filename>
+   <Filename>DualSense FW Update--FWupdater--1663714083.080093.desktop</Filename>
+  </Exclude>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>appimagekit_099186df536421ceb67b6c657ec9effe-Raven_Reader.desktop</Filename>
+   <Filename>vrrtest.desktop</Filename>
+   <Filename>Waydroid.desktop</Filename>
+  </Layout>
+ </Menu>
+ <Menu>
+  <Name>.hidden</Name>
+  <Include>
+   <Filename>appimagekit_a95b0372c044dea3017ce471291894e1-App_Outlet-2.desktop</Filename>
+   <Filename>code-oss-2.desktop</Filename>
+   <Filename>joplin-desktop-2.desktop</Filename>
+   <Filename>discord-2.desktop</Filename>
+   <Filename>balena-etcher-electron-2.desktop</Filename>
+   <Filename>appimagekit_be41420693003f7379a1e4aebbfbd7af-XCloud-2.desktop</Filename>
+   <Filename>bitwarden-2.desktop</Filename>
+   <Filename>steam-3.desktop</Filename>
+   <Filename>steam-native-3.desktop</Filename>
+   <Filename>steam-native.desktop</Filename>
+   <Filename>steam.desktop</Filename>
+   <Filename>GameJolt.desktop</Filename>
+   <Filename>steam-native-2.desktop</Filename>
+   <Filename>steam-2.desktop</Filename>
+   <Filename>wine-Programs-PlayStationPlus-PlayStation Plus.desktop</Filename>
+   <Filename>steam-6.desktop</Filename>
+  </Include>
+ </Menu>
+ <Include>
+  <Filename>DualSense FW Update--FWupdater--1663714083.080093.desktop</Filename>
+  <Filename>Playnite.desktop</Filename>
+  <Filename>Vortex Mod Manager.desktop</Filename>
+ </Include>
+ <Menu>
+  <Name>Internet-2</Name>
+  <NotDeleted/>
+ </Menu>
+ <Move>
+  <Old>Internet</Old>
+  <New>Internet-2</New>
+ </Move>
+ <Layout>
+  <Merge type="files"/>
+  <Filename>Vortex Mod Manager.desktop</Filename>
+  <Filename>Playnite.desktop</Filename>
+  <Merge type="menus"/>
+  <Menuname>Development</Menuname>
+  <Menuname>Education</Menuname>
+  <Menuname>Games</Menuname>
+  <Menuname>Graphics</Menuname>
+  <Menuname>Internet-2</Menuname>
+  <Menuname>Multimedia</Menuname>
+  <Menuname>Office</Menuname>
+  <Menuname>Science</Menuname>
+  <Menuname>Settingsmenu</Menuname>
+  <Menuname>System</Menuname>
+  <Menuname>Utilities</Menuname>
+  <Menuname>wine-wine</Menuname>
+  <Menuname>Applications</Menuname>
+  <Filename>DualSense FW Update--FWupdater--1663714083.080093.desktop</Filename>
+  <Filename>org.kde.khelpcenter.desktop</Filename>
+ </Layout>
+ <Exclude>
+  <Filename>pimpmystremio.desktop</Filename>
+ </Exclude>
+</Menu>
