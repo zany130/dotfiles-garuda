@@ -1,0 +1,7 @@
+system:
+  gamescope: true
+  gamescope_game_res: 3840x2160
+  gamescope_output_res: 3840x2160
+  locale: ''
+  mangohud: true
+  sdl_video_fullscreen: '2'
