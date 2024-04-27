@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" dbusName="dolphin" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks">
+ <bookmark href="file:///mnt/GAMES/Games">
+  <title>Games</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/zany130/.local/share/Steam/steamapps/common/Tales%20of%20Arise/Arise/Binaries/Win64">
+  <title>Win64</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="inode-directory"/>
+   </metadata>
+  </info>
+ </bookmark>
+</xbel>

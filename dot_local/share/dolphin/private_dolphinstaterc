@@ -1,0 +1,24 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/,file:$HOME/Downloads/Compressed/
+
+[Open-with settings]
+CompletionMode=1
+History=blend,code,kate
+
+[SettingsDialog]
+3 screens: Height=547
+3 screens: Width=540
+3 screens: Window-Maximized=true
+
+[State]
+2 screens: Height=822
+2 screens: Width=1018
+2048x864 screen: Window-Maximized=true
+3 screens: Height=782
+3 screens: Width=1010
+3 screens: XPosition=8063
+3 screens: YPosition=1743
+DP-1 DP-2 HDMI-A-2=DP-1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAEgAAACsvwCAAAAAvsAAAAUAHAAbABhAGMAZQBzAEQAbwBjAGsBAAAAKgAAAN4AAABTAP////sAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawEAAAEMAAAB0AAAAEwA////AAAAAQAAALIAAAKy/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAACoAAAKyAAABBAD///8AAAADAAAD8gAAAC78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAAD8gAAAIcA////AAACGAAAArIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=

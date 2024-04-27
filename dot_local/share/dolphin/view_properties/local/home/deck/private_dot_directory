@@ -1,0 +1,10 @@
+[Dolphin]
+SortHiddenLast=true
+SortRole=modificationtime
+Timestamp=2023,12,9,16,43,57.53
+Version=4
+ViewMode=1
+VisibleRoles=Details_text,Details_size,Details_modificationtime,Details_type,Details_destination,Details_creationtime,Details_accesstime,Details_owner,Details_permissions,CustomizedDetails
+
+[Settings]
+HiddenFilesShown=true
