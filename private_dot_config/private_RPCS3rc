@@ -1,0 +1,8 @@
+[FileDialogSize]
+3 screens: Height=564
+3 screens: Width=834
+
+[KFileDialog Settings]
+Recent Files[$e]=PS3UPDAT.PUP,file:///mnt/GAMES/Emulation/bios/PS3UPDAT.PUP
+Recent URLs[$e]=file:///mnt/GAMES/Emulation/bios/
+detailViewIconSize=16

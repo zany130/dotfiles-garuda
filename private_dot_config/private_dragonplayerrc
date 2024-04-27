@@ -1,0 +1,869 @@
+[General]
+BrowserApplication[$d]
+ColorScheme[$d]
+ColorSchemeHash[$d]
+File1[$e]=$HOME/Documents/GitHub/Game-dev/simplescreenrecorder-2022-02-27_13.36.32.mp4
+File10[$e]=$HOME/Videos/Kooha/Kooha-2024-03-30-19-16-00.webm
+File2[$e]=$HOME/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-06_17.24.07.mp4
+File3[$e]=$HOME/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-06_17.37.47.mp4
+File4[$e]=$HOME/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-18_17.48.04.mp4
+File5[$e]=$HOME/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-23_17.56.00.mp4
+File6[$e]=/mnt/GAMES/Videos/Recordings/2024-01-19_19-17-25.mp4
+File7[$e]=/mnt/GAMES/Videos/Recordings/2024-02-18_20-17-42.mkv
+File8[$e]=/mnt/GAMES/Videos/Recordings/2024-03-30_18-56-17.mkv
+File9[$e]=$HOME/Videos/Kooha-2024-03-30-19-08-36-00.00.18.423-00.01.16.800.webm
+Name1[$e]=simplescreenrecorder-2022-02-27_13.36.32.mp4
+Name10[$e]=Kooha-2024-03-30-19-16-00.webm
+Name2[$e]=simplescreenrecorder-2022-03-06_17.24.07.mp4
+Name3[$e]=simplescreenrecorder-2022-03-06_17.37.47.mp4
+Name4[$e]=simplescreenrecorder-2022-03-18_17.48.04.mp4
+Name5[$e]=simplescreenrecorder-2022-03-23_17.56.00.mp4
+Name6[$e]=2024-01-19_19-17-25.mp4
+Name7[$e]=2024-02-18_20-17-42.mkv
+Name8[$e]=2024-03-30_18-56-17.mkv
+Name9[$e]=Kooha-2024-03-30-19-08-36-00.00.18.423-00.01.16.800.webm
+TimeFormat=1
+Volume=0.896835456092297
+XftHintStyle[$d]
+XftSubPixel[$d]
+fixed[$d]
+font[$d]
+menuFont[$d]
+smallestReadableFont[$d]
+toolBarFont[$d]
+
+[MainWindow]
+3 screens: Height=811
+3 screens: Width=1012
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=816
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=1015
+DP-1 HDMI-A-1 Height 2048x864 DP-1=830
+DP-1 HDMI-A-1 Width 2048x864 DP-1=2048
+State=AAAA/wAAAAD9AAAAAQAAAAEAAABIAAAA0PwCAAAAAfsAAAAWAHYAbwBsAHUAbQBlAF8AZABvAGMAawEAAAAqAAAA0AAAAAAAAAAAAAAD9AAAAuYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Phonon::AudioOutput]
+Dragon Player_Volume=0.896835456092297
+
+[file:///home/zany130/Documents/GitHub/Game-dev/2D-RPG.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=2893
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-10-08_19.45.48.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=19740
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-10-10_17.07.14.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=15765
+Preferred Size=2048,761
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-10-16_17.54.26.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=37892
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-10-16_17.57.25.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=12155
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-10-16_18.08.37.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=1020,750
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-10-24_22.32.44.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=14864
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-10-28_21.09.12.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=35582
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-06_18.43.17.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=1020,750
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-06_18.46.04.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=14266
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-07_12.23.45.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=30008
+Preferred Size=2048,761
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-07_12.27.35 2.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=33295
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-07_12.27.35.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=12088
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-07_20.25.21.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=51779
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-13_17.26.44 2.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-13_17.31.41.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=17438
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-27_17.50.02.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=51711
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-11-30_14.04.08.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=29258
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-12-01_16.20.18.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=25987
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2021-12-12_14.59.27.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=1020,750
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-01-28_14.12.50.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=24111
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-01-28_15.01.55.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=17813
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-01-30_15.36.59.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=50190
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-02-04_14.32.39.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=42465
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-02-11_16.50.57.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=25298
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-02-11_17.31.24.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-02-13_17.36.18.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=41654
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-02-20_12.52.37.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=42350
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-02-27_13.36.32.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=39255
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-06_17.24.07.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=37542
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-06_17.37.47.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=57682
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-18_16.16.33.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=253549
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-18_17.36.36.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=16384
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-18_17.48.04.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=1020,750
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-23_17.56.00.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=1020,750
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-26_16.18.23.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=34090
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-03-26_16.44.22.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=1020,750
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-04-01_19.31.26.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=1020,750
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-04-01_19.33.01.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=37634
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-04-03_15.40.25.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=2048,761
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-04-03_15.50.41.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=44746
+Preferred Size=2048,761
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-04-08_15.35.09.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-04-08_15.43.32.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=28307
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-04-08_16.54.08.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=24372
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Documents/GitHub/Game-dev/simplescreenrecorder-2022-04-25_15.25.40.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=18759
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Downloads/209000957-e31aadef-cd8b-4517-9fdb-f81f98096e1f.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Position=4180
+Preferred Size=1365,479
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/OneDrive/OneDrive_DFG_Production/Recordings/Fishbowl Vs. Physical Counts-20231027_111825-Meeting Recording.mp4]
+Brightness=0
+Contrast=0
+Date=2023,10,27
+Hue=0
+IsVideo=true
+Position=2110
+Preferred Size=1020,336
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/Videos/Kooha-2024-03-30-19-08-36-00.00.18.423-00.01.16.800.webm]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,3,30
+Hue=0
+IsVideo=true
+Position=17860
+Preferred Size=692,441
+Saturation=0
+
+[file:///home/zany130/Videos/Kooha/Kooha-2024-03-30-19-16-00.webm]
+Brightness=0
+Contrast=0
+Date=2024,3,30
+Hue=0
+IsVideo=true
+Preferred Size=692,441
+Saturation=0
+
+[file:///home/zany130/pCloudDrive/RecordingsOLD/2023-05-21 19-09-16.mkv]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=21274
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///home/zany130/pCloudDrive/RecordingsOLD/Replay 2023-03-30 17-33-00.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,2
+Hue=0
+IsVideo=true
+Position=1472
+Preferred Size=1020,750
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 15-51-04.mkv]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Preferred Size=1015,479
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 15-51-04.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=false
+Preferred Size=1365,479
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 15-53-11.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Position=8741
+Preferred Size=1365,479
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 15-59-25.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Preferred Size=1015,306
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 15-59-54.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Preferred Size=1365,479
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 16-00-26.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Preferred Size=1365,479
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 16-07-12.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Preferred Size=1015,167
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 16-08-07.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Preferred Size=1365,479
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 16-10-11.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Preferred Size=1365,479
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 16-10-54.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Position=2677
+Preferred Size=1365,479
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2022-12-21 16-14-34.mp4]
+Brightness=0
+Contrast=0
+Date=2022,12,21
+Hue=0
+IsVideo=true
+Position=3737
+Preferred Size=1015,167
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-01-29 09-42-31.mp4]
+Brightness=0
+Contrast=0
+Date=2023,1,29
+Hue=0
+IsVideo=false
+Preferred Size=1015,721
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-02-06 21-40-34.mkv]
+Brightness=0
+Contrast=0
+Date=2023,2,6
+Hue=0
+IsVideo=true
+Position=568666
+Preferred Size=1015,719
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-02-06 22-34-55.mkv]
+Brightness=0
+Contrast=0
+Date=2023,2,6
+Hue=0
+IsVideo=true
+Position=623270
+Preferred Size=1015,719
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-04-16 11-34-12.mp4]
+Brightness=0
+Contrast=0
+Date=2023,9,5
+Hue=0
+IsVideo=true
+Position=11438
+Preferred Size=1020,338
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-05-21 19-09-16.mkv]
+Brightness=0
+Contrast=0
+Date=2023,9,5
+Hue=0
+IsVideo=true
+Position=4512
+Preferred Size=1020,338
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-08-13 00-03-04.mkv]
+Brightness=0
+Contrast=0
+Date=2023,9,5
+Hue=0
+IsVideo=false
+Preferred Size=1020,338
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-08-13 00-03-04.mp4]
+Brightness=0
+Contrast=0
+Date=2023,9,5
+Hue=0
+IsVideo=false
+Preferred Size=1020,338
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-09-05 20-38-12.mp4]
+Brightness=0
+Contrast=0
+Date=2023,9,5
+Hue=0
+IsVideo=false
+Preferred Size=1020,338
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/2023-12-20_19-15-30.mp4]
+Brightness=0
+Contrast=0
+Date=2023,12,20
+Hue=0
+IsVideo=true
+Preferred Size=2048,761
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/2024-01-19_19-17-25.mp4]
+Brightness=0
+Contrast=0
+Date=2024,1,19
+Hue=0
+IsVideo=false
+Preferred Size=2048,761
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/2024-02-18_20-17-42.mkv]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,2,18
+Hue=0
+IsVideo=true
+Position=850
+Preferred Size=1012,742
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/2024-03-30_18-56-17.mkv]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2024,3,30
+Hue=0
+IsVideo=true
+Position=29100
+Preferred Size=692,441
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/Replay 2023-01-04 01-08-52.mkv]
+Brightness=0
+Contrast=0
+Date=2023,1,4
+Hue=0
+IsVideo=true
+Position=3771
+Preferred Size=1015,479
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/Replay 2023-01-04 01-08-52.mp4]
+Brightness=0
+Contrast=0
+Date=2023,1,4
+Hue=0
+IsVideo=true
+Position=111361
+Preferred Size=2048,733
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/Replay 2023-01-04 01-09-27.mkv]
+Brightness=0
+Contrast=0
+Date=2023,1,4
+Hue=0
+IsVideo=true
+Position=257636
+Preferred Size=1015,306
+Saturation=0
+Subtitle=0
+
+[file:///mnt/GAMES/Videos/Recordings/Replay 2023-02-06 21-34-24.mkv]
+Brightness=0
+Contrast=0
+Date=2023,2,6
+Hue=0
+IsVideo=false
+Position=0
+Preferred Size=1024,479
+Saturation=0
+
+[file:///mnt/GAMES/Videos/Recordings/Replay_2023-12-20_20-04-34.mkv]
+Brightness=0
+Contrast=0
+Date=2023,12,20
+Hue=0
+IsVideo=false
+Preferred Size=1396,716
+Saturation=0

@@ -1,0 +1,59 @@
+[Desktop Entry]
+FullScreen=false
+
+[FileDialogSize]
+3 screens: Height=594
+3 screens: Width=1042
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=Formulations 13% Solids  Since 08-11-23.pdf,file:$HOME/Downloads/Formulations 13%25 Solids  Since 08-11-23.pdf
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+2 screens: Height=845
+2 screens: Width=756
+3 screens: Height=397
+3 screens: Width=1012
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=576
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=1024
+DP-1 HDMI-A-1 Height 1536x864=832
+DP-1 HDMI-A-1 Height 2048x864=816
+DP-1 HDMI-A-1 Height 2048x864 DP-1=830
+DP-1 HDMI-A-1 Height 3840x2160=2090
+DP-1 HDMI-A-1 Width 1536x864=1520
+DP-1 HDMI-A-1 Width 2048x864=1006
+DP-1 HDMI-A-1 Width 2048x864 DP-1=2048
+DP-1 HDMI-A-1 Width 3840x2160=1908
+DisplayPort-0 HDMI-A-0 Height 2560x1080=700
+DisplayPort-0 HDMI-A-0 Width 2560x1080=1536
+DisplayPort-0 HDMI-A-0 XPosition 2560x1080=4352
+DisplayPort-0 HDMI-A-0 YPosition 2560x1080=217
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/OneDrive/CH-Permafrost-Miami.pdf
+File10[$e]=$HOME/Documents/output.pdf
+File2[$e]=$HOME/.git/Vencord/docs/2_PLUGINS.md
+File3[$e]=$HOME/.git/Vencord/README.md
+File4[$e]=$HOME/pCloudDrive/LogSec/journals/2024_02_26.md
+File5[$e]=$HOME/Downloads/Sandwich Restage 10 18 23.pdf
+File6[$e]=$HOME/OneDrive/Dad/Sandwich Restage 10 18 23.pdf
+File7[$e]=$HOME/OneDrive/SharePoint_deliciosafoodgroup.com_Documents/Fishbowl Reports/Production Reports/2024/BJ-VAN-SQ/WorkOrderConsumption/3-14-24-WOC.pdf
+File8[$e]=$HOME/OneDrive/SharePoint_deliciosafoodgroup.com_Documents/Fishbowl Reports/Production Reports/2024/Yasso/CC/WorkOrderReports/03-20-24-WO.pdf
+File9[$e]=$HOME/Downloads/d4767661420e42e288eb0be05044c31b.pdf
+Name1[$e]=CH-Permafrost-Miami.pdf
+Name10[$e]=output.pdf
+Name2[$e]=2_PLUGINS.md
+Name3[$e]=README.md
+Name4[$e]=2024_02_26.md
+Name5[$e]=Sandwich Restage 10 18 23.pdf
+Name6[$e]=Sandwich Restage 10 18 23.pdf
+Name7[$e]=3-14-24-WOC.pdf
+Name8[$e]=03-20-24-WO.pdf
+Name9[$e]=d4767661420e42e288eb0be05044c31b.pdf

@@ -1,0 +1,8 @@
+[FileDialogSize]
+3 screens: Height=1439
+3 screens: Width=2833
+
+[KFileDialog Settings]
+Recent Files[$e]=-------------------PV-FULLver.mp3,file:$HOME/Music/-------------------PV-FULLver.mp3
+Recent URLs[$e]=file:$HOME/Music/
+detailViewIconSize=16

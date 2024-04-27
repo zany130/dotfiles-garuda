@@ -1,0 +1,19 @@
+[DrKonqi]
+Sentry=true
+
+[FileDialogSize]
+DP-1 HDMI-A-1 Height 2048x864 DP-1=818
+DP-1 HDMI-A-1 Width 2048x864 DP-1=1015
+
+[General]
+DP-1 HDMI-A-1 Height 2560x1080=1080
+DP-1 HDMI-A-1 Width 2560x1080=2560
+DP-1 HDMI-A-1 Window-Maximized 2048x864=true
+DisplayPort-0 HDMI-A-0 Height 2048x864=384
+DisplayPort-0 HDMI-A-0 Width 2048x864=682
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[SystemInformation]
+CompiledSources=false

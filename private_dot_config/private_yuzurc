@@ -1,0 +1,10 @@
+[FileDialogSize]
+2 screens: Height=590
+2 screens: Width=1060
+3 screens: Height=564
+3 screens: Width=1183
+
+[KFileDialog Settings]
+Recent Files[$e]=Process of Elimination (DEMO) [01007F6019E2A000][v0][US].nsp,file:$HOME/Emulation/Amiibo Bins/Animal Crossing Amiibo/Happy Home Designer Items/[HHD] Items - 01.bin,file:///mnt/GAMES/Emulation/DLC/NSW/Master Detective Archives_ RAIN CODE v327680 (0100149019460800) (UPD).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/Master Detective Archives_ RAIN CODE v0 (0100149019461001) (DLC).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/Master Detective Archives_ RAIN CODE v0 (0100149019461002) (DLC).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/Master Detective Archives_ RAIN CODE v0 (0100149019461003) (DLC).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/Master Detective Archives_ RAIN CODE v0 (0100149019461004) (DLC).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/Hyrule Warriors_ Age of Calamity v327680 (01002B00111A2800) (UPD).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/FINAL_FANTASY_X_X-2_HD_Remamster_DLC.nsp,file:///mnt/GAMES/Emulation/DLC/NSW/FINAL FANTASY XII THE ZODIAC AGE v65536 (0100EB100AB42800) (UPD).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/FINAL FANTASY X_X-2 HD Remaster v65536 (0100BC300CB49002) (DLC).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/Earthlock v196608 (01006E50042EA800) (UPD).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/Doki Doki Literature Club Plus v262144 (010086901543E800) (UPD).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/CLANNAD v458752 (0100A3A00CC7E800) (UPD).nsp,file:///mnt/GAMES/Emulation/DLC/NSW/Blaster Master Zero v589824 (0100225000FEE800) (UPD).nsp
+Recent URLs[$e]=file:$HOME/Documents/,file:///mnt/GAMES/Games/DLC+Updates/NSW/,file:$HOME/,file:///mnt/GAMES/Games/DLC+Updates/,file:///mnt/GAMES/Emulation/roms/switch/,file:///mnt/GAMES/Emulation/DLC/NSW/,file:$HOME/Pictures/,file:///mnt/GAMES/Emulation/DLC/,file:///mnt/GAMES/,file:$HOME/Emulation/Amiibo Bins/Animal Crossing Amiibo/Happy Home Designer Items/
+detailViewIconSize=16

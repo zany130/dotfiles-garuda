@@ -1,0 +1,4 @@
+[KFileDialog Settings]
+Recent Files[$e]=trace.dat,file:$HOME/trace.dat
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16

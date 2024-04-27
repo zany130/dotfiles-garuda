@@ -1,0 +1,13 @@
+[Audio Preview Settings]
+Autoplay=false
+
+[FileDialogSize]
+3 screens: Height=564
+3 screens: Width=834
+DP-1 HDMI-A-1 Window-Maximized 1536x864=true
+DP-1 HDMI-A-1 Window-Maximized 2048x864=true
+
+[KFileDialog Settings]
+Recent Files[$e]=ed8_3_PC.exe,file:///usr/bin/gamescope,file:///usr/bin/mangohud,file:$HOME/.config/steamtinkerlaunch/games/pev/peres/title/The Legend of Heroes Trails into Reverie/resources/icons/5.ico,file:$HOME/.local/share/Steam/steamapps/common/The Legend of Heroes Trails into Reverie/bin/Win64/hnk.exe,file:///opt/ryujinx/Ryujinx,file:///opt/ryujinx/Ryujinx.Ava,file:///bin/sh,file:///opt/ryujinx/libglfw.so.3.3,file:///opt/ryujinx/libavutil.so.57,file:///opt/ryujinx/libSDL2.so,file:///opt/ryujinx/Ryujinx.SDL2.Common.dll.config,file:///opt/ryujinx/Ryujinx.sh,file:///usr/bin/gamemoderun,file:///usr/bin/gamemoded
+Recent URLs[$e]=file:$HOME/Desktop/The Legend of Heroes Trails of Cold Steel IV/bin/Win64/,file:$HOME/.local/share/Steam/steamapps/common/Tales of Arise/Arise/Binaries/Win64/,file:$HOME/.config/steamtinkerlaunch/games/pev/peres/title/Tales of Arise/resources/icons/,file:$HOME/,file:///usr/share/icons/candy-icons/apps/scalable/,file:$HOME/Documents/,file:///,file:$HOME/.local/share/Steam/steamapps/common/The Legend of Heroes Trails into Reverie/bin/Win64/,file:$HOME/.config/steamtinkerlaunch/games/pev/peres/title/The Legend of Heroes Trails into Reverie/resources/icons/,file:///usr/bin/
+detailViewIconSize=16

@@ -1,0 +1,8 @@
+[FileDialogSize]
+3 screens: Height=564
+3 screens: Width=1042
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/myCommands.ini,file:$HOME/pCloudDrive/CopyQ/Garuda.cpq
+Recent URLs[$e]=file:$HOME/,file:$HOME/Documents/,file:$HOME/pCloudDrive/CopyQ/
+detailViewIconSize=16

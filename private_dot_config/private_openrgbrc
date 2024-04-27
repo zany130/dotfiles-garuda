@@ -1,0 +1,11 @@
+[Audio Preview Settings]
+Autoplay=false
+
+[FileDialogSize]
+3 screens: Height=564
+3 screens: Width=1042
+
+[KFileDialog Settings]
+Recent Files[$e]=libOpenRGBEffectsPlugin.so.1.0.0,file:$HOME/Downloads/libOpenRGBSkinPlugin.so.1.0.0,file:$HOME/.config/OpenRGB/plugins/libOpenRGBSkinPlugin.so.1.0.0
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/.config/OpenRGB/plugins/
+detailViewIconSize=16

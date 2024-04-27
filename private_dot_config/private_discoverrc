@@ -1,0 +1,16 @@
+[DiscoverUI]
+appsListPageSorting=276
+installedPageSorting=276
+
+[FlatpakSources]
+Sources=flathub,flathub,flathub-beta
+
+[ResourcesModel]
+currentApplicationBackend=flatpak-backend
+
+[Software]
+UseOfflineUpdates=true
+
+[Window]
+geometry=2932,572,1018,822
+visibility=2

@@ -1,0 +1,58 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:move-content-display
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[ExtractDialog]
+3 screens: Height=822
+3 screens: Width=1018
+DirHistory[$e]=$HOME/
+
+[FileDialogSize]
+3 screens: Height=832
+3 screens: Width=1536
+
+[FoldersPanel]
+HiddenFilesShown=true
+
+[General]
+AutoExpandFolders=true
+BrowseThroughArchives=true
+EditableUrl=true
+GlobalViewProps=false
+OpenExternallyCalledFolderInNewTab=true
+ShowFullPath=true
+ShowToolTips=true
+Version=202
+ViewPropsTimestamp=2023,3,3,19,53,20.559
+
+[IconsMode]
+PreviewSize=112
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+2 screens: Height=475
+2 screens: Width=416
+3 screens: Height=564
+3 screens: Width=578
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=693
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=533
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=apkthumbnail,appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,mobithumbnail,opendocumentthumbnail,gsthumbnail,quithumbnail,rawthumbnail,svgthumbnail,textthumbnail,ffmpegthumbs
+
+[VersionControl]
+enabledPlugins=Git
+
+[ViewPropertiesDialog]
+3 screens: Height=738
+3 screens: Width=367
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=589
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=362

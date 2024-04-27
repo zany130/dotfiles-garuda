@@ -1,0 +1,98 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[FileDialogSize]
+3 screens: Height=594
+3 screens: Width=882
+
+[FullScreen]
+FullScreenModeActive=true
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+Recent Files[$e]=file:$HOME/Pictures/exophase-favicon.png,file:$HOME/Pictures/Vivaldi Captures/2024-03-01 14.04.09 netorgft6936187-my.sharepoint.com fc5148adbf10.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Pictures/Vivaldi Captures/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+3 screens: Height=544
+3 screens: Width=589
+DP-1 HDMI-A-1 Height 2048x864=534
+DP-1 HDMI-A-1 Height 2048x864 DP-1=513
+DP-1 HDMI-A-1 Width 2048x864=371
+DP-1 HDMI-A-1 Width 2048x864 DP-1=369
+
+[MainWindow]
+3 screens: Height=695
+3 screens: Width=756
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=749
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=640
+DP-1 HDMI-A-1 HDMI-A-2 Window-Maximized 2048x864 DP-1=true
+DP-1 HDMI-A-1 Height 1536x864=832
+DP-1 HDMI-A-1 Height 1707x960=924
+DP-1 HDMI-A-1 Height 2048x864=816
+DP-1 HDMI-A-1 Height 2048x864 DP-1=818
+DP-1 HDMI-A-1 Height 3840x2160=2090
+DP-1 HDMI-A-1 Width 1536x864=756
+DP-1 HDMI-A-1 Width 1707x960=1691
+DP-1 HDMI-A-1 Width 2048x864=2026
+DP-1 HDMI-A-1 Width 2048x864 DP-1=1015
+DP-1 HDMI-A-1 Width 3840x2160=3824
+DP-1 HDMI-A-1 Window-Maximized 2560x1080=true
+DisplayPort-0 HDMI-A-0 Height 2048x864=707
+DisplayPort-0 HDMI-A-0 Height 2560x1080=1022
+DisplayPort-0 HDMI-A-0 Height 3840x2160=2064
+DisplayPort-0 HDMI-A-0 Width 2048x864=1006
+DisplayPort-0 HDMI-A-0 Width 2560x1080=2534
+DisplayPort-0 HDMI-A-0 Width 3840x2160=3814
+DisplayPort-0 HDMI-A-0 XPosition 2048x864=1032
+DisplayPort-0 HDMI-A-0 XPosition 2560x1080=14
+DisplayPort-0 HDMI-A-0 XPosition 3840x2160=2739
+DisplayPort-0 HDMI-A-0 YPosition 2048x864=453
+DisplayPort-0 HDMI-A-0 YPosition 2560x1080=46
+DisplayPort-0 HDMI-A-0 YPosition 3840x2160=84
+HDMI-A-0 DisplayPort-0 Height 2048x864=840
+HDMI-A-0 DisplayPort-0 Width 2048x864=2048
+HDMI-A-0 DisplayPort-0 Window-Maximized 2048x864=true
+HDMI-A-0 DisplayPort-0 XPosition 2048x864=11
+HDMI-A-0 DisplayPort-0 YPosition 2048x864=34
+HDMI-A-1 DP-1 Height 2048x864 DP-1=818
+HDMI-A-1 DP-1 Width 2048x864 DP-1=1015
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Screenshots/1668540_20231209171123_1.png
+File10[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/pd80_bluenoise_rgba.png
+File2[$e]=/usr/share/wallpapers/garuda-wallpapers/Cinnamon SGS.png
+File3[$e]=$HOME/Pictures/Screenshot_20240121.png
+File4[$e]=$HOME/report
+File5[$e]=$HOME/Pictures/Screenshot_Fishbowl Client - Deliciosa Food Group (production)_1.png
+File6[$e]=$HOME/Pictures/Vivaldi Captures/2024-03-01 14.04.09 netorgft6936187-my.sharepoint.com fc5148adbf10.png
+File7[$e]=/run/media/zany130/Medicat/autorun.ico
+File8[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/Overlay.png
+File9[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/P3R_lut.png
+Name1[$e]=1668540_20231209171123_1.png
+Name10[$e]=pd80_bluenoise_rgba.png
+Name2[$e]=Cinnamon SGS.png
+Name3[$e]=Screenshot_20240121.png
+Name4[$e]=report
+Name5[$e]=Screenshot_Fishbowl Client - Deliciosa Food Group (production)_1.png
+Name6[$e]=2024-03-01 14.04.09 netorgft6936187-my.sharepoint.com fc5148adbf10.png
+Name7[$e]=autorun.ico
+Name8[$e]=Overlay.png
+Name9[$e]=P3R_lut.png
+
+[SemanticInfoDialog]
+3 screens: Height=282
+3 screens: Width=274
+
+[SideBar]
+InformationSplitterSizes=210,265
+IsVisible ViewMode=true
+SideBarSplitterSizes=215,1177

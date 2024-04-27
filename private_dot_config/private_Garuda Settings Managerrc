@@ -1,0 +1,10 @@
+[FileDialogSize]
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=819
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=1020
+DP-1 HDMI-A-1 Height 2048x864=832
+DP-1 HDMI-A-1 Width 2048x864=1012
+
+[KFileDialog Settings]
+Recent Files[$e]=a_3d6f0de718585503acb64b6393e49c3a.png,file:$HOME/Pictures/a_3d6f0de718585503acb64b6393e49c3a.png
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=128

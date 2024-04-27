@@ -1,0 +1,35 @@
+[Annotations]
+annotationToolType=1
+highlighterStrokeColor=255,0,0,0
+highlighterStrokeWidth=19
+
+[FileDialogSize]
+3 screens: Height=564
+3 screens: Width=1042
+
+[General]
+autoSaveImage=true
+copyImageToClipboard=true
+copySaveLocation=false
+printKeyRunningAction=FocusWindow
+useReleaseToCapture=true
+
+[GuiConfig]
+captureDelay=3
+captureMode=4
+includeDecorations=false
+window-position=3072,536
+
+[ImageSave]
+imageFilenameTemplate=Screenshot_%T_%d
+lastImageSaveAsLocation=file:///home/zany130/OneDrive/Dad/Screenshot_Mail - Production - Outlook - Vivaldi_2.png
+lastImageSaveLocation=file:///home/zany130/Pictures/Screenshots/Screenshot_%25T_%25d-45.png
+translatedScreenshotsFolder=Screenshots
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Discord.png,file:$HOME/OneDrive/Dad/Screenshot_Mail - Production - Outlook - Vivaldi_2.png,file:$HOME/Pictures/OBS-Encoder-Settings3.png,file:$HOME/Pictures/OBS-Encoder-Settings2.png,file:$HOME/Pictures/OBS-Encoder-Settings1.png,file:$HOME/Pictures/Webcord.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Documents/,file:$HOME/OneDrive/Dad/
+detailViewIconSize=16
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts
