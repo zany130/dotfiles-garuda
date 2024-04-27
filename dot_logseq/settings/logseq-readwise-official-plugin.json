@@ -1,0 +1,16 @@
+{
+  "isLoadAuto": true,
+  "isResyncDeleted": false,
+  "frequency": "60",
+  "disabled": false,
+  "lastSyncFailed": false,
+  "currentSyncStatusID": 0,
+  "readwiseAccessToken": "pglQfI9uMFv1tBzEmuscZnFaIO5aS8LEuebhEmYqFxRJi41Wjr",
+  "currentGraph": {
+    "url": "logseq_local_/home/zany130/Logseq",
+    "name": "Logseq",
+    "path": "/home/zany130/Logseq"
+  },
+  "newBooksIDsMap": {},
+  "lastSavedStatusID": 14021314
+}

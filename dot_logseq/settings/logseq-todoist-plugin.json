@@ -1,0 +1,15 @@
+{
+  "apiToken": "3d2ffc28a233e8fe8e8836685ba6b8b5ff07b169",
+  "": "",
+  "sendDefaultProject": "Work (1529815446)",
+  "sendDefaultLabel": "DFG (2162433756)",
+  "sendDefaultDeadline": false,
+  "sendAppendUri": true,
+  "retrieveDefaultProject": "Work (1529815446)",
+  "projectNameAsParentBlk": false,
+  "retrieveAppendTodo": true,
+  "retrieveAppendUrl": false,
+  "retrieveClearTasks": false,
+  "retrieveAppendCreationDateTime": false,
+  "disabled": false
+}

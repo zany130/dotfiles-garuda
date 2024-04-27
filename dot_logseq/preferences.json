@@ -1,0 +1,23 @@
+{
+  "theme": {
+    "name": "Dev theme",
+    "url": "assets:///home/zany130/.logseq/plugins/logseq-dev-theme/custom.css",
+    "pid": "logseq-dev-theme"
+  },
+  "themes": {
+    "mode": "dark",
+    "light": null,
+    "dark": {
+      "name": "Awesome Styler Dark",
+      "url": "lsp://logseq.io/logseq-awesome-styler/dist/assets/awesomeStylerExt.css",
+      "description": "Dark customizable theme theme with extra stuff",
+      "mode": "dark",
+      "pid": "logseq-awesome-styler",
+      "selected": false
+    }
+  },
+  "externals": [],
+  "pinnedToolbarItems": [
+    "logseq-readwise-official-plugin:readwise-plugin-open"
+  ]
+}
