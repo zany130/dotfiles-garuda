@@ -107,7 +107,7 @@ LayoutName=flipswitch
 padding=4
 
 [Tiling][13c8d1f8-8848-531a-961a-fcaa45ec99b6]
-tiles={"layoutDirection":"horizontal","tiles":[]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5},{"width":0.5}]}
 
 [Tiling][332e8a27-57fe-51df-aed6-322db52501d4]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
