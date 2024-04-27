@@ -1,0 +1,13 @@
+flatpak install flathub com.google.Chrome -y
+flatpak install flathub com.leinardi.gst -y
+flatpak install goldwarden1-origin com.quexten.Goldwarden -y
+flatpak install flathub com.quexten.Goldwarden -y
+flatpak install flathub com.supermodel3.Supermodel -y
+flatpak install flathub com.usebottles.bottles -y
+flatpak install flathub io.github.achetagames.epic_asset_manager -y
+flatpak install flathub io.github.alainm23.planify -y
+flatpak install flathub io.github.hmlendea.geforcenow-electron -y
+flatpak install flathub io.github.shiiion.primehack -y
+flatpak install krdp-origin org.kde.krdp -y
+flatpak install flathub re.chiaki.Chiaki -y
+flatpak install flathub xyz.tytanium.DoorKnocker -y
