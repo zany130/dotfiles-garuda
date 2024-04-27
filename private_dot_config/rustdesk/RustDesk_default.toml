@@ -1,0 +1,9 @@
+[options]
+view_only = ''
+show_monitors_toolbar = 'Y'
+image_quality = 'low'
+view_style = 'adaptive'
+enable_file_transfer = 'Y'
+zoom-cursor = 'Y'
+collapse_toolbar = 'Y'
+show_remote_cursor = 'Y'

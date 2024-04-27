@@ -1,0 +1,53 @@
+password = []
+size = [
+    0,
+    0,
+    0,
+    0,
+]
+size_ft = [
+    0,
+    0,
+    0,
+    0,
+]
+size_pf = [
+    0,
+    0,
+    0,
+    0,
+]
+view_style = 'adaptive'
+scroll_style = 'scrollauto'
+image_quality = 'low'
+custom_image_quality = [50]
+show_remote_cursor = true
+lock_after_session_end = false
+privacy_mode = false
+allow_swap_key = false
+port_forwards = []
+direct_failures = 1
+disable_audio = false
+disable_clipboard = false
+enable_file_transfer = true
+show_quality_monitor = false
+keyboard_mode = 'legacy'
+view_only = false
+
+[options]
+zoom-cursor = 'Y'
+touch-mode = ''
+codec-preference = 'auto'
+custom-fps = '30'
+
+[ui_flutter]
+wm_RemoteDesktop = '{"width":764.0,"height":821.0,"offsetWidth":0.0,"offsetHeight":0.0,"isMaximized":false,"isFullscreen":false}'
+
+[info]
+username = 'android'
+hostname = 'samsung-SM-S911U'
+platform = 'Android'
+
+[transfer]
+write_jobs = []
+read_jobs = []
