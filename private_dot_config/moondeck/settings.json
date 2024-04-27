@@ -1,0 +1,24 @@
+{
+    "version": 17,
+    "clientId": "e500f30d-b9df-47f5-962e-3118fe449b62",
+    "currentHostId": null,
+    "gameSession": {
+        "autoApplyAppId": false,
+        "resumeAfterSuspend": false
+    },
+    "buttonPosition": {
+        "horizontalAlignment": "bottom",
+        "verticalAlignment": "right",
+        "offsetX": "",
+        "offsetY": "",
+        "offsetForHltb": false
+    },
+    "buttonStyle": {
+        "showFocusRing": true,
+        "theme": "HighContrast"
+    },
+    "hostSettings": {},
+    "runnerDebugLogs": false,
+    "useMoonlightExec": false,
+    "moonlightExecPath": ""
+}
