@@ -1,0 +1,14 @@
+<!DOCTYPE patchbay>
+<patchbay version="0.3.6" name="Inzone_H7">
+ <items>
+  <item node-type="pipewire" port-type="pipewire-audio">
+   <output port="WEBRTC VoiceEngine:output_FR" node="WEBRTC VoiceEngine"/>
+   <input port="INZONE H9 / INZONE H7:playback_AUX1" node="INZONE H9 / INZONE H7 Pro"/>
+  </item>
+  <item node-type="pipewire" port-type="pipewire-audio">
+   <output port="WEBRTC VoiceEngine:output_FL" node="WEBRTC VoiceEngine"/>
+   <input port="INZONE H9 / INZONE H7:playback_AUX0" node="INZONE H9 / INZONE H7 Pro"/>
+  </item>
+ </items>
+</patchbay>
+
