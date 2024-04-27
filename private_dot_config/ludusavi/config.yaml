@@ -1,0 +1,192 @@
+---
+runtime:
+  threads: ~
+manifest:
+  url: "https://raw.githubusercontent.com/mtkennerly/ludusavi-manifest/master/data/manifest.yaml"
+language: en-US
+theme: dark
+roots:
+  - path: ~/.steam/steam
+    store: steam
+  - path: /mnt/GAMES/SteamLibrary
+    store: steam
+  - path: /home/zany130/.config/heroic
+    store: heroic
+  - path: ~/Games/Heroic
+    store: heroic
+  - path: /mnt/GAMES/Games/Heroic
+    store: heroic
+  - path: ~/.config/lutris
+    store: lutris
+redirects: []
+backup:
+  path: /home/zany130/ludusavi-backup
+  ignoredGames:
+    - "NieR: Automata"
+  filter:
+    excludeStoreScreenshots: true
+    ignoredPaths:
+      - ~/.config/steamtinkerlaunch/downloads/shaders
+      - "**/SK_Res/"
+    ignoredRegistry: []
+  toggledPaths:
+    Other EMU saves:
+      /home/zany130/.config/Ryujinx/bis/user/save/0000000000000001/0: false
+    Ryujinx Saves:
+      /home/zany130/.config/Ryujinx/bis/user/save/0000000000000001/0: false
+    "The Legend of Heroes: Trails of Cold Steel IV":
+      /home/zany130/.config/steamtinkerlaunch/downloads/shaders: false
+  toggledRegistry: {}
+  sort:
+    key: name
+    reversed: false
+  retention:
+    full: 3
+    differential: 5
+  format:
+    chosen: zip
+    zip:
+      compression: zstd
+    compression:
+      deflate:
+        level: 6
+      bzip2:
+        level: 6
+      zstd:
+        level: 10
+restore:
+  path: /home/zany130/ludusavi-backup
+  ignoredGames:
+    - 8-Bit Bayonetta
+    - A Hat in Time
+    - "AI: The Somnium Files - nirvanA Initiative"
+    - Clannad
+    - Clannad Side Stories
+    - Dishonored
+    - Dolphin
+    - Edge of Eternity
+    - Fallout 4
+    - Figment
+    - "Hellblade: Senua's Sacrifice"
+    - Hogwarts Legacy
+    - If My Heart Had Wings
+    - Jet Set Radio
+    - Katamari Damacy Reroll
+    - "Kena: Bridge of Spirits"
+    - Left 4 Dead 2
+    - "Lucid9: Inciting Incident"
+    - Mad Father
+    - "Memory's Dogma CODE:01"
+    - Metro Exodus Enhanced Edition
+    - Moss
+    - "Naruto Shippuden: Ultimate Ninja Storm 4"
+    - "Naruto: Ultimate Ninja Storm"
+    - "NieR: Automata"
+    - Pac-Man Museum Plus
+    - Persona 3 Reload
+    - "RWBY: Grimm Eclipse"
+    - Shadow of the Tomb Raider
+    - Sonic Frontiers
+    - "Star Ocean: The Last Hope 4K & Full HD Remaster"
+    - "Sunrider: Liberation Day"
+    - "Sunrider: Mask of Arcadius"
+    - Tales of Arise
+    - Tales of Symphonia
+    - "The Legend of Heroes: Trails from Zero"
+    - "The Legend of Heroes: Trails in the Sky"
+    - "The Legend of Heroes: Trails in the Sky SC"
+    - "The Legend of Heroes: Trails into Reverie"
+    - "The Legend of Heroes: Trails of Cold Steel"
+    - "The Legend of Heroes: Trails of Cold Steel II"
+    - "The Legend of Heroes: Trails of Cold Steel III"
+    - "The Legend of Heroes: Trails of Cold Steel IV"
+    - The Witcher
+    - "The Witcher 3: Wild Hunt"
+    - The Witness
+    - Tomb Raider (2013)
+    - Valkyria Chronicles
+    - Yooka-Laylee
+    - "Zanki Zero: Last Beginning"
+  toggledPaths:
+    Persona 3 Reload:
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/Compat.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/DeviceProfiles.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/EditorScriptingUtilities.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/Game.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/GameUserSettings.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/Hardware.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/Input.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/MotoSynth.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/Niagara.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/Paper2D.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/PhysXVehicles.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/RuntimeOptions.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/Scalability.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/Synthesis.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Local/P3R/Saved/Config/WindowsNoEditor/VariantManagerContent.ini: false
+      /home/zany130/.local/share/Steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P3R/Steam/76561198080681209: false
+    Ryujinx Saves:
+      /home/zany130/.config/Ryujinx/bis: false
+      /home/zany130/.config/Ryujinx/bis/user/save/0000000000000001/0: true
+      /home/zany130/.config/Ryujinx/bis/user/save/0000000000000001/1: true
+    "The Legend of Heroes: Trails into Reverie":
+      /home/zany130: false
+      /home/zany130/Saved Games/Falcom: true
+    "The Legend of Heroes: Trails of Cold Steel IV":
+      /home/zany130/.config/steamtinkerlaunch/downloads/shaders: false
+  toggledRegistry: {}
+  sort:
+    key: name
+    reversed: false
+scan:
+  showDeselectedGames: true
+  showUnchangedGames: true
+  showUnscannedGames: true
+cloud:
+  remote:
+    Custom:
+      id: pCloud
+  path: ludusavi-backup
+  synchronize: true
+apps:
+  rclone:
+    path: /usr/bin/rclone
+    arguments: ""
+customGames:
+  - name: "The Legend of Heroes: Trails of Cold Steel III"
+    ignore: true
+    files:
+      - "<home>/Saved Games/Falcom/"
+      - "<winLocalAppData>/TrailsOfColdSteel3/ "
+      - "<base>/bin/x64/"
+    registry: []
+  - name: "The Legend of Heroes: Trails of Cold Steel IV"
+    ignore: true
+    files:
+      - "<home>/Saved Games/Falcom/"
+      - "<winLocalAppData>/TrailsOfColdSteel4/"
+      - "<base>/bin/Win64/"
+    registry: []
+  - name: Ryujinx Saves
+    files:
+      - ~/.config/Ryujinx/bis/system/save/
+      - ~/.config/Ryujinx/bis/user/save/
+    registry: []
+  - name: Other EMU saves
+    files:
+      - ~/Emulation/saves
+    registry: []
+  - name: "The Legend of Heroes: Trails into Reverie"
+    files:
+      - "<home>/Saved Games/Falcom/"
+      - "<winLocalAppData>/Falcom/"
+      - "<base>/bin/Win64/"
+    registry: []
+  - name: Persona 3 Reload
+    files:
+      - "<winAppData>/SEGA/P3R/Steam/<storeUserId>"
+      - "<winLocalAppData>/P3R/Saved/Config/WinGDK"
+      - "<winLocalAppData>/P3R/Saved/Config/WindowsNoEditor"
+      - "<winLocalAppData>/Packages/SEGAofAmericaInc.L0cb6b3aea_s751p9cej88mt/SystemAppData/wgs/<storeUserId>"
+      - "<base>/P3R/Binaries/Win64/"
+    registry: []
