@@ -1,0 +1,13 @@
+[Applets][3]
+immutability=1
+plugin=org.kde.plasma.webbrowser
+
+[Applets][3][Configuration]
+PreloadWeight=10
+geometry=3072,0,2048,830
+
+[Applets][3][Configuration][General]
+appId=1000004335
+fontSize=10
+noteId=47a7a9fb-1bb8-478e-8733-2922f6b978
+url=https://kde.org/

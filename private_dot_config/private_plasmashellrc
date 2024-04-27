@@ -1,0 +1,353 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYYAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAjAAAAAEAAAAAAAAD6AAAAABk
+
+[Applets][183]
+immutability=1
+plugin=org.kde.plasma.weather
+
+[Applets][183][Configuration]
+PreloadWeight=60
+configMigrated=true
+popupHeight=284
+popupWidth=276
+
+[Applets][183][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Applets][183][Configuration][Units]
+pressureUnit=5028
+speedUnit=9002
+temperatureUnit=6002
+visibilityUnit=2024
+
+[Applets][183][Configuration][WeatherStation]
+source=wettercom|weather|Miami, Florida, US|US0FL0320;Miami
+
+[Applets][358][Configuration]
+PreloadWeight=42
+
+[Audio Preview Settings]
+Autoplay=false
+
+[ConfigDialog]
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=550
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=774
+DP-1 HDMI-A-1 Height 2048x864 DP-1=493
+DP-1 HDMI-A-1 Width 2048x864 DP-1=799
+
+[FileDialogSize]
+3 screens: Height=590
+3 screens: Width=934
+3 screens: Window-Maximized=true
+DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=562
+DP-1 HDMI-A-1 HDMI-A-2 Height 840x1344 HDMI-A-1=614
+DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=842
+DP-1 HDMI-A-1 HDMI-A-2 Width 840x1344 HDMI-A-1=832
+
+[General]
+Number of Actions=0
+
+[KPropertiesDialog]
+3 screens: Height=544
+3 screens: Width=578
+DP-1 HDMI-A-1 Height 2048x864 DP-1=624
+DP-1 HDMI-A-1 Width 2048x864 DP-1=656
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlasmaViews][Panel 111][Defaults]
+floating=0
+thickness=32
+
+[PlasmaViews][Panel 136][Defaults]
+floating=0
+thickness=32
+
+[PlasmaViews][Panel 146]
+alignment=132
+panelLengthMode=2
+panelVisibility=2
+
+[PlasmaViews][Panel 146][Defaults]
+floating=0
+minLength=250
+thickness=36
+
+[PlasmaViews][Panel 146][Horizontal2048]
+minLength=250
+
+[PlasmaViews][Panel 16]
+floating=0
+panelVisibility=0
+
+[PlasmaViews][Panel 16][Defaults]
+floating=0
+thickness=32
+
+[PlasmaViews][Panel 160][Defaults]
+floating=0
+thickness=36
+
+[PlasmaViews][Panel 166]
+alignment=1
+floating=0
+
+[PlasmaViews][Panel 166][Defaults]
+floating=0
+thickness=32
+
+[PlasmaViews][Panel 170]
+alignment=132
+panelLengthMode=2
+panelVisibility=1
+
+[PlasmaViews][Panel 170][Defaults]
+floating=0
+maxLength=2017
+minLength=2017
+thickness=44
+
+[PlasmaViews][Panel 170][Horizontal2048]
+maxLength=2017
+minLength=2017
+
+[PlasmaViews][Panel 173]
+floating=1
+panelVisibility=1
+
+[PlasmaViews][Panel 173][Defaults]
+floating=0
+thickness=44
+
+[PlasmaViews][Panel 189]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 189][Defaults]
+floating=0
+thickness=68
+
+[PlasmaViews][Panel 194][Defaults]
+floating=0
+thickness=36
+
+[PlasmaViews][Panel 196]
+alignment=1
+floating=0
+
+[PlasmaViews][Panel 196][Defaults]
+floating=0
+thickness=32
+
+[PlasmaViews][Panel 213][Defaults]
+floating=0
+thickness=27
+
+[PlasmaViews][Panel 223]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 223][Defaults]
+floating=0
+thickness=68
+
+[PlasmaViews][Panel 225]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 225][Defaults]
+floating=0
+thickness=68
+
+[PlasmaViews][Panel 227]
+alignment=1
+floating=0
+
+[PlasmaViews][Panel 227][Defaults]
+floating=0
+thickness=32
+
+[PlasmaViews][Panel 240]
+panelVisibility=0
+
+[PlasmaViews][Panel 240][Defaults]
+floating=0
+thickness=44
+
+[PlasmaViews][Panel 25]
+alignment=132
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 25][Defaults]
+floating=0
+minLength=250
+thickness=42
+
+[PlasmaViews][Panel 25][Horizontal2048]
+minLength=250
+
+[PlasmaViews][Panel 269]
+alignment=1
+floating=0
+
+[PlasmaViews][Panel 269][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 272][Defaults]
+floating=0
+thickness=36
+
+[PlasmaViews][Panel 277]
+alignment=132
+panelLengthMode=2
+panelVisibility=1
+
+[PlasmaViews][Panel 277][Defaults]
+floating=0
+maxLength=2017
+minLength=2017
+thickness=44
+
+[PlasmaViews][Panel 277][Horizontal2048]
+maxLength=2017
+minLength=2017
+
+[PlasmaViews][Panel 298]
+alignment=1
+floating=1
+
+[PlasmaViews][Panel 298][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 302][Defaults]
+floating=0
+thickness=44
+
+[PlasmaViews][Panel 326]
+alignment=1
+floating=0
+
+[PlasmaViews][Panel 326][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 330][Defaults]
+floating=0
+thickness=36
+
+[PlasmaViews][Panel 362]
+alignment=132
+panelLengthMode=2
+panelVisibility=2
+
+[PlasmaViews][Panel 362][Defaults]
+floating=0
+minLength=250
+thickness=63
+
+[PlasmaViews][Panel 362][Horizontal1536]
+minLength=250
+
+[PlasmaViews][Panel 364][Defaults]
+floating=0
+thickness=32
+
+[PlasmaViews][Panel 4]
+alignment=132
+floating=1
+panelLengthMode=2
+panelOpacity=0
+panelVisibility=0
+
+[PlasmaViews][Panel 4][Defaults]
+floating=0
+maxLength=2520
+minLength=2520
+thickness=34
+
+[PlasmaViews][Panel 4][Horizontal2560]
+maxLength=2520
+minLength=2520
+
+[PlasmaViews][Panel 52]
+alignment=132
+floating=1
+panelLengthMode=2
+panelVisibility=1
+
+[PlasmaViews][Panel 52][Defaults]
+floating=0
+maxLength=1547
+minLength=1473
+offset=0
+thickness=42
+
+[PlasmaViews][Panel 52][Horizontal2048]
+maxLength=1547
+minLength=1473
+offset=0
+
+[PlasmaViews][Panel 52][Vertical864]
+offset=0
+
+[PlasmaViews][Panel 58]
+alignment=132
+floating=1
+panelLengthMode=2
+panelVisibility=1
+
+[PlasmaViews][Panel 58][Defaults]
+floating=0
+minLength=250
+thickness=52
+
+[PlasmaViews][Panel 58][Horizontal1536]
+minLength=250
+
+[PlasmaViews][Panel 60]
+floating=1
+panelVisibility=1
+
+[PlasmaViews][Panel 60][Defaults]
+floating=0
+thickness=32
+
+[PlasmaViews][Panel 88]
+alignment=132
+floating=1
+panelLengthMode=2
+panelVisibility=1
+
+[PlasmaViews][Panel 88][Defaults]
+floating=0
+minLength=250
+thickness=63
+
+[PlasmaViews][Panel 88][Horizontal1536]
+minLength=250
+
+[PlasmaViews][Panel 90]
+alignment=132
+floating=1
+panelLengthMode=0
+panelVisibility=0
+
+[PlasmaViews][Panel 90][Defaults]
+floating=0
+thickness=32
+
+[ScreenConnectors]
+0=DP-1
+1=HDMI-A-1
+2=HDMI-A-0
+3=HDMI-A-2
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/folderview_fix_recursive_screenmapping.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_showseconds_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/migrate_font_weights.js

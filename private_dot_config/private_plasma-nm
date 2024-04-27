@@ -1,0 +1,6 @@
+[General]
+AirplaneModeEnabled=false
+HotspotName=zany130-hotspot
+HotspotPassword=
+ManageVirtualConnections=true
+UnlockModemOnDetection=true
