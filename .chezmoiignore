@@ -1,3 +1,4 @@
+**/*.src.ini
 key.txt.age
 .config/chezmoi/**
 .config/Mailspring/**
