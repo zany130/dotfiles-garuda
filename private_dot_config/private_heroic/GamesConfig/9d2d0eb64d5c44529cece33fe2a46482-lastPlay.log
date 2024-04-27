@@ -1,0 +1,53 @@
+System Info:
+CPU: 12x AMD Ryzen 5 5600X 6-Core Processor
+Memory: 33.57 GB (used: 6.85 GB)
+GPUs:
+  GPU 0:
+    Name: undefined undefined
+    IDs: D=73df V=1002 SD=2331 SV=1458
+    Driver: amdgpu
+OS: Garuda Linux 6.6.6-1-cachyos (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.11.0 Kumachi
+  Legendary: 0.20.33 Undue Alarm
+  gogdl: 0.7.3
+  Nile: 1.0.0 Jonathan Joestar
+
+Game Settings: {
+	"autoInstallDxvk": false,
+	"autoInstallVkd3d": false,
+	"preferSystemLibs": false,
+	"enableEsync": true,
+	"enableFsync": true,
+	"maxSharpness": 2,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"savesPath": "",
+	"showFps": false,
+	"showMangohud": true,
+	"targetExe": "",
+	"useGameMode": false,
+	"language": "",
+	"wineVersion": {
+		"bin": "/usr/bin/wine",
+		"name": "Wine Default - wine-7.7-301-gf91f4348356 ( TkG Staging Esync Fsync )",
+		"type": "wine",
+		"wineserver": "/usr/bin/wineserver",
+		"wineboot": "/usr/bin/wineboot"
+	},
+	"winePrefix": "/home/zany130/Games/Heroic/Prefixes/GTAV",
+	"otherOptions": "",
+	"wineCrossoverBottle": "Heroic"
+}
+
+Game launched at: Fri Dec 15 2023 20:30:17 GMT-0500 (Eastern Standard Time)
+
+Launch Command: HEROIC_APP_NAME=9d2d0eb64d5c44529cece33fe2a46482 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX=/home/zany130/Games/Heroic/Prefixes/GTAV WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 ORIG_LD_LIBRARY_PATH= /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482 --wine /usr/bin/wine --wrapper "/usr/local/bin/mangohud --dlsym" --language en
+
+Game Log:
+[cli] CRITICAL: Install directory "/home/zany130/Games/Heroic/GTAV" appears to be deleted, cannot launch 9d2d0eb64d5c44529cece33fe2a46482!

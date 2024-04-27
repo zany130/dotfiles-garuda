@@ -1,0 +1,59 @@
+System Info:
+Heroic Version: 2.5.2 Yamato
+Legendary Version:  0.20.31 Dark Energy (hotfix #5)
+GOGdl Version: 0.5
+OS: Garuda KERNEL: 6.1.7-273-tkg-bmq ARCH: x64
+CPU: AMD Ryzen 5 5600X 6-Core Processor @3.7 GOVERNOR: performance
+RAM: Total: 31.27 GiB Available: 16.45 GiB
+GRAPHICS: GPU0: Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M] VRAM: 1MB  
+PROTOCOL: wayland
+
+Game Settings: {
+	"autoInstallDxvk": false,
+	"autoInstallVkd3d": false,
+	"preferSystemLibs": false,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"showMangohud": true,
+	"useGameMode": false,
+	"language": "",
+	"wineVersion": {
+		"bin": "/usr/bin/wine",
+		"name": "Wine Default - wine-7.7-301-gf91f4348356 ( TkG Staging Esync Fsync )",
+		"type": "wine",
+		"wineserver": "/usr/bin/wineserver",
+		"wineboot": "/usr/bin/wineboot"
+	},
+	"winePrefix": "/home/zany130/Games/Heroic/Prefixes/DaemonxMachina",
+	"altLegendaryBin": "",
+	"altGogdlBin": "",
+	"addDesktopShortcuts": false,
+	"addStartMenuShortcuts": false,
+	"customWinePaths": [],
+	"darkTrayIcon": false,
+	"defaultInstallPath": "/home/zany130/Games/Heroic",
+	"defaultWinePrefix": "/home/zany130/Games/Heroic/Prefixes",
+	"disableController": false,
+	"egsLinkedPath": "",
+	"exitToTray": true,
+	"maxRecentGames": 5,
+	"maxWorkers": 0,
+	"minimizeOnLaunch": true,
+	"otherOptions": "",
+	"showUnrealMarket": false,
+	"startInTray": true,
+	"wineCrossoverBottle": "Heroic"
+}
+
+Game launched at: Sat Jan 21 2023 17:23:19 GMT-0500 (Eastern Standard Time)
+
+Legendary's config from config.ini (before Heroic's settings):
+SyntaxError: Unexpected end of JSON input
+
+
+Launch Command: LD_PRELOAD= WINEPREFIX=/home/zany130/Games/Heroic/Prefixes/DaemonxMachina ORIG_LD_LIBRARY_PATH= /usr/bin/mangohud --dlsym /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch f4f0d39fbb4640e0be62aa91d9eca87d --language en --wine /usr/bin/wine 
+
+Game Log:
+[cli] CRITICAL: Install directory "/home/zany130/Games/Heroic/DaemonxMachina" appears to be deleted, cannot launch f4f0d39fbb4640e0be62aa91d9eca87d!

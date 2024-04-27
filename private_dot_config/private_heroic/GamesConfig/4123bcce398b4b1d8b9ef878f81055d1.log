@@ -1,0 +1,1632 @@
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Preparing download for "Thief" (4123bcce398b4b1d8b9ef878f81055d1)...
+[Core] INFO: Parsing game manifest...
+[Core] INFO: Install path: /mnt/GAMES/Games/Heroic/ThiefvWwV2
+[Core] INFO: Selected CDN: download.epicgames.com (https)
+[DLM] INFO: Found 0 missing files.
+[cli] INFO: Install size: 31201.57 MiB
+[cli] INFO: Download size: 26418.03 MiB (Compression savings: 15.3%)
+[cli] INFO: Reusable size: 0.00 MiB (chunks) / 0.00 MiB (unchanged / skipped)
+[cli] INFO: Downloads are resumable, you can interrupt the download with CTRL-C and resume it using the same command later on.
+[DLManager] INFO: Download Manager running with process-id: 2333986
+[DLManager] INFO: Starting download workers...
+[DLManager] INFO: Starting file writing worker...
+[DLManager] INFO: = Progress: 0.00% (0/36880), Running for 00:00:00, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 0.00 MiB, Written: 0.00 MiB
+[DLManager] INFO:  - Cache usage: 2.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 1.49% (551/36880), Running for 00:00:01, ETA: 00:01:06
+[DLManager] INFO:  - Downloaded: 84.61 MiB, Written: 163.62 MiB
+[DLManager] INFO:  - Cache usage: 38.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 84.55 MiB/s (raw) / 167.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 163.50 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 1.91% (704/36880), Running for 00:00:02, ETA: 00:01:43
+[DLManager] INFO:  - Downloaded: 198.98 MiB, Written: 262.67 MiB
+[DLManager] INFO:  - Cache usage: 64.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 114.26 MiB/s (raw) / 124.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 98.95 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 2.26% (835/36880), Running for 00:00:03, ETA: 00:02:10
+[DLManager] INFO:  - Downloaded: 313.04 MiB, Written: 393.67 MiB
+[DLManager] INFO:  - Cache usage: 57.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 113.94 MiB/s (raw) / 123.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 130.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 2.63% (971/36880), Running for 00:00:04, ETA: 00:02:28
+[DLManager] INFO:  - Downloaded: 421.04 MiB, Written: 529.67 MiB
+[DLManager] INFO:  - Cache usage: 37.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 107.90 MiB/s (raw) / 115.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 135.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 2.93% (1082/36880), Running for 00:00:05, ETA: 00:02:45
+[DLManager] INFO:  - Downloaded: 529.61 MiB, Written: 640.67 MiB
+[DLManager] INFO:  - Cache usage: 43.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 108.46 MiB/s (raw) / 116.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 110.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 3.26% (1202/36880), Running for 00:00:06, ETA: 00:02:58
+[DLManager] INFO:  - Downloaded: 645.06 MiB, Written: 760.67 MiB
+[DLManager] INFO:  - Cache usage: 49.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 115.31 MiB/s (raw) / 125.85 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 119.85 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 3.63% (1337/36880), Running for 00:00:07, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 757.46 MiB, Written: 895.67 MiB
+[DLManager] INFO:  - Cache usage: 36.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.31 MiB/s (raw) / 121.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 134.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 3.95% (1457/36880), Running for 00:00:08, ETA: 00:03:14
+[DLManager] INFO:  - Downloaded: 867.96 MiB, Written: 1015.67 MiB
+[DLManager] INFO:  - Cache usage: 35.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.40 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 119.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 4.26% (1572/36880), Running for 00:00:09, ETA: 00:03:22
+[DLManager] INFO:  - Downloaded: 978.76 MiB, Written: 1130.67 MiB
+[DLManager] INFO:  - Cache usage: 39.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.69 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 114.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 4.57% (1687/36880), Running for 00:00:10, ETA: 00:03:29
+[DLManager] INFO:  - Downloaded: 1083.04 MiB, Written: 1245.67 MiB
+[DLManager] INFO:  - Cache usage: 36.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 104.17 MiB/s (raw) / 111.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 114.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 4.85% (1787/36880), Running for 00:00:11, ETA: 00:03:36
+[DLManager] INFO:  - Downloaded: 1193.94 MiB, Written: 1345.67 MiB
+[DLManager] INFO:  - Cache usage: 55.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.80 MiB/s (raw) / 118.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 99.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 5.14% (1895/36880), Running for 00:00:12, ETA: 00:03:41
+[DLManager] INFO:  - Downloaded: 1306.18 MiB, Written: 1453.67 MiB
+[DLManager] INFO:  - Cache usage: 69.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.12 MiB/s (raw) / 121.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 107.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 5.54% (2044/36880), Running for 00:00:13, ETA: 00:03:41
+[DLManager] INFO:  - Downloaded: 1416.26 MiB, Written: 1602.67 MiB
+[DLManager] INFO:  - Cache usage: 39.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.98 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 148.85 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 5.83% (2150/36880), Running for 00:00:14, ETA: 00:03:46
+[DLManager] INFO:  - Downloaded: 1527.14 MiB, Written: 1708.67 MiB
+[DLManager] INFO:  - Cache usage: 52.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.77 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 105.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 6.13% (2261/36880), Running for 00:00:15, ETA: 00:03:50
+[DLManager] INFO:  - Downloaded: 1638.75 MiB, Written: 1819.67 MiB
+[DLManager] INFO:  - Cache usage: 61.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.50 MiB/s (raw) / 119.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 110.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 6.27% (2314/36880), Running for 00:00:16, ETA: 00:03:59
+[DLManager] INFO:  - Downloaded: 1748.00 MiB, Written: 1872.67 MiB
+[DLManager] INFO:  - Cache usage: 126.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.14 MiB/s (raw) / 117.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 52.95 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 6.84% (2524/36880), Running for 00:00:17, ETA: 00:03:51
+[DLManager] INFO:  - Downloaded: 1858.33 MiB, Written: 2082.67 MiB
+[DLManager] INFO:  - Cache usage: 34.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.23 MiB/s (raw) / 117.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 209.79 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 7.17% (2644/36880), Running for 00:00:18, ETA: 00:03:53
+[DLManager] INFO:  - Downloaded: 1970.52 MiB, Written: 2202.67 MiB
+[DLManager] INFO:  - Cache usage: 35.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.06 MiB/s (raw) / 120.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 119.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 7.44% (2745/36880), Running for 00:00:19, ETA: 00:03:56
+[DLManager] INFO:  - Downloaded: 2078.89 MiB, Written: 2296.67 MiB
+[DLManager] INFO:  - Cache usage: 60.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 108.24 MiB/s (raw) / 118.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 93.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 8.02% (2959/36880), Running for 00:00:20, ETA: 00:03:49
+[DLManager] INFO:  - Downloaded: 2191.27 MiB, Written: 2428.67 MiB
+[DLManager] INFO:  - Cache usage: 49.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.30 MiB/s (raw) / 120.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 131.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 8.47% (3123/36880), Running for 00:00:21, ETA: 00:03:47
+[DLManager] INFO:  - Downloaded: 2305.58 MiB, Written: 2545.67 MiB
+[DLManager] INFO:  - Cache usage: 51.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 114.19 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 116.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 8.89% (3280/36880), Running for 00:00:22, ETA: 00:03:45
+[DLManager] INFO:  - Downloaded: 2410.67 MiB, Written: 2653.67 MiB
+[DLManager] INFO:  - Cache usage: 54.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 104.99 MiB/s (raw) / 110.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 107.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 9.29% (3427/36880), Running for 00:00:23, ETA: 00:03:44
+[DLManager] INFO:  - Downloaded: 2524.66 MiB, Written: 2769.67 MiB
+[DLManager] INFO:  - Cache usage: 58.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 113.87 MiB/s (raw) / 119.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 115.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 9.91% (3653/36880), Running for 00:00:24, ETA: 00:03:38
+[DLManager] INFO:  - Downloaded: 2630.44 MiB, Written: 2904.67 MiB
+[DLManager] INFO:  - Cache usage: 36.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 105.68 MiB/s (raw) / 112.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 134.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 10.43% (3847/36880), Running for 00:00:25, ETA: 00:03:34
+[DLManager] INFO:  - Downloaded: 2742.20 MiB, Written: 3004.67 MiB
+[DLManager] INFO:  - Cache usage: 57.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.64 MiB/s (raw) / 120.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 99.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 10.90% (4019/36880), Running for 00:00:26, ETA: 00:03:32
+[DLManager] INFO:  - Downloaded: 2852.06 MiB, Written: 3116.67 MiB
+[DLManager] INFO:  - Cache usage: 62.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.75 MiB/s (raw) / 116.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 111.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 11.48% (4232/36880), Running for 00:00:27, ETA: 00:03:28
+[DLManager] INFO:  - Downloaded: 2968.22 MiB, Written: 3263.67 MiB
+[DLManager] INFO:  - Cache usage: 36.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 116.02 MiB/s (raw) / 120.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 146.83 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 11.85% (4371/36880), Running for 00:00:28, ETA: 00:03:28
+[DLManager] INFO:  - Downloaded: 3075.66 MiB, Written: 3370.67 MiB
+[DLManager] INFO:  - Cache usage: 43.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 107.36 MiB/s (raw) / 113.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 106.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 12.45% (4593/36880), Running for 00:00:29, ETA: 00:03:24
+[DLManager] INFO:  - Downloaded: 3185.42 MiB, Written: 3490.67 MiB
+[DLManager] INFO:  - Cache usage: 41.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.63 MiB/s (raw) / 117.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 119.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 13.01% (4797/36880), Running for 00:00:30, ETA: 00:03:20
+[DLManager] INFO:  - Downloaded: 3295.69 MiB, Written: 3611.67 MiB
+[DLManager] INFO:  - Cache usage: 38.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.16 MiB/s (raw) / 117.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 120.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 13.50% (4978/36880), Running for 00:00:31, ETA: 00:03:18
+[DLManager] INFO:  - Downloaded: 3407.79 MiB, Written: 3732.89 MiB
+[DLManager] INFO:  - Cache usage: 36.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.01 MiB/s (raw) / 118.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 121.12 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 13.95% (5143/36880), Running for 00:00:32, ETA: 00:03:17
+[DLManager] INFO:  - Downloaded: 3517.50 MiB, Written: 3847.67 MiB
+[DLManager] INFO:  - Cache usage: 35.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.60 MiB/s (raw) / 113.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 114.67 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 14.35% (5291/36880), Running for 00:00:33, ETA: 00:03:17
+[DLManager] INFO:  - Downloaded: 3630.93 MiB, Written: 3959.67 MiB
+[DLManager] INFO:  - Cache usage: 43.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 113.32 MiB/s (raw) / 119.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 111.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 14.85% (5476/36880), Running for 00:00:34, ETA: 00:03:15
+[DLManager] INFO:  - Downloaded: 3735.59 MiB, Written: 4071.96 MiB
+[DLManager] INFO:  - Cache usage: 42.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 104.56 MiB/s (raw) / 110.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 112.18 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 15.45% (5697/36880), Running for 00:00:35, ETA: 00:03:11
+[DLManager] INFO:  - Downloaded: 3842.46 MiB, Written: 4206.67 MiB
+[DLManager] INFO:  - Cache usage: 65.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 106.77 MiB/s (raw) / 157.84 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 134.57 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 16.06% (5924/36880), Running for 00:00:36, ETA: 00:03:08
+[DLManager] INFO:  - Downloaded: 3956.61 MiB, Written: 4349.67 MiB
+[DLManager] INFO:  - Cache usage: 44.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 114.03 MiB/s (raw) / 121.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 142.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 16.52% (6091/36880), Running for 00:00:37, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 4068.27 MiB, Written: 4474.67 MiB
+[DLManager] INFO:  - Cache usage: 35.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.55 MiB/s (raw) / 115.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 124.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 16.93% (6245/36880), Running for 00:00:38, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 4180.98 MiB, Written: 4588.67 MiB
+[DLManager] INFO:  - Cache usage: 40.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.59 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 113.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 17.29% (6377/36880), Running for 00:00:39, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 4287.81 MiB, Written: 4686.67 MiB
+[DLManager] INFO:  - Cache usage: 54.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 106.72 MiB/s (raw) / 111.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 97.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 17.88% (6594/36880), Running for 00:00:40, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 4396.60 MiB, Written: 4797.67 MiB
+[DLManager] INFO:  - Cache usage: 59.00 MiB, active tasks: 31
+[DLManager] INFO:  + Download	- 108.68 MiB/s (raw) / 116.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 110.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 18.48% (6817/36880), Running for 00:00:41, ETA: 00:03:01
+[DLManager] INFO:  - Downloaded: 4507.27 MiB, Written: 4930.67 MiB
+[DLManager] INFO:  - Cache usage: 46.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.56 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 132.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 18.95% (6989/36880), Running for 00:00:42, ETA: 00:02:59
+[DLManager] INFO:  - Downloaded: 4617.63 MiB, Written: 5050.67 MiB
+[DLManager] INFO:  - Cache usage: 43.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.25 MiB/s (raw) / 116.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 119.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 19.35% (7137/36880), Running for 00:00:43, ETA: 00:02:59
+[DLManager] INFO:  - Downloaded: 4730.22 MiB, Written: 5157.67 MiB
+[DLManager] INFO:  - Cache usage: 56.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.48 MiB/s (raw) / 119.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 106.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 19.56% (7214/36880), Running for 00:00:44, ETA: 00:03:01
+[DLManager] INFO:  - Downloaded: 4837.76 MiB, Written: 5215.67 MiB
+[DLManager] INFO:  - Cache usage: 112.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 107.43 MiB/s (raw) / 113.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 57.94 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 20.41% (7528/36880), Running for 00:00:45, ETA: 00:02:55
+[DLManager] INFO:  - Downloaded: 4945.27 MiB, Written: 5393.67 MiB
+[DLManager] INFO:  - Cache usage: 53.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 107.39 MiB/s (raw) / 118.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 177.79 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 20.79% (7666/36880), Running for 00:00:46, ETA: 00:02:55
+[DLManager] INFO:  - Downloaded: 5056.63 MiB, Written: 5531.67 MiB
+[DLManager] INFO:  - Cache usage: 42.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.27 MiB/s (raw) / 126.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 137.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 21.16% (7804/36880), Running for 00:00:47, ETA: 00:02:55
+[DLManager] INFO:  - Downloaded: 5170.73 MiB, Written: 5669.67 MiB
+[DLManager] INFO:  - Cache usage: 35.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 113.98 MiB/s (raw) / 130.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 137.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 21.48% (7921/36880), Running for 00:00:48, ETA: 00:02:55
+[DLManager] INFO:  - Downloaded: 5274.16 MiB, Written: 5786.67 MiB
+[DLManager] INFO:  - Cache usage: 36.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 103.32 MiB/s (raw) / 117.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 116.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 21.85% (8058/36880), Running for 00:00:49, ETA: 00:02:55
+[DLManager] INFO:  - Downloaded: 5392.54 MiB, Written: 5923.67 MiB
+[DLManager] INFO:  - Cache usage: 34.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 118.27 MiB/s (raw) / 134.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 136.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 22.07% (8138/36880), Running for 00:00:50, ETA: 00:02:56
+[DLManager] INFO:  - Downloaded: 5498.03 MiB, Written: 6003.67 MiB
+[DLManager] INFO:  - Cache usage: 70.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 105.36 MiB/s (raw) / 115.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 79.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 22.50% (8299/36880), Running for 00:00:51, ETA: 00:02:55
+[DLManager] INFO:  - Downloaded: 5613.61 MiB, Written: 6164.67 MiB
+[DLManager] INFO:  - Cache usage: 37.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 115.49 MiB/s (raw) / 127.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 160.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 22.78% (8400/36880), Running for 00:00:52, ETA: 00:02:56
+[DLManager] INFO:  - Downloaded: 5721.95 MiB, Written: 6265.67 MiB
+[DLManager] INFO:  - Cache usage: 56.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 108.23 MiB/s (raw) / 119.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 100.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 23.16% (8542/36880), Running for 00:00:53, ETA: 00:02:56
+[DLManager] INFO:  - Downloaded: 5833.14 MiB, Written: 6407.67 MiB
+[DLManager] INFO:  - Cache usage: 37.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.08 MiB/s (raw) / 122.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 141.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 23.44% (8645/36880), Running for 00:00:54, ETA: 00:02:56
+[DLManager] INFO:  - Downloaded: 5939.00 MiB, Written: 6510.67 MiB
+[DLManager] INFO:  - Cache usage: 52.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 105.75 MiB/s (raw) / 117.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 102.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 23.75% (8760/36880), Running for 00:00:55, ETA: 00:02:56
+[DLManager] INFO:  - Downloaded: 6053.38 MiB, Written: 6625.67 MiB
+[DLManager] INFO:  - Cache usage: 63.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 114.26 MiB/s (raw) / 125.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 114.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 24.08% (8879/36880), Running for 00:00:56, ETA: 00:02:56
+[DLManager] INFO:  - Downloaded: 6166.14 MiB, Written: 6744.67 MiB
+[DLManager] INFO:  - Cache usage: 68.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.66 MiB/s (raw) / 123.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 118.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 24.33% (8973/36880), Running for 00:00:57, ETA: 00:02:57
+[DLManager] INFO:  - Downloaded: 6273.56 MiB, Written: 6838.67 MiB
+[DLManager] INFO:  - Cache usage: 93.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 107.31 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 93.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 24.58% (9066/36880), Running for 00:00:58, ETA: 00:02:58
+[DLManager] INFO:  - Downloaded: 6386.94 MiB, Written: 6931.67 MiB
+[DLManager] INFO:  - Cache usage: 126.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 113.27 MiB/s (raw) / 125.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 92.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 24.83% (9156/36880), Running for 00:00:59, ETA: 00:02:58
+[DLManager] INFO:  - Downloaded: 6502.30 MiB, Written: 7021.67 MiB
+[DLManager] INFO:  - Cache usage: 165.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 115.25 MiB/s (raw) / 128.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 25.06% (9241/36880), Running for 00:01:00, ETA: 00:02:59
+[DLManager] INFO:  - Downloaded: 6610.18 MiB, Written: 7106.67 MiB
+[DLManager] INFO:  - Cache usage: 201.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 107.77 MiB/s (raw) / 120.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 84.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 25.34% (9346/36880), Running for 00:01:01, ETA: 00:02:59
+[DLManager] INFO:  - Downloaded: 6721.24 MiB, Written: 7189.67 MiB
+[DLManager] INFO:  - Cache usage: 241.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.78 MiB/s (raw) / 122.69 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.79 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 25.56% (9428/36880), Running for 00:01:02, ETA: 00:03:00
+[DLManager] INFO:  - Downloaded: 6833.29 MiB, Written: 7271.67 MiB
+[DLManager] INFO:  - Cache usage: 285.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.00 MiB/s (raw) / 125.94 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.96 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 25.79% (9512/36880), Running for 00:01:03, ETA: 00:03:01
+[DLManager] INFO:  - Downloaded: 6943.58 MiB, Written: 7352.67 MiB
+[DLManager] INFO:  - Cache usage: 327.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.18 MiB/s (raw) / 122.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 80.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 25.98% (9581/36880), Running for 00:01:04, ETA: 00:03:02
+[DLManager] INFO:  - Downloaded: 7052.17 MiB, Written: 7421.67 MiB
+[DLManager] INFO:  - Cache usage: 379.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 108.48 MiB/s (raw) / 120.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 68.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 26.18% (9657/36880), Running for 00:01:05, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 7168.04 MiB, Written: 7492.67 MiB
+[DLManager] INFO:  - Cache usage: 436.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 115.72 MiB/s (raw) / 127.84 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 70.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 26.40% (9736/36880), Running for 00:01:06, ETA: 00:03:04
+[DLManager] INFO:  - Downloaded: 7278.12 MiB, Written: 7569.67 MiB
+[DLManager] INFO:  - Cache usage: 484.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.00 MiB/s (raw) / 124.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 76.94 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 26.61% (9814/36880), Running for 00:01:07, ETA: 00:03:04
+[DLManager] INFO:  - Downloaded: 7387.49 MiB, Written: 7644.67 MiB
+[DLManager] INFO:  - Cache usage: 531.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.27 MiB/s (raw) / 121.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 74.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 26.84% (9898/36880), Running for 00:01:08, ETA: 00:03:05
+[DLManager] INFO:  - Downloaded: 7499.41 MiB, Written: 7725.67 MiB
+[DLManager] INFO:  - Cache usage: 575.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.81 MiB/s (raw) / 124.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 80.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 27.08% (9986/36880), Running for 00:01:09, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 7610.78 MiB, Written: 7806.67 MiB
+[DLManager] INFO:  - Cache usage: 620.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.26 MiB/s (raw) / 125.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 80.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 27.30% (10069/36880), Running for 00:01:10, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 7720.77 MiB, Written: 7889.67 MiB
+[DLManager] INFO:  - Cache usage: 659.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.88 MiB/s (raw) / 121.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 27.55% (10160/36880), Running for 00:01:11, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 7831.50 MiB, Written: 7976.67 MiB
+[DLManager] INFO:  - Cache usage: 695.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.62 MiB/s (raw) / 122.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 86.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 27.79% (10250/36880), Running for 00:01:12, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 7940.85 MiB, Written: 8060.67 MiB
+[DLManager] INFO:  - Cache usage: 734.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.23 MiB/s (raw) / 122.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 28.07% (10352/36880), Running for 00:01:13, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 8055.75 MiB, Written: 8150.67 MiB
+[DLManager] INFO:  - Cache usage: 772.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 114.79 MiB/s (raw) / 127.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 28.32% (10444/36880), Running for 00:01:14, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 8165.36 MiB, Written: 8240.67 MiB
+[DLManager] INFO:  - Cache usage: 806.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.50 MiB/s (raw) / 123.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 28.57% (10535/36880), Running for 00:01:15, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 8277.36 MiB, Written: 8330.67 MiB
+[DLManager] INFO:  - Cache usage: 840.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.90 MiB/s (raw) / 123.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 28.82% (10630/36880), Running for 00:01:16, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 8388.73 MiB, Written: 8421.67 MiB
+[DLManager] INFO:  - Cache usage: 873.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.26 MiB/s (raw) / 123.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 29.06% (10719/36880), Running for 00:01:17, ETA: 00:03:08
+[DLManager] INFO:  - Downloaded: 8501.58 MiB, Written: 8508.67 MiB
+[DLManager] INFO:  - Cache usage: 912.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.71 MiB/s (raw) / 125.85 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 86.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 29.31% (10811/36880), Running for 00:01:18, ETA: 00:03:08
+[DLManager] INFO:  - Downloaded: 8608.04 MiB, Written: 8598.67 MiB
+[DLManager] INFO:  - Cache usage: 951.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 106.37 MiB/s (raw) / 128.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 29.58% (10908/36880), Running for 00:01:19, ETA: 00:03:08
+[DLManager] INFO:  - Downloaded: 8718.64 MiB, Written: 8689.67 MiB
+[DLManager] INFO:  - Cache usage: 984.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.50 MiB/s (raw) / 123.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 29.87% (11017/36880), Running for 00:01:20, ETA: 00:03:08
+[DLManager] INFO:  - Downloaded: 8825.18 MiB, Written: 8780.67 MiB
+[DLManager] INFO:  - Cache usage: 1013.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 106.43 MiB/s (raw) / 119.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 30.12% (11110/36880), Running for 00:01:21, ETA: 00:03:08
+[DLManager] INFO:  - Downloaded: 8935.48 MiB, Written: 8868.67 MiB
+[DLManager] INFO:  - Cache usage: 1049.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.19 MiB/s (raw) / 123.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 87.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 30.38% (11205/36880), Running for 00:01:22, ETA: 00:03:08
+[DLManager] INFO:  - Downloaded: 9046.10 MiB, Written: 8958.67 MiB
+[DLManager] INFO:  - Cache usage: 1086.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.50 MiB/s (raw) / 126.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 30.64% (11300/36880), Running for 00:01:23, ETA: 00:03:08
+[DLManager] INFO:  - Downloaded: 9158.13 MiB, Written: 9049.67 MiB
+[DLManager] INFO:  - Cache usage: 1122.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.93 MiB/s (raw) / 126.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 30.92% (11402/36880), Running for 00:01:24, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 9270.37 MiB, Written: 9139.67 MiB
+[DLManager] INFO:  - Cache usage: 1158.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.13 MiB/s (raw) / 125.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 31.17% (11496/36880), Running for 00:01:25, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 9377.35 MiB, Written: 9230.67 MiB
+[DLManager] INFO:  - Cache usage: 1189.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 106.87 MiB/s (raw) / 121.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 31.47% (11605/36880), Running for 00:01:26, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 9489.77 MiB, Written: 9320.67 MiB
+[DLManager] INFO:  - Cache usage: 1228.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.31 MiB/s (raw) / 128.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 31.71% (11696/36880), Running for 00:01:27, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 9599.71 MiB, Written: 9410.67 MiB
+[DLManager] INFO:  - Cache usage: 1264.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.80 MiB/s (raw) / 125.85 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 31.96% (11786/36880), Running for 00:01:28, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 9711.59 MiB, Written: 9500.67 MiB
+[DLManager] INFO:  - Cache usage: 1300.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.80 MiB/s (raw) / 125.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 32.21% (11880/36880), Running for 00:01:29, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 9823.44 MiB, Written: 9590.67 MiB
+[DLManager] INFO:  - Cache usage: 1336.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.74 MiB/s (raw) / 125.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 32.46% (11971/36880), Running for 00:01:30, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 9935.27 MiB, Written: 9681.67 MiB
+[DLManager] INFO:  - Cache usage: 1370.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.72 MiB/s (raw) / 124.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 32.68% (12053/36880), Running for 00:01:31, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 10046.51 MiB, Written: 9756.67 MiB
+[DLManager] INFO:  - Cache usage: 1420.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.10 MiB/s (raw) / 124.84 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 74.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 32.96% (12157/36880), Running for 00:01:32, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 10159.06 MiB, Written: 9850.67 MiB
+[DLManager] INFO:  - Cache usage: 1456.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.42 MiB/s (raw) / 129.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 93.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 33.21% (12248/36880), Running for 00:01:33, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 10265.25 MiB, Written: 9936.67 MiB
+[DLManager] INFO:  - Cache usage: 1491.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 106.06 MiB/s (raw) / 120.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 85.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 33.47% (12343/36880), Running for 00:01:34, ETA: 00:03:07
+[DLManager] INFO:  - Downloaded: 10377.16 MiB, Written: 10026.67 MiB
+[DLManager] INFO:  - Cache usage: 1526.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.78 MiB/s (raw) / 124.85 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 33.75% (12448/36880), Running for 00:01:35, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 10490.54 MiB, Written: 10116.67 MiB
+[DLManager] INFO:  - Cache usage: 1563.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 113.28 MiB/s (raw) / 126.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 34.00% (12538/36880), Running for 00:01:36, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 10600.89 MiB, Written: 10200.67 MiB
+[DLManager] INFO:  - Cache usage: 1612.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.30 MiB/s (raw) / 132.95 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.97 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 34.24% (12626/36880), Running for 00:01:37, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 10713.91 MiB, Written: 10284.67 MiB
+[DLManager] INFO:  - Cache usage: 1656.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.91 MiB/s (raw) / 127.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 34.48% (12717/36880), Running for 00:01:38, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 10825.42 MiB, Written: 10369.67 MiB
+[DLManager] INFO:  - Cache usage: 1695.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.40 MiB/s (raw) / 123.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 84.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 34.74% (12812/36880), Running for 00:01:39, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 10935.75 MiB, Written: 10458.67 MiB
+[DLManager] INFO:  - Cache usage: 1729.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 110.22 MiB/s (raw) / 122.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 34.98% (12902/36880), Running for 00:01:40, ETA: 00:03:06
+[DLManager] INFO:  - Downloaded: 11042.44 MiB, Written: 10541.67 MiB
+[DLManager] INFO:  - Cache usage: 1764.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 106.59 MiB/s (raw) / 117.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 35.24% (12997/36880), Running for 00:01:41, ETA: 00:03:05
+[DLManager] INFO:  - Downloaded: 11157.55 MiB, Written: 10629.67 MiB
+[DLManager] INFO:  - Cache usage: 1806.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 114.98 MiB/s (raw) / 129.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 87.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 35.52% (13101/36880), Running for 00:01:42, ETA: 00:03:05
+[DLManager] INFO:  - Downloaded: 11264.21 MiB, Written: 10719.67 MiB
+[DLManager] INFO:  - Cache usage: 1836.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 106.57 MiB/s (raw) / 119.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 35.78% (13196/36880), Running for 00:01:43, ETA: 00:03:05
+[DLManager] INFO:  - Downloaded: 11374.25 MiB, Written: 10807.67 MiB
+[DLManager] INFO:  - Cache usage: 1873.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 109.92 MiB/s (raw) / 124.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 87.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 36.04% (13291/36880), Running for 00:01:44, ETA: 00:03:04
+[DLManager] INFO:  - Downloaded: 11486.06 MiB, Written: 10895.67 MiB
+[DLManager] INFO:  - Cache usage: 1911.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.69 MiB/s (raw) / 125.86 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 87.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 36.29% (13384/36880), Running for 00:01:45, ETA: 00:03:04
+[DLManager] INFO:  - Downloaded: 11597.15 MiB, Written: 10979.67 MiB
+[DLManager] INFO:  - Cache usage: 1949.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.00 MiB/s (raw) / 121.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 36.53% (13474/36880), Running for 00:01:46, ETA: 00:03:04
+[DLManager] INFO:  - Downloaded: 11708.26 MiB, Written: 11062.67 MiB
+[DLManager] INFO:  - Cache usage: 1990.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 111.00 MiB/s (raw) / 123.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 36.77% (13562/36880), Running for 00:01:47, ETA: 00:03:04
+[DLManager] INFO:  - Downloaded: 11820.99 MiB, Written: 11144.67 MiB
+[DLManager] INFO:  - Cache usage: 2034.00 MiB, active tasks: 32
+[DLManager] INFO:  + Download	- 112.62 MiB/s (raw) / 125.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 37.01% (13650/36880), Running for 00:01:48, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 11930.49 MiB, Written: 11225.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 109.39 MiB/s (raw) / 122.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 80.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 37.26% (13741/36880), Running for 00:01:49, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 12001.45 MiB, Written: 11308.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 70.90 MiB/s (raw) / 82.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 37.56% (13852/36880), Running for 00:01:50, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 12078.79 MiB, Written: 11390.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 77.26 MiB/s (raw) / 84.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 37.76% (13927/36880), Running for 00:01:51, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 12143.31 MiB, Written: 11461.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 64.46 MiB/s (raw) / 71.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 70.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 37.96% (14000/36880), Running for 00:01:52, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 12204.59 MiB, Written: 11533.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 61.23 MiB/s (raw) / 68.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 71.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 38.15% (14071/36880), Running for 00:01:53, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 12267.93 MiB, Written: 11604.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 63.26 MiB/s (raw) / 71.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 70.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 38.36% (14146/36880), Running for 00:01:54, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 12335.48 MiB, Written: 11679.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 67.48 MiB/s (raw) / 75.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 74.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 38.58% (14229/36880), Running for 00:01:55, ETA: 00:03:03
+[DLManager] INFO:  - Downloaded: 12408.12 MiB, Written: 11761.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 72.57 MiB/s (raw) / 80.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 38.84% (14324/36880), Running for 00:01:56, ETA: 00:03:02
+[DLManager] INFO:  - Downloaded: 12483.11 MiB, Written: 11847.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 74.92 MiB/s (raw) / 85.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 85.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 39.10% (14419/36880), Running for 00:01:57, ETA: 00:03:02
+[DLManager] INFO:  - Downloaded: 12558.59 MiB, Written: 11933.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 75.40 MiB/s (raw) / 85.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 85.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 39.35% (14514/36880), Running for 00:01:58, ETA: 00:03:02
+[DLManager] INFO:  - Downloaded: 12635.84 MiB, Written: 12020.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 77.17 MiB/s (raw) / 85.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 86.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 39.67% (14630/36880), Running for 00:01:59, ETA: 00:03:01
+[DLManager] INFO:  - Downloaded: 12715.69 MiB, Written: 12109.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 79.79 MiB/s (raw) / 88.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 39.91% (14720/36880), Running for 00:02:00, ETA: 00:03:00
+[DLManager] INFO:  - Downloaded: 12794.07 MiB, Written: 12199.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 78.30 MiB/s (raw) / 88.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 40.17% (14816/36880), Running for 00:02:01, ETA: 00:03:00
+[DLManager] INFO:  - Downloaded: 12873.85 MiB, Written: 12289.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 79.70 MiB/s (raw) / 88.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 40.41% (14905/36880), Running for 00:02:02, ETA: 00:03:00
+[DLManager] INFO:  - Downloaded: 12953.70 MiB, Written: 12378.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 79.77 MiB/s (raw) / 90.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 40.69% (15005/36880), Running for 00:02:03, ETA: 00:02:59
+[DLManager] INFO:  - Downloaded: 13028.68 MiB, Written: 12468.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 10
+[DLManager] INFO:  + Download	- 74.91 MiB/s (raw) / 82.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 40.95% (15101/36880), Running for 00:02:04, ETA: 00:02:59
+[DLManager] INFO:  - Downloaded: 13116.04 MiB, Written: 12558.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 87.28 MiB/s (raw) / 97.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 41.21% (15198/36880), Running for 00:02:05, ETA: 00:02:58
+[DLManager] INFO:  - Downloaded: 13196.76 MiB, Written: 12652.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 6
+[DLManager] INFO:  + Download	- 80.64 MiB/s (raw) / 89.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 93.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 41.52% (15311/36880), Running for 00:02:06, ETA: 00:02:57
+[DLManager] INFO:  - Downloaded: 13287.87 MiB, Written: 12754.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 6
+[DLManager] INFO:  + Download	- 91.02 MiB/s (raw) / 101.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 101.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 41.83% (15427/36880), Running for 00:02:07, ETA: 00:02:56
+[DLManager] INFO:  - Downloaded: 13378.73 MiB, Written: 12854.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 90.77 MiB/s (raw) / 100.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 99.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 42.12% (15535/36880), Running for 00:02:08, ETA: 00:02:56
+[DLManager] INFO:  - Downloaded: 13472.03 MiB, Written: 12957.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 93.21 MiB/s (raw) / 104.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 102.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 42.41% (15641/36880), Running for 00:02:09, ETA: 00:02:55
+[DLManager] INFO:  - Downloaded: 13561.70 MiB, Written: 13059.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 89.56 MiB/s (raw) / 99.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 101.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 42.70% (15747/36880), Running for 00:02:10, ETA: 00:02:54
+[DLManager] INFO:  - Downloaded: 13651.51 MiB, Written: 13162.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 7
+[DLManager] INFO:  + Download	- 89.74 MiB/s (raw) / 100.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 102.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 42.98% (15850/36880), Running for 00:02:11, ETA: 00:02:53
+[DLManager] INFO:  - Downloaded: 13743.29 MiB, Written: 13265.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 7
+[DLManager] INFO:  + Download	- 91.69 MiB/s (raw) / 102.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 102.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 43.26% (15955/36880), Running for 00:02:12, ETA: 00:02:53
+[DLManager] INFO:  - Downloaded: 13834.70 MiB, Written: 13363.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 91.32 MiB/s (raw) / 102.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 97.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 43.56% (16065/36880), Running for 00:02:13, ETA: 00:02:52
+[DLManager] INFO:  - Downloaded: 13918.42 MiB, Written: 13457.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 83.63 MiB/s (raw) / 92.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 93.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 43.84% (16167/36880), Running for 00:02:14, ETA: 00:02:51
+[DLManager] INFO:  - Downloaded: 14004.34 MiB, Written: 13556.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 6
+[DLManager] INFO:  + Download	- 85.84 MiB/s (raw) / 95.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 98.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 44.14% (16279/36880), Running for 00:02:15, ETA: 00:02:51
+[DLManager] INFO:  - Downloaded: 14094.98 MiB, Written: 13658.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 6
+[DLManager] INFO:  + Download	- 90.55 MiB/s (raw) / 101.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 101.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 44.44% (16389/36880), Running for 00:02:16, ETA: 00:02:50
+[DLManager] INFO:  - Downloaded: 14188.59 MiB, Written: 13761.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 93.51 MiB/s (raw) / 105.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 102.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 44.73% (16498/36880), Running for 00:02:17, ETA: 00:02:49
+[DLManager] INFO:  - Downloaded: 14277.45 MiB, Written: 13862.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 88.77 MiB/s (raw) / 98.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 100.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 45.02% (16603/36880), Running for 00:02:18, ETA: 00:02:48
+[DLManager] INFO:  - Downloaded: 14360.69 MiB, Written: 13954.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 83.16 MiB/s (raw) / 93.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 45.28% (16701/36880), Running for 00:02:19, ETA: 00:02:48
+[DLManager] INFO:  - Downloaded: 14442.77 MiB, Written: 14046.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 81.98 MiB/s (raw) / 91.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 45.54% (16795/36880), Running for 00:02:20, ETA: 00:02:47
+[DLManager] INFO:  - Downloaded: 14523.04 MiB, Written: 14136.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 80.19 MiB/s (raw) / 88.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 45.78% (16883/36880), Running for 00:02:21, ETA: 00:02:47
+[DLManager] INFO:  - Downloaded: 14600.87 MiB, Written: 14220.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 77.74 MiB/s (raw) / 86.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 46.03% (16977/36880), Running for 00:02:22, ETA: 00:02:46
+[DLManager] INFO:  - Downloaded: 14673.90 MiB, Written: 14303.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 72.96 MiB/s (raw) / 80.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 46.27% (17063/36880), Running for 00:02:23, ETA: 00:02:46
+[DLManager] INFO:  - Downloaded: 14749.48 MiB, Written: 14385.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 75.49 MiB/s (raw) / 83.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 46.50% (17151/36880), Running for 00:02:24, ETA: 00:02:45
+[DLManager] INFO:  - Downloaded: 14821.74 MiB, Written: 14468.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 72.18 MiB/s (raw) / 79.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 46.75% (17241/36880), Running for 00:02:25, ETA: 00:02:45
+[DLManager] INFO:  - Downloaded: 14896.36 MiB, Written: 14550.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 74.57 MiB/s (raw) / 82.94 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.94 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 46.99% (17330/36880), Running for 00:02:26, ETA: 00:02:44
+[DLManager] INFO:  - Downloaded: 14970.45 MiB, Written: 14631.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 74.00 MiB/s (raw) / 81.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 80.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 47.22% (17413/36880), Running for 00:02:27, ETA: 00:02:44
+[DLManager] INFO:  - Downloaded: 15035.73 MiB, Written: 14707.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 65.22 MiB/s (raw) / 73.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 75.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 47.40% (17482/36880), Running for 00:02:28, ETA: 00:02:44
+[DLManager] INFO:  - Downloaded: 15096.67 MiB, Written: 14773.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 60.87 MiB/s (raw) / 67.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 65.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 47.62% (17561/36880), Running for 00:02:29, ETA: 00:02:44
+[DLManager] INFO:  - Downloaded: 15154.02 MiB, Written: 14839.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 57.28 MiB/s (raw) / 65.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 65.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 47.82% (17635/36880), Running for 00:02:30, ETA: 00:02:43
+[DLManager] INFO:  - Downloaded: 15215.58 MiB, Written: 14908.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 61.49 MiB/s (raw) / 68.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 68.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 48.03% (17713/36880), Running for 00:02:31, ETA: 00:02:43
+[DLManager] INFO:  - Downloaded: 15280.08 MiB, Written: 14981.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 64.43 MiB/s (raw) / 71.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 72.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 48.26% (17797/36880), Running for 00:02:32, ETA: 00:02:43
+[DLManager] INFO:  - Downloaded: 15347.46 MiB, Written: 15056.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 67.32 MiB/s (raw) / 75.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 74.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 48.47% (17876/36880), Running for 00:02:33, ETA: 00:02:42
+[DLManager] INFO:  - Downloaded: 15414.54 MiB, Written: 15132.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 67.01 MiB/s (raw) / 74.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 75.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 48.69% (17956/36880), Running for 00:02:34, ETA: 00:02:42
+[DLManager] INFO:  - Downloaded: 15483.83 MiB, Written: 15208.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 69.22 MiB/s (raw) / 76.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 75.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 48.95% (18053/36880), Running for 00:02:35, ETA: 00:02:41
+[DLManager] INFO:  - Downloaded: 15557.62 MiB, Written: 15288.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 73.72 MiB/s (raw) / 79.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 79.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 49.19% (18140/36880), Running for 00:02:36, ETA: 00:02:41
+[DLManager] INFO:  - Downloaded: 15632.00 MiB, Written: 15370.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 74.30 MiB/s (raw) / 81.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 49.46% (18242/36880), Running for 00:02:37, ETA: 00:02:40
+[DLManager] INFO:  - Downloaded: 15694.63 MiB, Written: 15454.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 17
+[DLManager] INFO:  + Download	- 62.57 MiB/s (raw) / 68.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 49.73% (18339/36880), Running for 00:02:38, ETA: 00:02:39
+[DLManager] INFO:  - Downloaded: 15782.52 MiB, Written: 15539.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 87.80 MiB/s (raw) / 97.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 84.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 49.96% (18424/36880), Running for 00:02:39, ETA: 00:02:39
+[DLManager] INFO:  - Downloaded: 15857.70 MiB, Written: 15623.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 75.11 MiB/s (raw) / 83.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 50.22% (18521/36880), Running for 00:02:40, ETA: 00:02:38
+[DLManager] INFO:  - Downloaded: 15935.24 MiB, Written: 15707.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 77.46 MiB/s (raw) / 86.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 50.46% (18608/36880), Running for 00:02:41, ETA: 00:02:38
+[DLManager] INFO:  - Downloaded: 16008.40 MiB, Written: 15791.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 73.09 MiB/s (raw) / 82.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 50.69% (18695/36880), Running for 00:02:42, ETA: 00:02:37
+[DLManager] INFO:  - Downloaded: 16073.27 MiB, Written: 15875.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 13
+[DLManager] INFO:  + Download	- 64.81 MiB/s (raw) / 72.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 50.96% (18795/36880), Running for 00:02:43, ETA: 00:02:37
+[DLManager] INFO:  - Downloaded: 16149.22 MiB, Written: 15962.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 14
+[DLManager] INFO:  + Download	- 75.87 MiB/s (raw) / 85.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 86.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 51.20% (18882/36880), Running for 00:02:44, ETA: 00:02:36
+[DLManager] INFO:  - Downloaded: 16234.86 MiB, Written: 16048.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 85.56 MiB/s (raw) / 95.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 85.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 51.46% (18978/36880), Running for 00:02:45, ETA: 00:02:35
+[DLManager] INFO:  - Downloaded: 16311.39 MiB, Written: 16133.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 76.44 MiB/s (raw) / 84.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 84.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 51.74% (19081/36880), Running for 00:02:46, ETA: 00:02:35
+[DLManager] INFO:  - Downloaded: 16393.29 MiB, Written: 16222.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 81.81 MiB/s (raw) / 90.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 51.99% (19174/36880), Running for 00:02:47, ETA: 00:02:34
+[DLManager] INFO:  - Downloaded: 16477.40 MiB, Written: 16315.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 84.05 MiB/s (raw) / 92.94 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 92.94 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 52.25% (19271/36880), Running for 00:02:48, ETA: 00:02:33
+[DLManager] INFO:  - Downloaded: 16552.65 MiB, Written: 16400.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 75.17 MiB/s (raw) / 83.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 84.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 52.52% (19369/36880), Running for 00:02:49, ETA: 00:02:32
+[DLManager] INFO:  - Downloaded: 16637.30 MiB, Written: 16494.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 84.57 MiB/s (raw) / 94.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 93.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 52.80% (19473/36880), Running for 00:02:50, ETA: 00:02:32
+[DLManager] INFO:  - Downloaded: 16721.68 MiB, Written: 16590.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 84.30 MiB/s (raw) / 93.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 95.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 53.12% (19589/36880), Running for 00:02:51, ETA: 00:02:31
+[DLManager] INFO:  - Downloaded: 16807.17 MiB, Written: 16685.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 85.41 MiB/s (raw) / 95.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 94.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 53.39% (19689/36880), Running for 00:02:52, ETA: 00:02:30
+[DLManager] INFO:  - Downloaded: 16888.09 MiB, Written: 16783.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 11
+[DLManager] INFO:  + Download	- 80.84 MiB/s (raw) / 89.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 97.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 53.67% (19794/36880), Running for 00:02:53, ETA: 00:02:29
+[DLManager] INFO:  - Downloaded: 16981.24 MiB, Written: 16880.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 93.06 MiB/s (raw) / 103.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 96.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 53.96% (19901/36880), Running for 00:02:54, ETA: 00:02:28
+[DLManager] INFO:  - Downloaded: 17071.02 MiB, Written: 16978.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 89.69 MiB/s (raw) / 98.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 97.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 54.25% (20009/36880), Running for 00:02:55, ETA: 00:02:27
+[DLManager] INFO:  - Downloaded: 17155.14 MiB, Written: 17076.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 84.04 MiB/s (raw) / 98.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 97.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 54.54% (20115/36880), Running for 00:02:56, ETA: 00:02:26
+[DLManager] INFO:  - Downloaded: 17237.98 MiB, Written: 17175.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 82.76 MiB/s (raw) / 97.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 98.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 54.84% (20225/36880), Running for 00:02:57, ETA: 00:02:25
+[DLManager] INFO:  - Downloaded: 17333.03 MiB, Written: 17275.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 94.95 MiB/s (raw) / 99.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 99.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 55.18% (20352/36880), Running for 00:02:58, ETA: 00:02:24
+[DLManager] INFO:  - Downloaded: 17428.94 MiB, Written: 17376.07 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 95.80 MiB/s (raw) / 99.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 100.29 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 55.54% (20483/36880), Running for 00:02:59, ETA: 00:02:23
+[DLManager] INFO:  - Downloaded: 17523.02 MiB, Written: 17477.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 7
+[DLManager] INFO:  + Download	- 93.97 MiB/s (raw) / 97.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 101.47 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 55.89% (20611/36880), Running for 00:03:00, ETA: 00:02:22
+[DLManager] INFO:  - Downloaded: 17618.69 MiB, Written: 17577.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 8
+[DLManager] INFO:  + Download	- 95.59 MiB/s (raw) / 98.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 99.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 56.18% (20721/36880), Running for 00:03:01, ETA: 00:02:21
+[DLManager] INFO:  - Downloaded: 17721.59 MiB, Written: 17679.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 102.82 MiB/s (raw) / 106.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 101.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 56.52% (20843/36880), Running for 00:03:02, ETA: 00:02:20
+[DLManager] INFO:  - Downloaded: 17803.30 MiB, Written: 17779.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 81.63 MiB/s (raw) / 100.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 99.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 56.82% (20955/36880), Running for 00:03:03, ETA: 00:02:19
+[DLManager] INFO:  - Downloaded: 17887.32 MiB, Written: 17881.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 83.94 MiB/s (raw) / 99.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 101.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 57.09% (21056/36880), Running for 00:03:04, ETA: 00:02:18
+[DLManager] INFO:  - Downloaded: 17956.49 MiB, Written: 17976.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 69.09 MiB/s (raw) / 97.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 94.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 57.39% (21164/36880), Running for 00:03:05, ETA: 00:02:17
+[DLManager] INFO:  - Downloaded: 17965.16 MiB, Written: 18075.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 8.67 MiB/s (raw) / 98.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 98.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 57.70% (21280/36880), Running for 00:03:06, ETA: 00:02:16
+[DLManager] INFO:  - Downloaded: 17968.33 MiB, Written: 18172.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 3.17 MiB/s (raw) / 96.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 96.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 57.99% (21388/36880), Running for 00:03:07, ETA: 00:02:15
+[DLManager] INFO:  - Downloaded: 17968.75 MiB, Written: 18263.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 0.42 MiB/s (raw) / 90.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 58.31% (21504/36880), Running for 00:03:08, ETA: 00:02:14
+[DLManager] INFO:  - Downloaded: 17969.32 MiB, Written: 18358.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 0.57 MiB/s (raw) / 94.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 94.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 58.61% (21614/36880), Running for 00:03:09, ETA: 00:02:13
+[DLManager] INFO:  - Downloaded: 17969.72 MiB, Written: 18449.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.39 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 58.90% (21721/36880), Running for 00:03:10, ETA: 00:02:12
+[DLManager] INFO:  - Downloaded: 17976.42 MiB, Written: 18541.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 6.70 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 59.15% (21814/36880), Running for 00:03:11, ETA: 00:02:12
+[DLManager] INFO:  - Downloaded: 17983.51 MiB, Written: 18633.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 7.08 MiB/s (raw) / 90.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 59.44% (21923/36880), Running for 00:03:12, ETA: 00:02:11
+[DLManager] INFO:  - Downloaded: 17983.85 MiB, Written: 18724.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.35 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 59.70% (22019/36880), Running for 00:03:13, ETA: 00:02:10
+[DLManager] INFO:  - Downloaded: 17984.33 MiB, Written: 18816.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 0.48 MiB/s (raw) / 90.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 59.96% (22113/36880), Running for 00:03:14, ETA: 00:02:09
+[DLManager] INFO:  - Downloaded: 17984.89 MiB, Written: 18908.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 0.56 MiB/s (raw) / 91.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 60.25% (22220/36880), Running for 00:03:15, ETA: 00:02:08
+[DLManager] INFO:  - Downloaded: 17997.02 MiB, Written: 19000.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 12.12 MiB/s (raw) / 87.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 60.49% (22310/36880), Running for 00:03:16, ETA: 00:02:08
+[DLManager] INFO:  - Downloaded: 18083.27 MiB, Written: 19090.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 86.16 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 60.78% (22417/36880), Running for 00:03:17, ETA: 00:02:07
+[DLManager] INFO:  - Downloaded: 18168.45 MiB, Written: 19179.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 85.10 MiB/s (raw) / 90.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 61.04% (22513/36880), Running for 00:03:18, ETA: 00:02:06
+[DLManager] INFO:  - Downloaded: 18243.74 MiB, Written: 19269.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 13
+[DLManager] INFO:  + Download	- 75.22 MiB/s (raw) / 77.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 61.33% (22617/36880), Running for 00:03:19, ETA: 00:02:05
+[DLManager] INFO:  - Downloaded: 18339.52 MiB, Written: 19359.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 95.68 MiB/s (raw) / 99.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 61.60% (22719/36880), Running for 00:03:20, ETA: 00:02:04
+[DLManager] INFO:  - Downloaded: 18419.41 MiB, Written: 19450.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 10
+[DLManager] INFO:  + Download	- 79.79 MiB/s (raw) / 83.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 61.86% (22815/36880), Running for 00:03:21, ETA: 00:02:04
+[DLManager] INFO:  - Downloaded: 18507.88 MiB, Written: 19536.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 88.40 MiB/s (raw) / 93.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 85.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 62.12% (22910/36880), Running for 00:03:22, ETA: 00:02:03
+[DLManager] INFO:  - Downloaded: 18587.66 MiB, Written: 19623.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 79.70 MiB/s (raw) / 85.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 86.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 62.39% (23008/36880), Running for 00:03:23, ETA: 00:02:02
+[DLManager] INFO:  - Downloaded: 18667.17 MiB, Written: 19709.37 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 79.43 MiB/s (raw) / 84.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 85.62 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 62.67% (23111/36880), Running for 00:03:24, ETA: 00:02:01
+[DLManager] INFO:  - Downloaded: 18748.30 MiB, Written: 19792.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 81.05 MiB/s (raw) / 85.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.21 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 62.93% (23210/36880), Running for 00:03:25, ETA: 00:02:00
+[DLManager] INFO:  - Downloaded: 18825.06 MiB, Written: 19875.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 76.67 MiB/s (raw) / 79.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 63.25% (23326/36880), Running for 00:03:26, ETA: 00:01:59
+[DLManager] INFO:  - Downloaded: 18901.21 MiB, Written: 19957.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 6
+[DLManager] INFO:  + Download	- 76.07 MiB/s (raw) / 79.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 63.50% (23420/36880), Running for 00:03:27, ETA: 00:01:59
+[DLManager] INFO:  - Downloaded: 18981.82 MiB, Written: 20041.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 80.53 MiB/s (raw) / 84.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 63.73% (23504/36880), Running for 00:03:28, ETA: 00:01:58
+[DLManager] INFO:  - Downloaded: 19037.88 MiB, Written: 20125.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 30
+[DLManager] INFO:  + Download	- 56.00 MiB/s (raw) / 58.94 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 63.96% (23587/36880), Running for 00:03:29, ETA: 00:01:57
+[DLManager] INFO:  - Downloaded: 19141.27 MiB, Written: 20208.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 103.19 MiB/s (raw) / 110.78 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.83 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 64.18% (23671/36880), Running for 00:03:30, ETA: 00:01:57
+[DLManager] INFO:  - Downloaded: 19216.86 MiB, Written: 20292.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 75.52 MiB/s (raw) / 82.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 64.43% (23761/36880), Running for 00:03:31, ETA: 00:01:56
+[DLManager] INFO:  - Downloaded: 19300.21 MiB, Written: 20382.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 83.27 MiB/s (raw) / 89.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 64.67% (23850/36880), Running for 00:03:32, ETA: 00:01:55
+[DLManager] INFO:  - Downloaded: 19380.71 MiB, Written: 20471.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 80.42 MiB/s (raw) / 88.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 64.91% (23940/36880), Running for 00:03:33, ETA: 00:01:55
+[DLManager] INFO:  - Downloaded: 19440.48 MiB, Written: 20560.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 27
+[DLManager] INFO:  + Download	- 59.71 MiB/s (raw) / 64.94 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 65.15% (24028/36880), Running for 00:03:34, ETA: 00:01:54
+[DLManager] INFO:  - Downloaded: 19543.60 MiB, Written: 20648.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 103.02 MiB/s (raw) / 110.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 87.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 65.40% (24119/36880), Running for 00:03:35, ETA: 00:01:53
+[DLManager] INFO:  - Downloaded: 19627.90 MiB, Written: 20739.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 84.21 MiB/s (raw) / 92.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 65.65% (24211/36880), Running for 00:03:36, ETA: 00:01:53
+[DLManager] INFO:  - Downloaded: 19710.55 MiB, Written: 20831.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 82.55 MiB/s (raw) / 90.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 65.89% (24302/36880), Running for 00:03:37, ETA: 00:01:52
+[DLManager] INFO:  - Downloaded: 19793.77 MiB, Written: 20922.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 83.13 MiB/s (raw) / 91.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 66.15% (24395/36880), Running for 00:03:38, ETA: 00:01:51
+[DLManager] INFO:  - Downloaded: 19875.87 MiB, Written: 21015.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 82.05 MiB/s (raw) / 89.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 92.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 66.51% (24529/36880), Running for 00:03:39, ETA: 00:01:50
+[DLManager] INFO:  - Downloaded: 19961.91 MiB, Written: 21105.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 85.94 MiB/s (raw) / 92.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 66.86% (24659/36880), Running for 00:03:40, ETA: 00:01:49
+[DLManager] INFO:  - Downloaded: 20035.41 MiB, Written: 21187.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 73.43 MiB/s (raw) / 80.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 67.17% (24772/36880), Running for 00:03:41, ETA: 00:01:48
+[DLManager] INFO:  - Downloaded: 20114.77 MiB, Written: 21272.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 79.29 MiB/s (raw) / 86.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 84.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 67.51% (24899/36880), Running for 00:03:42, ETA: 00:01:46
+[DLManager] INFO:  - Downloaded: 20194.27 MiB, Written: 21363.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 79.42 MiB/s (raw) / 88.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 67.83% (25016/36880), Running for 00:03:43, ETA: 00:01:45
+[DLManager] INFO:  - Downloaded: 20278.18 MiB, Written: 21454.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 83.83 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 68.13% (25128/36880), Running for 00:03:44, ETA: 00:01:44
+[DLManager] INFO:  - Downloaded: 20353.10 MiB, Written: 21538.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 74.84 MiB/s (raw) / 83.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 68.60% (25300/36880), Running for 00:03:45, ETA: 00:01:43
+[DLManager] INFO:  - Downloaded: 20426.61 MiB, Written: 21622.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 73.44 MiB/s (raw) / 81.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 69.01% (25451/36880), Running for 00:03:46, ETA: 00:01:41
+[DLManager] INFO:  - Downloaded: 20505.10 MiB, Written: 21707.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 78.39 MiB/s (raw) / 86.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 84.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 69.40% (25593/36880), Running for 00:03:47, ETA: 00:01:40
+[DLManager] INFO:  - Downloaded: 20587.51 MiB, Written: 21797.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 82.32 MiB/s (raw) / 88.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 69.72% (25711/36880), Running for 00:03:48, ETA: 00:01:39
+[DLManager] INFO:  - Downloaded: 20668.85 MiB, Written: 21885.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 81.25 MiB/s (raw) / 86.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 87.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 70.03% (25826/36880), Running for 00:03:49, ETA: 00:01:38
+[DLManager] INFO:  - Downloaded: 20745.59 MiB, Written: 21968.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 76.69 MiB/s (raw) / 83.95 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.95 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 70.34% (25943/36880), Running for 00:03:50, ETA: 00:01:37
+[DLManager] INFO:  - Downloaded: 20827.66 MiB, Written: 22057.33 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 81.98 MiB/s (raw) / 89.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.57 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 70.65% (26054/36880), Running for 00:03:51, ETA: 00:01:36
+[DLManager] INFO:  - Downloaded: 20903.20 MiB, Written: 22140.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 75.47 MiB/s (raw) / 81.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.26 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 71.10% (26222/36880), Running for 00:03:52, ETA: 00:01:34
+[DLManager] INFO:  - Downloaded: 20981.35 MiB, Written: 22222.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 78.07 MiB/s (raw) / 83.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 71.43% (26342/36880), Running for 00:03:53, ETA: 00:01:33
+[DLManager] INFO:  - Downloaded: 21029.87 MiB, Written: 22304.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 31
+[DLManager] INFO:  + Download	- 48.47 MiB/s (raw) / 51.95 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 71.65% (26425/36880), Running for 00:03:54, ETA: 00:01:32
+[DLManager] INFO:  - Downloaded: 21132.34 MiB, Written: 22387.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 102.38 MiB/s (raw) / 110.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 71.87% (26507/36880), Running for 00:03:55, ETA: 00:01:32
+[DLManager] INFO:  - Downloaded: 21207.39 MiB, Written: 22469.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 74.97 MiB/s (raw) / 80.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 72.10% (26589/36880), Running for 00:03:56, ETA: 00:01:31
+[DLManager] INFO:  - Downloaded: 21283.58 MiB, Written: 22551.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 76.11 MiB/s (raw) / 81.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 72.32% (26671/36880), Running for 00:03:57, ETA: 00:01:30
+[DLManager] INFO:  - Downloaded: 21358.21 MiB, Written: 22633.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 74.56 MiB/s (raw) / 80.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 72.52% (26747/36880), Running for 00:03:58, ETA: 00:01:30
+[DLManager] INFO:  - Downloaded: 21433.80 MiB, Written: 22709.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 75.51 MiB/s (raw) / 80.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 75.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 72.76% (26834/36880), Running for 00:03:59, ETA: 00:01:29
+[DLManager] INFO:  - Downloaded: 21511.54 MiB, Written: 22796.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 77.65 MiB/s (raw) / 83.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 86.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 72.98% (26915/36880), Running for 00:04:00, ETA: 00:01:28
+[DLManager] INFO:  - Downloaded: 21587.61 MiB, Written: 22877.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 76.01 MiB/s (raw) / 81.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 80.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 73.20% (26996/36880), Running for 00:04:01, ETA: 00:01:28
+[DLManager] INFO:  - Downloaded: 21661.89 MiB, Written: 22958.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 74.21 MiB/s (raw) / 79.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 80.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 73.41% (27072/36880), Running for 00:04:02, ETA: 00:01:27
+[DLManager] INFO:  - Downloaded: 21732.88 MiB, Written: 23034.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 70.91 MiB/s (raw) / 75.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 75.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 73.60% (27145/36880), Running for 00:04:03, ETA: 00:01:27
+[DLManager] INFO:  - Downloaded: 21800.48 MiB, Written: 23107.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 67.54 MiB/s (raw) / 72.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 72.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 73.80% (27216/36880), Running for 00:04:04, ETA: 00:01:26
+[DLManager] INFO:  - Downloaded: 21871.71 MiB, Written: 23178.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 71.15 MiB/s (raw) / 71.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 70.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 74.00% (27293/36880), Running for 00:04:05, ETA: 00:01:26
+[DLManager] INFO:  - Downloaded: 21938.14 MiB, Written: 23255.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 66.36 MiB/s (raw) / 75.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 76.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 74.23% (27375/36880), Running for 00:04:06, ETA: 00:01:25
+[DLManager] INFO:  - Downloaded: 22014.16 MiB, Written: 23337.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 75.94 MiB/s (raw) / 81.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 74.45% (27459/36880), Running for 00:04:07, ETA: 00:01:24
+[DLManager] INFO:  - Downloaded: 22088.57 MiB, Written: 23421.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 74.32 MiB/s (raw) / 84.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 83.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 74.70% (27549/36880), Running for 00:04:08, ETA: 00:01:24
+[DLManager] INFO:  - Downloaded: 22166.19 MiB, Written: 23511.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 77.56 MiB/s (raw) / 89.94 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.94 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 74.94% (27639/36880), Running for 00:04:09, ETA: 00:01:23
+[DLManager] INFO:  - Downloaded: 22242.83 MiB, Written: 23601.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 76.57 MiB/s (raw) / 90.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 75.19% (27730/36880), Running for 00:04:10, ETA: 00:01:22
+[DLManager] INFO:  - Downloaded: 22303.78 MiB, Written: 23692.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 18
+[DLManager] INFO:  + Download	- 60.89 MiB/s (raw) / 73.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 75.44% (27821/36880), Running for 00:04:11, ETA: 00:01:21
+[DLManager] INFO:  - Downloaded: 22403.01 MiB, Written: 23782.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 99.12 MiB/s (raw) / 104.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 89.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 75.70% (27920/36880), Running for 00:04:12, ETA: 00:01:20
+[DLManager] INFO:  - Downloaded: 22493.81 MiB, Written: 23881.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 90.72 MiB/s (raw) / 99.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 98.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 75.96% (28014/36880), Running for 00:04:13, ETA: 00:01:20
+[DLManager] INFO:  - Downloaded: 22568.95 MiB, Written: 23975.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 75.06 MiB/s (raw) / 90.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 93.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 76.22% (28109/36880), Running for 00:04:14, ETA: 00:01:19
+[DLManager] INFO:  - Downloaded: 22660.08 MiB, Written: 24070.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 91.04 MiB/s (raw) / 97.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 94.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 76.48% (28205/36880), Running for 00:04:15, ETA: 00:01:18
+[DLManager] INFO:  - Downloaded: 22727.34 MiB, Written: 24166.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 67.19 MiB/s (raw) / 96.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 95.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 76.74% (28303/36880), Running for 00:04:16, ETA: 00:01:17
+[DLManager] INFO:  - Downloaded: 22797.34 MiB, Written: 24264.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 69.86 MiB/s (raw) / 96.81 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 97.81 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 77.00% (28397/36880), Running for 00:04:17, ETA: 00:01:16
+[DLManager] INFO:  - Downloaded: 22868.71 MiB, Written: 24358.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 71.30 MiB/s (raw) / 93.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 93.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 77.26% (28495/36880), Running for 00:04:18, ETA: 00:01:15
+[DLManager] INFO:  - Downloaded: 22944.32 MiB, Written: 24456.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 75.53 MiB/s (raw) / 98.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 97.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 77.49% (28578/36880), Running for 00:04:19, ETA: 00:01:15
+[DLManager] INFO:  - Downloaded: 23006.77 MiB, Written: 24539.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 62.38 MiB/s (raw) / 81.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 77.79% (28688/36880), Running for 00:04:20, ETA: 00:01:14
+[DLManager] INFO:  - Downloaded: 23091.16 MiB, Written: 24649.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 84.32 MiB/s (raw) / 109.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 109.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 78.06% (28789/36880), Running for 00:04:21, ETA: 00:01:13
+[DLManager] INFO:  - Downloaded: 23167.40 MiB, Written: 24750.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 76.17 MiB/s (raw) / 99.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 100.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 78.34% (28891/36880), Running for 00:04:22, ETA: 00:01:12
+[DLManager] INFO:  - Downloaded: 23249.50 MiB, Written: 24852.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 82.01 MiB/s (raw) / 103.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 101.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 78.61% (28990/36880), Running for 00:04:23, ETA: 00:01:11
+[DLManager] INFO:  - Downloaded: 23325.23 MiB, Written: 24951.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 5
+[DLManager] INFO:  + Download	- 75.66 MiB/s (raw) / 94.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 98.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 78.88% (29091/36880), Running for 00:04:24, ETA: 00:01:10
+[DLManager] INFO:  - Downloaded: 23397.99 MiB, Written: 25052.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 14
+[DLManager] INFO:  + Download	- 72.67 MiB/s (raw) / 91.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 100.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 79.19% (29206/36880), Running for 00:04:25, ETA: 00:01:09
+[DLManager] INFO:  - Downloaded: 23486.93 MiB, Written: 25155.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 88.87 MiB/s (raw) / 113.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 102.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 79.52% (29327/36880), Running for 00:04:26, ETA: 00:01:08
+[DLManager] INFO:  - Downloaded: 23563.44 MiB, Written: 25257.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 76.44 MiB/s (raw) / 101.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 101.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 79.99% (29501/36880), Running for 00:04:27, ETA: 00:01:06
+[DLManager] INFO:  - Downloaded: 23636.65 MiB, Written: 25355.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 73.13 MiB/s (raw) / 97.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 97.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 80.34% (29631/36880), Running for 00:04:28, ETA: 00:01:05
+[DLManager] INFO:  - Downloaded: 23706.74 MiB, Written: 25448.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 70.03 MiB/s (raw) / 93.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 92.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 80.71% (29766/36880), Running for 00:04:29, ETA: 00:01:04
+[DLManager] INFO:  - Downloaded: 23777.28 MiB, Written: 25541.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 70.46 MiB/s (raw) / 93.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 92.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 81.06% (29895/36880), Running for 00:04:30, ETA: 00:01:03
+[DLManager] INFO:  - Downloaded: 23845.48 MiB, Written: 25633.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 68.13 MiB/s (raw) / 90.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 81.44% (30035/36880), Running for 00:04:31, ETA: 00:01:01
+[DLManager] INFO:  - Downloaded: 23914.88 MiB, Written: 25725.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 69.34 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 81.74% (30145/36880), Running for 00:04:32, ETA: 00:01:00
+[DLManager] INFO:  - Downloaded: 23983.57 MiB, Written: 25816.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 68.62 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 82.09% (30275/36880), Running for 00:04:33, ETA: 00:00:59
+[DLManager] INFO:  - Downloaded: 24043.44 MiB, Written: 25899.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 59.82 MiB/s (raw) / 80.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 82.40% (30388/36880), Running for 00:04:34, ETA: 00:00:58
+[DLManager] INFO:  - Downloaded: 24103.80 MiB, Written: 25981.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 60.30 MiB/s (raw) / 80.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 82.62% (30472/36880), Running for 00:04:35, ETA: 00:00:57
+[DLManager] INFO:  - Downloaded: 24168.10 MiB, Written: 26063.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 64.23 MiB/s (raw) / 84.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 81.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 82.87% (30564/36880), Running for 00:04:36, ETA: 00:00:57
+[DLManager] INFO:  - Downloaded: 24237.89 MiB, Written: 26155.67 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 69.72 MiB/s (raw) / 90.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 86.51% (31905/36880), Running for 00:04:37, ETA: 00:00:43
+[DLManager] INFO:  - Downloaded: 24305.47 MiB, Written: 26244.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 67.50 MiB/s (raw) / 88.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.82 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 86.76% (31997/36880), Running for 00:04:38, ETA: 00:00:42
+[DLManager] INFO:  - Downloaded: 24373.09 MiB, Written: 26336.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 67.57 MiB/s (raw) / 93.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 87.01% (32088/36880), Running for 00:04:39, ETA: 00:00:41
+[DLManager] INFO:  - Downloaded: 24439.37 MiB, Written: 26427.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 66.19 MiB/s (raw) / 90.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 87.24% (32173/36880), Running for 00:04:40, ETA: 00:00:41
+[DLManager] INFO:  - Downloaded: 24502.28 MiB, Written: 26512.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 62.88 MiB/s (raw) / 85.95 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 84.95 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 87.49% (32265/36880), Running for 00:04:41, ETA: 00:00:40
+[DLManager] INFO:  - Downloaded: 24568.53 MiB, Written: 26604.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 66.18 MiB/s (raw) / 90.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 91.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 87.73% (32356/36880), Running for 00:04:42, ETA: 00:00:39
+[DLManager] INFO:  - Downloaded: 24636.02 MiB, Written: 26695.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 67.43 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 87.98% (32446/36880), Running for 00:04:43, ETA: 00:00:38
+[DLManager] INFO:  - Downloaded: 24701.45 MiB, Written: 26784.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 1
+[DLManager] INFO:  + Download	- 65.35 MiB/s (raw) / 88.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 88.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 88.20% (32529/36880), Running for 00:04:44, ETA: 00:00:38
+[DLManager] INFO:  - Downloaded: 24758.20 MiB, Written: 26867.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 56.70 MiB/s (raw) / 80.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 82.93 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 88.42% (32610/36880), Running for 00:04:45, ETA: 00:00:37
+[DLManager] INFO:  - Downloaded: 24817.23 MiB, Written: 26948.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 58.97 MiB/s (raw) / 81.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 80.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 88.66% (32697/36880), Running for 00:04:46, ETA: 00:00:36
+[DLManager] INFO:  - Downloaded: 24880.42 MiB, Written: 27035.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 63.13 MiB/s (raw) / 86.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 86.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 88.90% (32788/36880), Running for 00:04:47, ETA: 00:00:35
+[DLManager] INFO:  - Downloaded: 24945.60 MiB, Written: 27126.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 65.11 MiB/s (raw) / 89.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 89.15% (32880/36880), Running for 00:04:48, ETA: 00:00:35
+[DLManager] INFO:  - Downloaded: 25011.38 MiB, Written: 27217.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 65.72 MiB/s (raw) / 91.91 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 90.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 89.41% (32976/36880), Running for 00:04:49, ETA: 00:00:34
+[DLManager] INFO:  - Downloaded: 25080.69 MiB, Written: 27313.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 69.24 MiB/s (raw) / 95.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 95.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 89.69% (33077/36880), Running for 00:04:50, ETA: 00:00:33
+[DLManager] INFO:  - Downloaded: 25150.97 MiB, Written: 27413.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 70.21 MiB/s (raw) / 97.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 99.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 89.96% (33176/36880), Running for 00:04:51, ETA: 00:00:32
+[DLManager] INFO:  - Downloaded: 25221.75 MiB, Written: 27512.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 70.71 MiB/s (raw) / 99.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 98.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 90.24% (33280/36880), Running for 00:04:52, ETA: 00:00:31
+[DLManager] INFO:  - Downloaded: 25296.64 MiB, Written: 27615.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 74.81 MiB/s (raw) / 102.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 102.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 90.52% (33383/36880), Running for 00:04:53, ETA: 00:00:30
+[DLManager] INFO:  - Downloaded: 25371.24 MiB, Written: 27718.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 74.52 MiB/s (raw) / 103.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 102.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 90.80% (33488/36880), Running for 00:04:54, ETA: 00:00:29
+[DLManager] INFO:  - Downloaded: 25435.21 MiB, Written: 27822.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 17
+[DLManager] INFO:  + Download	- 63.91 MiB/s (raw) / 88.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 103.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 91.09% (33593/36880), Running for 00:04:55, ETA: 00:00:28
+[DLManager] INFO:  - Downloaded: 25519.63 MiB, Written: 27927.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 84.34 MiB/s (raw) / 117.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 104.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 91.38% (33700/36880), Running for 00:04:56, ETA: 00:00:27
+[DLManager] INFO:  - Downloaded: 25595.06 MiB, Written: 28033.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 75.34 MiB/s (raw) / 106.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 105.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 91.67% (33808/36880), Running for 00:04:57, ETA: 00:00:27
+[DLManager] INFO:  - Downloaded: 25672.11 MiB, Written: 28141.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 3
+[DLManager] INFO:  + Download	- 76.99 MiB/s (raw) / 107.92 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 107.92 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 91.98% (33923/36880), Running for 00:04:58, ETA: 00:00:26
+[DLManager] INFO:  - Downloaded: 25752.57 MiB, Written: 28256.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 7
+[DLManager] INFO:  + Download	- 80.38 MiB/s (raw) / 110.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 114.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 92.31% (34043/36880), Running for 00:04:59, ETA: 00:00:24
+[DLManager] INFO:  - Downloaded: 25842.90 MiB, Written: 28374.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 2
+[DLManager] INFO:  + Download	- 90.24 MiB/s (raw) / 122.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 117.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 92.61% (34156/36880), Running for 00:05:00, ETA: 00:00:23
+[DLManager] INFO:  - Downloaded: 25923.94 MiB, Written: 28487.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 80.96 MiB/s (raw) / 110.89 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 112.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 92.94% (34275/36880), Running for 00:05:01, ETA: 00:00:22
+[DLManager] INFO:  - Downloaded: 26013.56 MiB, Written: 28606.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 89.53 MiB/s (raw) / 118.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 118.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 93.27% (34398/36880), Running for 00:05:02, ETA: 00:00:21
+[DLManager] INFO:  - Downloaded: 26106.08 MiB, Written: 28729.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 4
+[DLManager] INFO:  + Download	- 92.42 MiB/s (raw) / 122.88 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 122.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 93.62% (34526/36880), Running for 00:05:03, ETA: 00:00:20
+[DLManager] INFO:  - Downloaded: 26190.25 MiB, Written: 28856.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 17
+[DLManager] INFO:  + Download	- 84.07 MiB/s (raw) / 113.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 126.85 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 93.95% (34649/36880), Running for 00:05:04, ETA: 00:00:19
+[DLManager] INFO:  - Downloaded: 26279.52 MiB, Written: 28979.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 17
+[DLManager] INFO:  + Download	- 89.20 MiB/s (raw) / 122.90 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 122.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 94.28% (34772/36880), Running for 00:05:05, ETA: 00:00:18
+[DLManager] INFO:  - Downloaded: 26373.29 MiB, Written: 29102.59 MiB
+[DLManager] INFO:  - Cache usage: 2048.00 MiB, active tasks: 12
+[DLManager] INFO:  + Download	- 93.68 MiB/s (raw) / 127.87 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 122.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 94.62% (34897/36880), Running for 00:05:06, ETA: 00:00:17
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 29227.59 MiB
+[DLManager] INFO:  - Cache usage: 1974.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 44.69 MiB/s (raw) / 62.93 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 124.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 94.96% (35020/36880), Running for 00:05:07, ETA: 00:00:16
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 29349.59 MiB
+[DLManager] INFO:  - Cache usage: 1852.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 121.89 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 95.29% (35143/36880), Running for 00:05:08, ETA: 00:00:15
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 29472.59 MiB
+[DLManager] INFO:  - Cache usage: 1729.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 122.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 95.63% (35267/36880), Running for 00:05:09, ETA: 00:00:14
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 29595.59 MiB
+[DLManager] INFO:  - Cache usage: 1606.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 122.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 95.95% (35388/36880), Running for 00:05:10, ETA: 00:00:13
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 29715.59 MiB
+[DLManager] INFO:  - Cache usage: 1486.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 119.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 96.28% (35509/36880), Running for 00:05:11, ETA: 00:00:12
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 29836.59 MiB
+[DLManager] INFO:  - Cache usage: 1365.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 120.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 96.62% (35633/36880), Running for 00:05:12, ETA: 00:00:10
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 29959.59 MiB
+[DLManager] INFO:  - Cache usage: 1242.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 122.90 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 96.99% (35770/36880), Running for 00:05:13, ETA: 00:00:09
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 30096.59 MiB
+[DLManager] INFO:  - Cache usage: 1105.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 136.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 97.39% (35916/36880), Running for 00:05:14, ETA: 00:00:08
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 30241.59 MiB
+[DLManager] INFO:  - Cache usage: 960.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 144.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 97.76% (36053/36880), Running for 00:05:15, ETA: 00:00:07
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 30378.59 MiB
+[DLManager] INFO:  - Cache usage: 823.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 136.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 98.13% (36189/36880), Running for 00:05:16, ETA: 00:00:06
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 30513.59 MiB
+[DLManager] INFO:  - Cache usage: 688.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 134.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 98.47% (36314/36880), Running for 00:05:17, ETA: 00:00:04
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 30638.59 MiB
+[DLManager] INFO:  - Cache usage: 563.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 124.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 98.82% (36445/36880), Running for 00:05:18, ETA: 00:00:03
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 30769.59 MiB
+[DLManager] INFO:  - Cache usage: 432.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 130.87 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 99.15% (36568/36880), Running for 00:05:19, ETA: 00:00:02
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 30891.59 MiB
+[DLManager] INFO:  - Cache usage: 310.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 121.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 99.48% (36688/36880), Running for 00:05:20, ETA: 00:00:01
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 31011.59 MiB
+[DLManager] INFO:  - Cache usage: 190.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 119.88 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 99.80% (36808/36880), Running for 00:05:21, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 31131.59 MiB
+[DLManager] INFO:  - Cache usage: 70.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 119.86 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: = Progress: 100.00% (36880/36880), Running for 00:05:22, ETA: 00:00:00
+[DLManager] INFO:  - Downloaded: 26418.03 MiB, Written: 31201.57 MiB
+[DLManager] INFO:  - Cache usage: 0.00 MiB, active tasks: 0
+[DLManager] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[DLManager] INFO:  + Disk	- 69.91 MiB/s (write) / 0.00 MiB/s (read)
+[DLManager] INFO: Waiting for installation to finish...
+[DLManager] INFO: All done! Download manager quitting...
+[cli] INFO: This game supports cloud saves, syncing is handled by the "sync-saves" command. To download saves for this game run "legendary sync-saves 4123bcce398b4b1d8b9ef878f81055d1"
+[cli] INFO: Finished installation process in 323.52 seconds.

@@ -1,0 +1,45 @@
+{
+  "1be5efb848844b1dabf9d67f8017a7ae": {
+    "checkUpdatesInterval": 10,
+    "enableUpdates": false,
+    "addDesktopShortcuts": false,
+    "addStartMenuShortcuts": false,
+    "autoInstallDxvk": false,
+    "autoInstallVkd3d": false,
+    "checkForUpdatesOnStartup": true,
+    "customWinePaths": [],
+    "defaultInstallPath": "/home/zany130/Games/Heroic",
+    "defaultWinePrefix": "/home/zany130/Games/Heroic/Prefixes",
+    "language": "en",
+    "maxWorkers": 0,
+    "minimizeOnLaunch": true,
+    "nvidiaPrime": false,
+    "otherOptions": "",
+    "showUnrealMarket": false,
+    "showFps": false,
+    "useGameMode": false,
+    "userInfo": {
+      "epicId": "ea22850e5947408fa9fb6d5c963bf0c4",
+      "name": "zany130"
+    },
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/zany130/Games/Heroic/Prefixes/RedoutEnhancedEdition",
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-7.7-301-gf91f4348356 ( TkG Staging Esync Fsync )",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver",
+      "wineboot": "/usr/bin/wineboot"
+    },
+    "altLegendaryBin": "",
+    "altGogdlBin": "",
+    "darkTrayIcon": false,
+    "disableController": false,
+    "egsLinkedPath": "",
+    "exitToTray": true,
+    "maxRecentGames": 5,
+    "startInTray": true
+  },
+  "version": "v0",
+  "explicit": true
+}

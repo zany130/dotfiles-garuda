@@ -1,0 +1,30 @@
+{
+  "e7d92786abe54fae9319c1ddb94ae271": {
+    "altLegendaryBin": "",
+    "altGogdlBin": "",
+    "addDesktopShortcuts": false,
+    "addStartMenuShortcuts": false,
+    "autoInstallDxvk": false,
+    "autoInstallVkd3d": false,
+    "customWinePaths": [],
+    "darkTrayIcon": false,
+    "defaultInstallPath": "/home/zany130/Games/Heroic",
+    "defaultWinePrefix": "/home/zany130/Games/Heroic/Prefixes",
+    "disableController": false,
+    "egsLinkedPath": "",
+    "exitToTray": true,
+    "maxRecentGames": 5,
+    "maxWorkers": 0,
+    "minimizeOnLaunch": true,
+    "nvidiaPrime": false,
+    "otherOptions": "",
+    "showFps": false,
+    "showUnrealMarket": false,
+    "startInTray": true,
+    "useGameMode": false,
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/zany130/Games/Heroic/Prefixes/CrisTales"
+  },
+  "version": "v0",
+  "explicit": true
+}

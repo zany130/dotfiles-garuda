@@ -1,0 +1,27 @@
+{
+  "d366ae16e31b41869cf26c6ee309e7f3": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "showMangohud": true,
+    "useGameMode": true,
+    "language": "",
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-7.7-301-gf91f4348356 ( TkG Staging Esync Fsync )",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver",
+      "wineboot": "/usr/bin/wineboot"
+    },
+    "winePrefix": "/home/zany130/Games/Heroic/Prefixes/Soulstice",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}
