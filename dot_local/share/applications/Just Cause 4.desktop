@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Just Cause 4
+Exec=xdg-open heroic://launch/legendary/Kakopo
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/Kakopo.jpg
+Categories=Game;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PRICE
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/465520
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

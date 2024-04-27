@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=BotWSaveManager.UI
+Exec=flatpak run --command=bottles-cli com.usebottles.bottles run -p BotWSaveManager.UI -b 'BotWSaveManger' -- %u
+Type=Application
+Terminal=false
+Categories=Application;
+Icon=com.usebottles.bottles-program
+Comment=Launch BotWSaveManager.UI using Bottles.
+StartupWMClass=BotWSaveManager.UI
+Actions=Configure;
+[Desktop Action Configure]
+Name=Configure in Bottles
+Exec=flatpak run com.usebottles.bottles -b 'BotWSaveManger'

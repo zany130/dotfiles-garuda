@@ -1,0 +1,35 @@
+[Desktop Entry]
+Name=Steam ROM Manager (2.4.17)
+Exec=/home/zany130/Applications/Steam-ROM-Manager_1bc8f3deb24734a270ef16a28f689335.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=appimagekit_0b45d9e013eba401af4c47c9079b5b3c_steam-rom-manager
+StartupWMClass=Steam ROM Manager
+X-AppImage-Version=2.4.17
+Comment=An app for managing ROMs in Steam
+Categories=Utility;
+
+TryExec=/home/zany130/Applications/Steam-ROM-Manager_1bc8f3deb24734a270ef16a28f689335.AppImage
+X-AppImage-Old-Icon=steam-rom-manager
+X-AppImage-Old-Name=Steam ROM Manager
+X-AppImage-Identifier=0b45d9e013eba401af4c47c9079b5b3c
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/Steam-ROM-Manager_1bc8f3deb24734a270ef16a28f689335.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

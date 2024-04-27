@@ -1,0 +1,35 @@
+[Desktop Entry]
+Name=BetterDiscord (1.3.0)
+Exec=/home/zany130/Applications/BetterDiscord-Linux_69fd03db4b6c5f17a067b7b845409276.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=appimagekit_dfb3c124e4e911f212a97f1edb72155f_betterdiscord-installer
+StartupWMClass=BetterDiscord
+X-AppImage-Version=1.3.0
+Comment=A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
+Categories=Utility;
+
+TryExec=/home/zany130/Applications/BetterDiscord-Linux_69fd03db4b6c5f17a067b7b845409276.AppImage
+X-AppImage-Old-Icon=betterdiscord-installer
+X-AppImage-Old-Name=BetterDiscord
+X-AppImage-Identifier=dfb3c124e4e911f212a97f1edb72155f
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/BetterDiscord-Linux_69fd03db4b6c5f17a067b7b845409276.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

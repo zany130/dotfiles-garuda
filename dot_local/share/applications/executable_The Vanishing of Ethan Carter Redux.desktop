@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Vanishing of Ethan Carter Redux
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/400430
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Blue Archive
+Exec=waydroid app launch com.nexon.bluearchive
+Icon=/home/zany130/.local/share/waydroid/data/icons/com.nexon.bluearchive.png
+Categories=X-WayDroid-App;
+X-Purism-FormFactor=Workstation;Mobile;
+Actions=app_settings;
+[Desktop Action app_settings]
+Name=App Settings
+Exec=waydroid app intent android.settings.APPLICATION_DETAILS_SETTINGS package:com.nexon.bluearchive

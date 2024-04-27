@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mary Skelter 2
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1496250
+Icon=steam_icon_1496250
+Terminal=false
+Type=Application
+Categories=Game;

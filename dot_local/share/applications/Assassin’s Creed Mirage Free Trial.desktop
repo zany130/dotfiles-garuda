@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Assassin’s Creed Mirage Free Trial
+Exec=xdg-open heroic://launch/legendary/9cd229b0323f485bafca042ef00b14af
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/9cd229b0323f485bafca042ef00b14af.jpg
+Categories=Game;

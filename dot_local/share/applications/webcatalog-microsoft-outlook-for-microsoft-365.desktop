@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Outlook Business
+GenericName=Outlook Business
+Icon=/home/zany130/.webcatalog/Outlook Business/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/Outlook Business/Outlook Business"
+Terminal=false
+StartupWMClass=outlook business
+Categories=Network;WebBrowser

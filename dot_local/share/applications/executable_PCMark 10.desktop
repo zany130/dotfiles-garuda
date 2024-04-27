@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PCMark 10
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/524390
+Icon=steam_icon_524390
+Terminal=false
+Type=Application
+Categories=Game;

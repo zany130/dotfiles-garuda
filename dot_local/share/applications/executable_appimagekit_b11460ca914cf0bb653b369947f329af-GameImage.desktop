@@ -1,0 +1,30 @@
+[Desktop Entry]
+Name=GameImage
+Exec=/home/zany130/Applications/GameImage-x86_64_fc9b94d87405c74302405b4cd6e0435f.AppImage
+Icon=appimagekit_b11460ca914cf0bb653b369947f329af_gameimage
+Type=Application
+Categories=Utility;
+
+TryExec=/home/zany130/Applications/GameImage-x86_64_fc9b94d87405c74302405b4cd6e0435f.AppImage
+X-AppImage-Old-Icon=gameimage
+X-AppImage-Identifier=b11460ca914cf0bb653b369947f329af
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/GameImage-x86_64_fc9b94d87405c74302405b4cd6e0435f.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

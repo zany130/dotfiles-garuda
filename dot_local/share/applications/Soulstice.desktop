@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Soulstice
+Exec=xdg-open heroic://launch/legendary/d366ae16e31b41869cf26c6ee309e7f3
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/d366ae16e31b41869cf26c6ee309e7f3.jpg
+Categories=Game;

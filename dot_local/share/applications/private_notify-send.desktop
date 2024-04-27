@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=notify-send
+Name=notify-send
+NoDisplay=true
+StartupNotify=false
+Type=Application
+X-KDE-GlobalAccel-CommandShortcut=true

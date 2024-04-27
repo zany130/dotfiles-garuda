@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Humble Bundle
+GenericName=Humble Bundle
+Icon=/home/zany130/.webcatalog/Humble Bundle/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/Humble Bundle/Humble Bundle"
+Terminal=false
+StartupWMClass=humble bundle
+Categories=Network;WebBrowser

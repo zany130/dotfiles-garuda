@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=A Wine application
+MimeType=application/x-ms-application;
+Exec=env WINEPREFIX="/home/zany130/.config/steamtinkerlaunch/vortex/compatdata/pfx" wine start /ProgIDOpen Application.Manifest %f
+NoDisplay=true
+StartupNotify=true

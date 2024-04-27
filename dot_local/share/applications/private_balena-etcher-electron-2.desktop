@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Flash OS images to SD cards and USB drives, safely and easily.
+Exec=/opt/balenaEtcher/balena-etcher-electron %U --enable-features=UseOzonePlatform --ozone-platform=wayland
+Icon=balena-etcher-electron
+MimeType=x-scheme-handler/etcher;
+Name=balenaEtcher-Wayland
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=balenaEtcher
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

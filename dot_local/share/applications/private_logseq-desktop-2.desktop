@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Open Source platform for knowledge sharing and management
+Exec=/usr/bin/logseq --enable-features=UseOzonePlatform --ozone-platform=wayland %U
+Icon=logseq
+MimeType=x-scheme-handler/logseq
+Name=Logseq-Wayland
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=logseq
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

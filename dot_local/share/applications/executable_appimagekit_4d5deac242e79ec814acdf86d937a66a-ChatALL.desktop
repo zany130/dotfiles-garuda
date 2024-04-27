@@ -1,0 +1,35 @@
+[Desktop Entry]
+Name=ChatALL (1.19.22)
+Exec=/home/zany130/Applications/ChatALL-1.19.22-linux-x86_64_420b1a1085d478dda4774e6d15d7ebf0.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=appimagekit_4d5deac242e79ec814acdf86d937a66a_chatall
+StartupWMClass=ChatALL
+X-AppImage-Version=1.19.22
+Comment=Chat with multiple AI bots and discover the best.
+Categories=Utility;
+
+TryExec=/home/zany130/Applications/ChatALL-1.19.22-linux-x86_64_420b1a1085d478dda4774e6d15d7ebf0.AppImage
+X-AppImage-Old-Icon=chatall
+X-AppImage-Old-Name=ChatALL
+X-AppImage-Identifier=4d5deac242e79ec814acdf86d937a66a
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/ChatALL-1.19.22-linux-x86_64_420b1a1085d478dda4774e6d15d7ebf0.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

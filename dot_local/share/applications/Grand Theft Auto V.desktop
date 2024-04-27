@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Grand Theft Auto V
+Exec=xdg-open heroic://launch/legendary/9d2d0eb64d5c44529cece33fe2a46482
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/9d2d0eb64d5c44529cece33fe2a46482.jpg
+Categories=Game;

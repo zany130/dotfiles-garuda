@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=The Outer Worlds: Spacer's Choice Edition
+Exec=xdg-open heroic://launch/legendary/cb3bf7ba89574a66ae3b795e039d4dbc
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/cb3bf7ba89574a66ae3b795e039d4dbc.jpg
+Categories=Game;

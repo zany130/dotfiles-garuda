@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Legend of Heroes: Trails into Reverie - Songs of Reverie Official Soundtrack
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2434470
+Icon=steam_icon_2434470
+Terminal=false
+Type=Application
+Categories=Game;

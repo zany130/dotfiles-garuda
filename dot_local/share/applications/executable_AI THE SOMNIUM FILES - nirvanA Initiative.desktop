@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=AI: THE SOMNIUM FILES - nirvanA Initiative
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1449200
+Icon=steam_icon_1449200
+Terminal=false
+Type=Application
+Categories=Game;

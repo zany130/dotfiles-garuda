@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=The Caligula Effect Overdose
+Exec=xdg-open heroic://launch/gog/1646061575
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/1646061575.png
+Categories=Game;

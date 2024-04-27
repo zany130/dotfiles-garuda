@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=fault - milestone one
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/286260
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

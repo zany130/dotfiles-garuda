@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WhatsApp
+GenericName=WhatsApp
+Icon=/home/zany130/.webcatalog/WhatsApp/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/WhatsApp/WhatsApp"
+Terminal=false
+StartupWMClass=whatsapp
+Categories=Network;WebBrowser

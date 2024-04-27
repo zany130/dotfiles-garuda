@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=DAEMON X MACHINA
+Exec=xdg-open heroic://launch/legendary/f4f0d39fbb4640e0be62aa91d9eca87d
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/f4f0d39fbb4640e0be62aa91d9eca87d.jpg
+Categories=Game;

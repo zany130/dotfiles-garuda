@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Sherlock Holmes Crimes and Punishments
+Exec=xdg-open heroic://launch/legendary/0afb9d54dd3743a582b48b506466d3f8
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/0afb9d54dd3743a582b48b506466d3f8.jpg
+Categories=Game;

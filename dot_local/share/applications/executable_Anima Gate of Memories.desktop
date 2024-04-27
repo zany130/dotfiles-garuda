@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Anima Gate of Memories
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/380750
+Icon=steam_icon_380750
+Terminal=false
+Type=Application
+Categories=Game;

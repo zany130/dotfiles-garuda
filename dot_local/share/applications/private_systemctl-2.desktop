@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=systemctl --user restart plasma-plasmashell.service
+Name=systemctl --user restart plasma-plasmashell.service
+NoDisplay=true
+StartupNotify=false
+Type=Application
+X-KDE-GlobalAccel-CommandShortcut=true

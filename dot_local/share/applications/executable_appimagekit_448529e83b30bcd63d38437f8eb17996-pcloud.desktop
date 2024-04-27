@@ -1,0 +1,36 @@
+[Desktop Entry]
+Name=pcloud (1.14.5)
+Comment=pCloud Drive Client built using electron and node.js. Distributed with AppImage.
+Exec=/home/zany130/Applications/pcloud
+Terminal=false
+Type=Application
+Icon=appimagekit_448529e83b30bcd63d38437f8eb17996_pcloud
+StartupWMClass=pcloud
+X-AppImage-Version=1.14.5
+Categories=Network;
+X-AppImage-BuildId=2cibkmXERmsuibYjEZWWDNdhIRH
+
+TryExec=/home/zany130/Applications/pcloud
+X-AppImage-Old-Icon=pcloud
+X-AppImage-Old-Name=pcloud
+X-AppImage-Identifier=448529e83b30bcd63d38437f8eb17996
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/pcloud"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

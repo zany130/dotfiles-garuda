@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=exophase
+GenericName=exophase
+Icon=/home/zany130/.webcatalog/exophase/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/exophase/exophase"
+Terminal=false
+StartupWMClass=exophase
+Categories=Network;WebBrowser

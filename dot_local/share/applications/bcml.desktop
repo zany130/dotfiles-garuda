@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Type=Application
+Name=BCML
+Comment=Starts the BOTW Cross-Platform Mod Loader
+Exec=/home/zany130/.local/pipx/venvs/bcml/bin/python -m bcml %u
+StartupNotify=false
+MimeType=x-scheme-handler/bcml;

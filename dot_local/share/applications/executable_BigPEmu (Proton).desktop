@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+	[Desktop Entry]
+	Name=BigPEmu (Proton)
+	Exec=/home/zany130/Emulation/tools/launchers/bigpemu.sh -w
+	Icon=/home/zany130/.local/share/icons/emudeck/BigPEmu.png
+	Terminal=False
+	Type=Application
+	Categories=Game;
+	StartupNotify=false

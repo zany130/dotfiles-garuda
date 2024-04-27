@@ -1,0 +1,34 @@
+[Desktop Entry]
+Categories=Development;
+Comment=Device/Dev Mode Manager for webOS TV
+Exec=/home/zany130/Applications/web-os-dev-manager_1.11.18_amd64.AppImage
+Icon=appimagekit_5b6c88ac41b5521035732e0bd29a807c_web-os-dev-manager
+Name=webOS Dev Manager (0868e05)
+Terminal=false
+Type=Application
+X-AppImage-Version=0868e05
+
+TryExec=/home/zany130/Applications/web-os-dev-manager_1.11.18_amd64.AppImage
+X-AppImage-Old-Icon=web-os-dev-manager
+X-AppImage-Old-Name=webOS Dev Manager
+X-AppImage-Identifier=5b6c88ac41b5521035732e0bd29a807c
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/web-os-dev-manager_1.11.18_amd64.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

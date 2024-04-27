@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mad Father
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/483980
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

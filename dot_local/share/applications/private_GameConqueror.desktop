@@ -1,0 +1,14 @@
+[Desktop Entry]
+Categories=Development;Utility;
+Comment=A game hacking tool. A GUI front-end for scanmem.
+Exec=kdesu gameconqueror
+Icon=GameConqueror
+Name=Game Conqueror
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

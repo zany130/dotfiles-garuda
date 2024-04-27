@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Welcome to the Game
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/485380
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

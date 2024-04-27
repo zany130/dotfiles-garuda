@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Bloody Chronicles - New Cycle of Death
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/455310
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

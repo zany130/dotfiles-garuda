@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+	[Desktop Entry]
+	Name=Model-2-Emulator (Proton)
+	Exec=/home/zany130/Emulation/tools/launchers/model-2-emulator.sh
+	Icon=/home/zany130/.local/share/icons/emudeck/Model-2-Emulator.png
+	Terminal=False
+	Type=Application
+	Categories=Game;
+	StartupNotify=false

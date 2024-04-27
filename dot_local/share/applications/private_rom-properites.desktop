@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=
+Exec=/usr/bin/rp-config
+Name=rom-properites
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

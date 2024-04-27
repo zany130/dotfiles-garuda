@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Categories=Game;
+Name=Vortex (SteamTinkerLaunch - steamtinkerlaunch)
+MimeType=x-scheme-handler/nxm;x-scheme-handler/nxm-protocol
+Terminal=false
+X-KeepTerminal=false
+Path=/home/zany130/.config/steamtinkerlaunch/vortex/compatdata/pfx/drive_c/Program Files/Black Tree Gaming Ltd/Vortex
+Exec=/usr/bin/steamtinkerlaunch vortex u %u
+NoDisplay=true

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gmail
+GenericName=Gmail
+Icon=/home/zany130/.webcatalog/Gmail/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/Gmail/Gmail"
+Terminal=false
+StartupWMClass=gmail
+Categories=Network;WebBrowser

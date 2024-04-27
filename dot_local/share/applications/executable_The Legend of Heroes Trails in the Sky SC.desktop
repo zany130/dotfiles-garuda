@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Legend of Heroes: Trails in the Sky SC
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/251290
+Icon=steam_icon_251290
+Terminal=false
+Type=Application
+Categories=Game;

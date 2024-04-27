@@ -1,0 +1,36 @@
+[Desktop Entry]
+Name=WebCatalog (56.3.0)
+Exec=/home/zany130/Applications/WebCatalog-56.3.0_52ea61d18f404bd7582071648c4c29a4.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=appimagekit_619266d68a1c4a83c6112a7e936f2699__webcatalogdesktop
+StartupWMClass=WebCatalog
+X-AppImage-Version=56.3.0
+Comment=App store for web apps
+MimeType=x-scheme-handler/webcatalog;
+Categories=Utility;
+
+TryExec=/home/zany130/Applications/WebCatalog-56.3.0_52ea61d18f404bd7582071648c4c29a4.AppImage
+X-AppImage-Old-Icon=@webcatalogdesktop
+X-AppImage-Old-Name=WebCatalog
+X-AppImage-Identifier=619266d68a1c4a83c6112a7e936f2699
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/WebCatalog-56.3.0_52ea61d18f404bd7582071648c4c29a4.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Murder of Sonic the Hedgehog
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2324650
+Icon=steam_icon_2324650
+Terminal=false
+Type=Application
+Categories=Game;

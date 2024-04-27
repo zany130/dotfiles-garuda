@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PairDrop
+GenericName=PairDrop
+Icon=/home/zany130/.webcatalog/PairDrop/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/PairDrop/PairDrop"
+Terminal=false
+StartupWMClass=pairdrop
+Categories=Network;WebBrowser

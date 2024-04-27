@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Fall Guys
+Exec=xdg-open heroic://launch/legendary/0a2d9f6403244d12969e11da6713137b
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/0a2d9f6403244d12969e11da6713137b.jpg
+Categories=Game;

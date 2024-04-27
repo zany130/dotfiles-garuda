@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CLANNAD Side Stories
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/420100
+Icon=steam_icon_420100
+Terminal=false
+Type=Application
+Categories=Game;

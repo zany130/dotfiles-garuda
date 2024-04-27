@@ -1,0 +1,4 @@
+[Default Applications]
+x-scheme-handler/steamvr=valve-URI-steamvr.desktop
+application/x-vrmonitor=valve-vrmonitor.desktop
+x-scheme-handler/vrmonitor=valve-URI-vrmonitor.desktop

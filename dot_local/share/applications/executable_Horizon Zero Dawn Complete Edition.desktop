@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Horizon Zero Dawn™ Complete Edition
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1151640
+Icon=steam_icon_1151640
+Terminal=false
+Type=Application
+Categories=Game;

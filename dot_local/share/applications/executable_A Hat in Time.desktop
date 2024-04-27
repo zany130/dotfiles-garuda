@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=A Hat in Time
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/253230
+Icon=steam_icon_253230
+Terminal=false
+Type=Application
+Categories=Game;

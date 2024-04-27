@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=A secure and free password manager for all of your devices.
+Exec=bitwarden-desktop --enable-features=UseOzonePlatform --ozone-platform=wayland
+GenericName=Password Manager
+Icon=bitwarden
+Name=Bitwarden-Wayland
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=Bitwarden
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

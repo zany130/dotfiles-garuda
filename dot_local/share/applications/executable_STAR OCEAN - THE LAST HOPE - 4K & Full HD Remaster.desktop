@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=STAR OCEAN™ - THE LAST HOPE™ - 4K & Full HD Remaster
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/609150
+Icon=steam_icon_609150
+Terminal=false
+Type=Application
+Categories=Game;

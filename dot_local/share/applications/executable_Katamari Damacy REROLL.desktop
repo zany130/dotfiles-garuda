@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Katamari Damacy REROLL
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/848350
+Icon=steam_icon_848350
+Terminal=false
+Type=Application
+Categories=Game;

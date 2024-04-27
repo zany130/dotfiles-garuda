@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=A Hat in Time - Modding Tools
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/734880
+Icon=steam_icon_734880
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=FWupdater
+Exec=flatpak run --command=bottles-cli com.usebottles.bottles run -p FWupdater -b 'DualSense FW Update'
+Type=Application
+Terminal=false
+Categories=Application;
+Icon=/home/zany130/.var/app/com.usebottles.bottles/data/bottles/bottles/DualSense-FW-Update/icons/FWupdater.png
+Comment=Launch FWupdater using Bottles.
+StartupWMClass=FWupdater
+Actions=Configure;
+[Desktop Action Configure]
+Name=Configure in Bottles
+Exec=flatpak run com.usebottles.bottles -b 'DualSense FW Update'

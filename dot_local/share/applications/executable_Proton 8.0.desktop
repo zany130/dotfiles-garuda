@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Proton 8.0
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2348590
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=8-Bit Bayonetta
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/567090
+Icon=steam_icon_567090
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+	[Desktop Entry]
+	Name=EmuDeck
+	Exec=/home/zany130/Applications/EmuDeck.AppImage
+	Icon=/home/zany130/.local/share/icons/emudeck/EmuDeck.png
+	Terminal=false
+	Type=Application
+	Categories=Game;
+	StartupNotify=false

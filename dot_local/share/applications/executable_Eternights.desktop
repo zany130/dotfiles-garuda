@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Eternights
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1402110
+Icon=steam_icon_1402110
+Terminal=false
+Type=Application
+Categories=Game;

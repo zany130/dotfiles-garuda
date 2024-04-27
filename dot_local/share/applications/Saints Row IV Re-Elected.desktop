@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Saints Row IV Re-Elected
+Exec=xdg-open heroic://launch/legendary/0d35a1d0eade40c5ac0bea5eed8b5338
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/0d35a1d0eade40c5ac0bea5eed8b5338.jpg
+Categories=Game;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=RWBY: Grimm Eclipse
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/418340
+Icon=steam_icon_418340
+Terminal=false
+Type=Application
+Categories=Game;

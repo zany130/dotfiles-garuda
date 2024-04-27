@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Doki Doki Literature Club Plus
+Exec=xdg-open heroic://launch/legendary/c5109bdceb3a453bb38c2fdc964ddee8
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/c5109bdceb3a453bb38c2fdc964ddee8.jpg
+Categories=Game;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Umineko When They Cry - Answer Arcs
+Exec=xdg-open heroic://launch/gog/1654193651
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/1654193651.png
+Categories=Game;

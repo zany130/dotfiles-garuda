@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=KHUx
+Exec=waydroid app launch com.square_enix.android_googleplay.khuxww
+Icon=/home/zany130/.local/share/waydroid/data/icons/com.square_enix.android_googleplay.khuxww.png
+Categories=X-WayDroid-App;
+X-Purism-FormFactor=Workstation;Mobile;
+Actions=app_settings;
+[Desktop Action app_settings]
+Name=App Settings
+Exec=waydroid app intent android.settings.APPLICATION_DETAILS_SETTINGS package:com.square_enix.android_googleplay.khuxww

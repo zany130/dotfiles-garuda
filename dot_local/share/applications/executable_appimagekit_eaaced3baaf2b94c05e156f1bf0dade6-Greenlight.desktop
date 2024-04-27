@@ -1,0 +1,35 @@
+[Desktop Entry]
+Name=Greenlight (2.3.1)
+Exec=/home/zany130/Applications/Greenlight.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=appimagekit_eaaced3baaf2b94c05e156f1bf0dade6_greenlight
+StartupWMClass=Greenlight
+X-AppImage-Version=2.3.1
+Comment=Greenlight is a streaming application for Xbox and xCloud
+Categories=Game;
+
+TryExec=/home/zany130/Applications/Greenlight.AppImage
+X-AppImage-Old-Icon=greenlight
+X-AppImage-Old-Name=Greenlight
+X-AppImage-Identifier=eaaced3baaf2b94c05e156f1bf0dade6
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/zany130/Applications/Greenlight.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

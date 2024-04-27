@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=A Wine application
+MimeType=image/png;
+Exec=env WINEPREFIX="/home/zany130/.config/steamtinkerlaunch/vortex/compatdata/pfx" wine start /ProgIDOpen pngfile %f
+NoDisplay=true
+StartupNotify=true

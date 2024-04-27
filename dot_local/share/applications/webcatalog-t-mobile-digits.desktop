@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=T-Mobile DIGITS
+GenericName=T-Mobile DIGITS
+Icon=/home/zany130/.webcatalog/T-Mobile DIGITS/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/T-Mobile DIGITS/T-Mobile DIGITS"
+Terminal=false
+StartupWMClass=t-mobile digits
+Categories=Network;WebBrowser

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=
+Exec=/usr/bin/steamtinkerlaunch vortex start
+GenericName=Vortex Mod Manager
+Name=Vortex Mod Manager
+NoDisplay=false
+Path=/home/zany130/.config/steamtinkerlaunch/vortex
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

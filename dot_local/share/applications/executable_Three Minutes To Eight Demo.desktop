@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Three Minutes To Eight Demo
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2521280
+Icon=steam_icon_2521280
+Terminal=false
+Type=Application
+Categories=Game;

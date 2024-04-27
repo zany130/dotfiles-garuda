@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Legend of Heroes: Trails into Reverie
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1668540
+Icon=steam_icon_1668540
+Terminal=false
+Type=Application
+Categories=Game;

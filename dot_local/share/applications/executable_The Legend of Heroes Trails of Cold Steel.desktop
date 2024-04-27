@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Legend of Heroes: Trails of Cold Steel
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/538680
+Icon=steam_icon_538680
+Terminal=false
+Type=Application
+Categories=Game;

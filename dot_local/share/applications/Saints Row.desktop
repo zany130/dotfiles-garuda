@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Saints Row
+Exec=xdg-open heroic://launch/legendary/Cormorant
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/Cormorant.jpg
+Categories=Game;

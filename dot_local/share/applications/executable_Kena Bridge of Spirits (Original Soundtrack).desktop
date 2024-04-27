@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Kena: Bridge of Spirits (Original Soundtrack)
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/2140250
+Icon=steam_icon_2140250
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Legend of Heroes: Trails in the Sky the 3rd
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/436670
+Icon=steam_icon_436670
+Terminal=false
+Type=Application
+Categories=Game;

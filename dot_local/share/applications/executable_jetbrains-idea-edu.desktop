@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=IntelliJ IDEA Edu 2022.2.2
+Exec="/home/zany130/.local/share/JetBrains/Toolbox/apps/intellij-idea-edu/bin/idea.sh" %u
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false
+Icon=/home/zany130/.local/share/JetBrains/Toolbox/apps/intellij-idea-edu/bin/idea.svg
+StartupWMClass=jetbrains-idea-edu
+Comment=An educational IDE for coding
+StartupNotify=true

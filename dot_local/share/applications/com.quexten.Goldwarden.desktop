@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=GNOME;GTK;
+Comment[en_US]=A Bitwarden compatible desktop password manager
+Comment=A Bitwarden compatible desktop password manager
+Exec=/usr/bin/flatpak run com.quexten.Goldwarden
+GenericName[en_US]=
+GenericName=
+Icon=com.quexten.Goldwarden
+Keywords=backup;recovery;
+MimeType=
+Name[en_US]=Goldwarden
+Name=Goldwarden
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

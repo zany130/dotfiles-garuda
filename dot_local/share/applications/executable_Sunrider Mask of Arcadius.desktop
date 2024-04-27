@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sunrider: Mask of Arcadius
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/313730
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

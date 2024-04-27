@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Return to Shironagasu Island
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1156990
+Icon=steam_icon_1156990
+Terminal=false
+Type=Application
+Categories=Game;

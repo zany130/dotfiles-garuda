@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PlayStation Store
+GenericName=PlayStation Store
+Icon=/home/zany130/.webcatalog/PlayStation Store/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/PlayStation Store/PlayStation Store"
+Terminal=false
+StartupWMClass=playstation store
+Categories=Network;WebBrowser

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Inoreader
+GenericName=Inoreader
+Icon=/home/zany130/.webcatalog/Inoreader/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/Inoreader/Inoreader"
+Terminal=false
+StartupWMClass=inoreader
+Categories=Network;WebBrowser

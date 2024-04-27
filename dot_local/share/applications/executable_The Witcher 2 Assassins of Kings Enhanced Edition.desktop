@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=The Witcher 2: Assassins of Kings Enhanced Edition
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/20920
+Icon=steam_icon_20920
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Fishbowl Client
+Exec=flatpak run --command=bottles-cli com.usebottles.bottles run -p 'Fishbowl Client' -b 'FishBowl Manufacturing' -- %u
+Type=Application
+Terminal=false
+Categories=Application;
+Icon=/home/zany130/.var/app/com.usebottles.bottles/data/bottles/bottles/FishBowl-Manufacturing/icons/Fishbowl Client.png
+Comment=Launch Fishbowl Client using Bottles.
+StartupWMClass=Fishbowl Client
+Actions=Configure;
+[Desktop Action Configure]
+Name=Configure in Bottles
+Exec=flatpak run com.usebottles.bottles -b 'FishBowl Manufacturing'

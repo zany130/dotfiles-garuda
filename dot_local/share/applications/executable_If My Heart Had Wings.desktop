@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=If My Heart Had Wings
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/326480
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

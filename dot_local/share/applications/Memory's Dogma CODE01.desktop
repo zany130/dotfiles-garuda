@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Memorys Dogma CODE01
+Exec=xdg-open heroic://launch/gog/1611106985
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/1611106985.png
+Categories=Game;

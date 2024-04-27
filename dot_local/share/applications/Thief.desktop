@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Thief
+Exec=xdg-open heroic://launch/legendary/4123bcce398b4b1d8b9ef878f81055d1
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/4123bcce398b4b1d8b9ef878f81055d1.jpg
+Categories=Game;

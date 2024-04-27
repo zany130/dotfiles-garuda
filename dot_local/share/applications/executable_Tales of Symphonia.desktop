@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tales of Symphonia
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/372360
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

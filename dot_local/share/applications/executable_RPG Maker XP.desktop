@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=RPG Maker XP
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/235900
+Icon=steam_icon_235900
+Terminal=false
+Type=Application
+Categories=Game;

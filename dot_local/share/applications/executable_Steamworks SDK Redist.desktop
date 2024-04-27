@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Steamworks SDK Redist
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1007
+Icon=steam
+Terminal=false
+Type=Application
+Categories=Game;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Game;
+Comment[en_US]=Play Breath of the Wild on Cemu
+Comment=Play Breath of the Wild on Cemu
+Exec='obs-gamecapture' 'mangohud' '/usr/bin/cemu' --title-id 00050000101c9500
+GenericName[en_US]=
+GenericName=
+Icon=/home/zany130/.local/share/cemu/icons/00050000101c9500.png
+MimeType=
+Name[en_US]=Breath of the Wild
+Name=Breath of the Wild
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

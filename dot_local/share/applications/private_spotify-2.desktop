@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=
+Exec=spotify --enable-features=UseOzonePlatform --ozone-platform=wayland
+GenericName=Music Player
+Icon=spotify-client
+MimeType=x-scheme-handler/spotify;
+Name=Spotify-Wayland
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=spotify
+Terminal=false
+TerminalOptions=
+TryExec=spotify
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

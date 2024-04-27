@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Snapdrop
+GenericName=Snapdrop
+Icon=/home/zany130/.webcatalog/Snapdrop/resources/app.asar.unpacked/build/icon.png
+Exec="/home/zany130/.webcatalog/Snapdrop/Snapdrop"
+Terminal=false
+StartupWMClass=snapdrop
+Categories=Network;WebBrowser

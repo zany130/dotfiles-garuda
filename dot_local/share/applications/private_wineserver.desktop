@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=wineserver -k 15
+Name=wineserver -k 15
+NoDisplay=true
+StartupNotify=false
+Type=Application
+X-KDE-GlobalAccel-CommandShortcut=true

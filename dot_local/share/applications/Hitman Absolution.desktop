@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Hitman: Absolution
+Exec=xdg-open heroic://launch/gog/1757179626
+Terminal=false
+Type=Application
+Icon=/home/zany130/.config/heroic/icons/1757179626.png
+Categories=Game;
