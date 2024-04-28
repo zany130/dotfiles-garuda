@@ -87,6 +87,9 @@ _transfuse_copt() {
     rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/fonts ./"$YOU"_transfusion_"$NOW"/.local/share/;
     rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/kfontinst ./"$YOU"_transfusion_"$NOW"/.local/share/;
     rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/konsole ./"$YOU"_transfusion_"$NOW"/.local/share/;
+    rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/kpackage ./"$YOU"_transfusion_"$NOW"/.local/share/;
+    rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/ksysgaaurd ./"$YOU"_transfusion_"$NOW"/.local/share/;
+    rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/kwin ./"$YOU"_transfusion_"$NOW"/.local/share/;
     rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/kxmlgui5 ./"$YOU"_transfusion_"$NOW"/.local/share/;
     rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/plasma ./"$YOU"_transfusion_"$NOW"/.local/share/;
     rsync -rltD --ignore-missing-args /home/"$YOU"/.local/share/plasma_icons ./"$YOU"_transfusion_"$NOW"/.local/share/;
@@ -139,10 +142,10 @@ _transfuse_homechck() {
 
 _transfuse_restore() {
     echo -e "\nConfigs Restored from ""$opt""\n\nCycling Color Scheme and Reloading Plasma.\n" ;
-    qdbus org.kde.kded5 /modules/khotkeys org.kde.khotkeys.reread_configuration ;
-    kquitapp5 plasmashell && kstart5 plasmashell </dev/null &>/dev/null &
-    killall kglobalaccel5 </dev/null &>/dev/null &
-    kstart5 kglobalaccel5 </dev/null &>/dev/null &
+    qdbus org.kde.kded6 /modules/khotkeys org.kde.khotkeys.reread_configuration ;
+    kquitapp6 plasmashell && kstart6 plasmashell </dev/null &>/dev/null &
+    killall kglobalaccel6 </dev/null &>/dev/null &
+    kstart6 kglobalaccel6 </dev/null &>/dev/null &
     sleep 0.5;
     CLRSCH=$(plasma-apply-colorscheme --list-schemes | awk '$3 == "(current" { print $2 }');
     FSTSCH=$(plasma-apply-colorscheme --list-schemes | head -n2 | tail -n1 | awk '{ print $2 }');
@@ -161,7 +164,7 @@ _transfuse_restore() {
     else
         echo -e '\n You are "Covered", meaning no change will be made to configured wallpaper selection.\n That, or there was an error, in which case yell at cscs.';
     fi;
-    kquitapp5 plasmashell && kstart5 plasmashell </dev/null &>/dev/null &
+    kquitapp6 plasmashell && kstart6 plasmashell </dev/null &>/dev/null &
 }
 
 _transfuse_users() {

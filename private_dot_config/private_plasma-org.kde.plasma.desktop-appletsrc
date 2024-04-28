@@ -169,6 +169,7 @@ PreloadWeight=60
 
 [Containments][10][Applets][361][Configuration]
 PreloadWeight=42
+selectedConfig=0
 
 [Containments][10][Applets][362]
 immutability=1
@@ -180,37 +181,11 @@ PreloadWeight=100
 [Containments][10][Applets][362][Configuration][debugConfigPage]
 debugLog=
 
-[Containments][10][Applets][374]
-immutability=1
-plugin=com.github.exequtic.apdatifier
-
 [Containments][10][Applets][374][Configuration]
-PreloadWeight=100
-
-[Containments][10][Applets][374][Configuration][Appearance]
-relevantIcon=true
-selectedIcon=distributor-logo-garudalinux
-sortByName=false
-
-[Containments][10][Applets][374][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][10][Applets][374][Configuration][General]
-archNews=true
-aur=true
-checkOnStartup=true
-flatpak=true
-plasmoids=true
-wrapper=/usr/bin/paru
-
-[Containments][10][Applets][374][Configuration][Upgrade]
-refreshShell=true
-terminal=/usr/bin/alacritty
+PreloadWeight=42
 
 [Containments][10][Applets][375][Configuration]
-PreloadWeight=55
-selectedConfig=0
+PreloadWeight=42
 
 [Containments][10][Applets][46][Configuration]
 PreloadWeight=42
@@ -517,7 +492,7 @@ plugin=org.kde.plasma.mediacontroller
 [Containments][205][Applets][256][Configuration]
 PreloadWeight=0
 
-[Containments][205][Applets][373]
+[Containments][205][Applets][376]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
@@ -717,7 +692,7 @@ plugin=org.kde.plasma.mediacontroller
 [Containments][236][Applets][255][Configuration]
 PreloadWeight=0
 
-[Containments][236][Applets][372]
+[Containments][236][Applets][377]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
@@ -931,7 +906,7 @@ plugin=org.kde.plasma.networkmanagement
 [Containments][278][Applets][296][Configuration]
 PreloadWeight=42
 
-[Containments][278][Applets][371]
+[Containments][278][Applets][378]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
@@ -1180,14 +1155,17 @@ plugin=a2n.archupdate.plasmoid
 [Containments][307][Applets][364][Configuration][debugConfigPage]
 debugLog=
 
-[Containments][307][Applets][370]
+[Containments][307][Applets][370][Configuration]
+PreloadWeight=42
+
+[Containments][307][Applets][376][Configuration]
+PreloadWeight=42
+
+[Containments][307][Applets][379]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
-[Containments][307][Applets][370][Configuration]
-PreloadWeight=65
-
-[Containments][307][Applets][376][Configuration]
+[Containments][307][Applets][380][Configuration]
 selectedConfig=0
 
 [Containments][307][ConfigDialog]
@@ -1414,12 +1392,12 @@ plugin=org.kde.plasma.mediacontroller
 [Containments][335][Applets][353][Configuration]
 PreloadWeight=0
 
-[Containments][335][Applets][369]
+[Containments][335][Applets][369][Configuration]
+PreloadWeight=42
+
+[Containments][335][Applets][381]
 immutability=1
 plugin=com.github.exequtic.apdatifier
-
-[Containments][335][Applets][369][Configuration]
-PreloadWeight=55
 
 [Containments][335][General]
 extraItems=org.kde.kdeconnect,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.printmanager,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,com.github.exequtic.apdatifier
@@ -1818,7 +1796,7 @@ plugin=org.kde.plasma.cameraindicator
 immutability=1
 plugin=org.kde.plasma.brightness
 
-[Containments][66][Applets][368]
+[Containments][66][Applets][382]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
@@ -2095,7 +2073,7 @@ plugin=org.kde.plasma.brightness
 [Containments][96][Applets][164][Configuration]
 PreloadWeight=26
 
-[Containments][96][Applets][367]
+[Containments][96][Applets][383]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
