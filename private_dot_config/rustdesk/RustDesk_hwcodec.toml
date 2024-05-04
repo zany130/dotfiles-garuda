@@ -1,9 +1,4 @@
 [options]
-bestHwEncoders = '''
-{
-  "h264": null,
-  "h265": null
-}'''
 bestHwDecoders = '''
 {
   "h264": {
@@ -20,4 +15,9 @@ bestHwDecoders = '''
     "score": 91,
     "hwdevice": "AV_HWDEVICE_TYPE_VAAPI"
   }
+}'''
+bestHwEncoders = '''
+{
+  "h264": null,
+  "h265": null
 }'''

@@ -9,6 +9,8 @@
 	signingkey = 6A6580A7FE3EBFBE
 [commit]
 	gpgsign = true
+[gpg]
+    format = ssh
 [safe]
 	directory = /opt/flutter
 [protocol "file"]

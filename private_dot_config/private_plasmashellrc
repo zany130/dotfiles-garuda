@@ -58,6 +58,9 @@ DP-1 HDMI-A-1 Width 2048x864 DP-1=656
 CompletionMode=1
 History=
 
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
 [PlasmaViews][Panel 111][Defaults]
 floating=0
 thickness=32

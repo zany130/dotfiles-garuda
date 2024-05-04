@@ -1,25 +1,21 @@
-- 1.1.11
+- 1.1.12
 - _NAME: G512 RGB Mechanical Gaming Keyboard
   _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
-    thumb-scroll-mode, onboard_profiles, report_rate_extended, pointer_speed, dpi, speed-change, backlight, backlight_level, backlight_duration_hands_out,
-    backlight_duration_hands_in, backlight_duration_powered, backlight-timed, reprogrammable-keys, persistent-remappable-keys, disable-keyboard-keys, crown-smooth,
-    divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, change-host, gesture2-gestures, gesture2-divert, gesture2-params, sidetone, equalizer,
-    adc_power_management]
-  _battery: 0x0
+    thumb-scroll-mode, onboard_profiles, report_rate_extended, pointer_speed, dpi, dpi_extended, speed-change, backlight, backlight_level, backlight_duration_hands_out,
+    backlight_duration_hands_in, backlight_duration_powered, backlight-timed, rgb_control, rgb_zone_, brightness_control, per-key-lighting, reprogrammable-keys,
+    persistent-remappable-keys, disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, change-host, gesture2-gestures,
+    gesture2-divert, gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 0
   _modelId: C33C00000000
-  _sensitive: {divert-keys: ignore, fn-swap: ignore, led_control: ignore, report_rate: true}
+  _sensitive: {divert-keys: ignore, fn-swap: ignore, led_control: ignore, led_zone_1: ignore, report_rate: true}
   _unitId: 3030470A
-  divert-keys: {0xf7: 0x1, 0xf8: 0x1, 0xf9: 0x1, 0xfa: 0x1}
+  divert-keys: {247: 1, 248: 1, 249: 1, 250: 1}
   fn-swap: false
-  led_control: 0x0
-  report_rate: 0x1
+  led_control: 0
+  led_zone_1: !LEDEffectSetting {ID: 11, color: 1644912, intensity: 0, period: 100, ramp: 0, speed: 0}
+  report_rate: 1
 - _NAME: MX Master 3 Wireless Mouse
-  _absent: [hi-res-scroll, lowres-scroll-mode, onboard_profiles, report_rate, report_rate_extended, pointer_speed, speed-change, backlight, backlight_level,
-    backlight_duration_hands_out, backlight_duration_hands_in, backlight_duration_powered, backlight-timed, led_control, led_zone_, fn-swap, persistent-remappable-keys,
-    disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, gesture2-gestures, gesture2-divert, gesture2-params,
-    sidetone, equalizer, adc_power_management]
-  _battery: 0x1000
-  _dpi-sliding: 0xf
+  _dpi-sliding: 15
   _modelId: B02340820000
   _sensitive: {change-host: ignore, divert-keys: true, dpi: true, hires-scroll-mode: true, hires-smooth-invert: ignore, hires-smooth-resolution: true, reprogrammable-keys: true,
     scroll-ratchet: true, smart-shift: true, thumb-scroll-invert: ignore, thumb-scroll-mode: true}
@@ -27,14 +23,14 @@
   _unitId: C8693AC7
   _wpid: '4082'
   change-host: null
-  divert-keys: {0x52: 0x1, 0x53: 0x0, 0x56: 0x0, 0xc3: 0x2, 0xc4: 0x3}
-  dpi: 0x3b6
+  divert-keys: {82: 1, 83: 0, 86: 0, 195: 2, 196: 3}
+  dpi: 950
   hires-scroll-mode: false
   hires-smooth-invert: false
   hires-smooth-resolution: true
-  reprogrammable-keys: {0x50: 0x50, 0x51: 0x51, 0x52: 0x52, 0x53: 0x53, 0x56: 0x56, 0xc3: 0xc3, 0xc4: 0xc4}
-  scroll-ratchet: 0x2
-  smart-shift: 0x16
+  reprogrammable-keys: {80: 80, 81: 81, 82: 82, 83: 83, 86: 86, 195: 195, 196: 196}
+  scroll-ratchet: 2
+  smart-shift: 22
   thumb-scroll-invert: false
   thumb-scroll-mode: false
 - _NAME: G512 RGB Mechanical Gaming Keyboard
@@ -49,80 +45,87 @@
   _unitId: F712B0D2
   _wpid: 405B
   change-host: null
-  disable-keyboard-keys: {0x1: false, 0x2: false, 0x4: false, 0x8: false, 0x10: false}
-  divert-keys: {0x1: 0x0, 0x2: 0x0, 0x3: 0x0, 0x4: 0x0, 0x5: 0x0, 0x6: 0x0, 0xbd: 0x0, 0xbe: 0x0, 0xbf: 0x0, 0xc0: 0x0, 0xc1: 0x0, 0xc2: 0x0, 0xd1: 0x0,
-    0xd2: 0x0, 0xd3: 0x0, 0xd4: 0x0, 0xd5: 0x0, 0xd6: 0x0}
+  disable-keyboard-keys: {1: false, 2: false, 4: false, 8: false, 16: false}
+  divert-keys: {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 189: 0, 190: 0, 191: 0, 192: 0, 193: 0, 194: 0, 209: 0, 210: 0, 211: 0, 212: 0, 213: 0, 214: 0}
   fn-swap: true
-  multiplatform: 0x0
+  multiplatform: 0
   persistent-remappable-keys: null
 - _NAME: G512 RGB Mechanical Gaming Keyboard
   _sensitive: {hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: ignore}
   _unitId: 3030470A
-  divert-keys: {0xf7: 0x0, 0xf8: 0x0, 0xf9: 0x0, 0xfa: 0x0}
+  divert-keys: {247: 0, 248: 0, 249: 0, 250: 0}
   fn-swap: false
-  report_rate: 0x1
+  report_rate: 1
 - _NAME: MX Master 3 Wireless Mouse
-  _battery: 0x0
   _sensitive: {hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: ignore}
 - _NAME: MX Master 3 Wireless Mouse
-  _absent: [hi-res-scroll, lowres-scroll-mode, onboard_profiles, report_rate, report_rate_extended, pointer_speed, speed-change, backlight, backlight_level,
-    backlight_duration_hands_out, backlight_duration_hands_in, backlight_duration_powered, backlight-timed, led_control, led_zone_, fn-swap, persistent-remappable-keys,
-    disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, gesture2-gestures, gesture2-divert, gesture2-params,
-    sidetone, equalizer, adc_power_management]
-  _battery: 0x1000
   _modelId: MX Master 3 Wireless Mouse
   _sensitive: {hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: true}
   _unitId: '01000000'
   change-host: null
-  divert-keys: {0x52: 0x0, 0x53: 0x0, 0x56: 0x0, 0xc3: 0x1, 0xc4: 0x1}
-  dpi: 0x3b6
+  divert-keys: {82: 0, 83: 0, 86: 0, 195: 1, 196: 1}
+  dpi: 950
   hires-scroll-mode: false
   hires-smooth-invert: false
   hires-smooth-resolution: true
-  reprogrammable-keys: {0x50: 0x50, 0x51: 0x51, 0x52: 0x52, 0x53: 0x53, 0x56: 0x56, 0xc3: 0xc3, 0xc4: 0xc4}
-  scroll-ratchet: 0x2
-  smart-shift: 0x16
+  reprogrammable-keys: {80: 80, 81: 81, 82: 82, 83: 83, 86: 86, 195: 195, 196: 196}
+  scroll-ratchet: 2
+  smart-shift: 22
   thumb-scroll-invert: false
   thumb-scroll-mode: false
 - _NAME: MX Master 3 Wireless Mouse
-  _absent: [hi-res-scroll, lowres-scroll-mode, onboard_profiles, report_rate, report_rate_extended, pointer_speed, speed-change, backlight, backlight_level,
-    backlight_duration_hands_out, backlight_duration_hands_in, backlight_duration_powered, backlight-timed, led_control, led_zone_, fn-swap, persistent-remappable-keys,
-    disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, gesture2-gestures, gesture2-divert, gesture2-params,
-    sidetone, equalizer, adc_power_management]
-  _battery: 0x1000
   _modelId: E80000000000
   _sensitive: {hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: ignore}
   _unitId: '12007800'
   change-host: null
-  divert-keys: {0x52: 0x0, 0x53: 0x0, 0x56: 0x0, 0xc3: 0x0, 0xc4: 0x0}
-  dpi: 0x3e8
+  divert-keys: {82: 0, 83: 0, 86: 0, 195: 0, 196: 0}
+  dpi: 1000
   hires-scroll-mode: false
   hires-smooth-invert: false
   hires-smooth-resolution: true
-  reprogrammable-keys: {0x50: 0x50, 0x51: 0x51, 0x52: 0x52, 0x53: 0x53, 0x56: 0x56, 0xc3: 0xc3, 0xc4: 0xc4}
-  scroll-ratchet: 0x2
-  smart-shift: 0x1e
+  reprogrammable-keys: {80: 80, 81: 81, 82: 82, 83: 83, 86: 86, 195: 195, 196: 196}
+  scroll-ratchet: 2
+  smart-shift: 30
   thumb-scroll-invert: false
   thumb-scroll-mode: false
 - _NAME: Wireless Mouse MX Master 2S
   _absent: [hi-res-scroll, lowres-scroll-mode, thumb-scroll-invert, thumb-scroll-mode, onboard_profiles, report_rate, report_rate_extended, pointer_speed,
-    speed-change, backlight, backlight_level, backlight_duration_hands_out, backlight_duration_hands_in, backlight_duration_powered, backlight-timed, led_control,
-    led_zone_, fn-swap, persistent-remappable-keys, disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform,
-    gesture2-params, sidetone, equalizer, adc_power_management]
-  _battery: 0x1000
-  _dpi-sliding: 0x10
+    dpi_extended, speed-change, backlight, backlight_level, backlight_duration_hands_out, backlight_duration_hands_in, backlight_duration_powered, backlight-timed,
+    led_control, led_zone_, rgb_control, rgb_zone_, brightness_control, per-key-lighting, fn-swap, persistent-remappable-keys, disable-keyboard-keys, crown-smooth,
+    divert-crown, divert-gkeys, m-key-leds, mr-key-led, gesture2-params, sidetone, equalizer, adc_power_management, multiplatform]
+  _battery: 4096
+  _dpi-sliding: 16
   _modelId: B01940690000
   _sensitive: {change-host: ignore, divert-keys: true, dpi: true, gesture2-divert: true, gesture2-gestures: true, hires-scroll-mode: ignore, hires-smooth-invert: ignore,
     hires-smooth-resolution: ignore, reprogrammable-keys: true, scroll-ratchet: true, smart-shift: true}
   _unitId: C1FF3A62
   change-host: null
-  divert-keys: {0x52: 0x1, 0x53: 0x0, 0x56: 0x0, 0xc3: 0x2, 0xc4: 0x3}
-  dpi: 0x3e8
-  gesture2-divert: {0x2e: false}
-  gesture2-gestures: {0x2d: true, 0x2e: true}
+  divert-keys: {82: 1, 83: 0, 86: 0, 195: 2, 196: 3}
+  dpi: 1000
+  gesture2-divert: {46: false}
+  gesture2-gestures: {45: true, 46: true}
   hires-scroll-mode: false
   hires-smooth-invert: false
   hires-smooth-resolution: false
-  reprogrammable-keys: {0x50: 0x50, 0x51: 0x51, 0x52: 0x52, 0x53: 0x53, 0x56: 0x56, 0xc3: 0xc3, 0xc4: 0xc4}
-  scroll-ratchet: 0x2
-  smart-shift: 0x10
+  reprogrammable-keys: {80: 80, 81: 81, 82: 82, 83: 83, 86: 86, 195: 195, 196: 196}
+  scroll-ratchet: 2
+  smart-shift: 16
+- _NAME: Wireless Mouse MX Master 2S
+  _absent: [hi-res-scroll, lowres-scroll-mode, thumb-scroll-invert, thumb-scroll-mode, onboard_profiles, report_rate, report_rate_extended, pointer_speed,
+    dpi_extended, speed-change, backlight, backlight_level, backlight_duration_hands_out, backlight_duration_hands_in, backlight_duration_powered, backlight-timed,
+    led_control, led_zone_, rgb_control, rgb_zone_, brightness_control, per-key-lighting, fn-swap, persistent-remappable-keys, disable-keyboard-keys, crown-smooth,
+    divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 4096
+  _modelId: Wireless Mouse MX Master 2S
+  _sensitive: {hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: ignore}
+  change-host: null
+  divert-keys: {82: 1, 83: 0, 86: 0, 195: 1, 196: 1}
+  dpi: 1000
+  gesture2-divert: {46: false}
+  gesture2-gestures: {45: true, 46: true}
+  hires-scroll-mode: false
+  hires-smooth-invert: false
+  hires-smooth-resolution: false
+  reprogrammable-keys: {80: 80, 81: 81, 82: 82, 83: 83, 86: 86, 195: 195, 196: 196}
+  scroll-ratchet: 2
+  smart-shift: 16

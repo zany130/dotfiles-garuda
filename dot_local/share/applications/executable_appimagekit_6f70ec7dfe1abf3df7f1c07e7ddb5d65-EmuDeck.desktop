@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=EmuDeck (2.2.18) (2)
+Name=EmuDeck (2.2.26)
 Exec=/home/zany130/Applications/EmuDeck_3454606d0e6874fd3db6ae032f1104f7.AppImage --no-sandbox %U
 Terminal=false
 Type=Application
 Icon=appimagekit_6f70ec7dfe1abf3df7f1c07e7ddb5d65_emudeck
 StartupWMClass=EmuDeck
-X-AppImage-Version=2.2.18
+X-AppImage-Version=2.2.26
 Comment=Play all your RetroGames
 Categories=Development;
 

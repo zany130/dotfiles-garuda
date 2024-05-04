@@ -23,17 +23,39 @@ wallpaperplugin=org.kde.image
 
 [Containments][10][Applets][11]
 immutability=1
-plugin=org.kde.kdeconnect
+plugin=com.github.exequtic.apdatifier
 
 [Containments][10][Applets][11][Configuration]
 PreloadWeight=100
 
+[Containments][10][Applets][11][Configuration][Appearance]
+relevantIcon=true
+selectedIcon=apdatifier-packages
+
+[Containments][10][Applets][11][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][10][Applets][11][Configuration][General]
+archNews=true
+aur=true
+flatpak=true
+plasmoids=true
+wrapper=/usr/bin/paru
+
+[Containments][10][Applets][11][Configuration][Upgrade]
+terminal=/usr/bin/alacritty
+
 [Containments][10][Applets][12]
 immutability=1
-plugin=org.kde.kscreen
+plugin=org.kde.kdeconnect
 
 [Containments][10][Applets][12][Configuration]
 PreloadWeight=55
+
+[Containments][10][Applets][13]
+immutability=1
+plugin=org.kde.kscreen
 
 [Containments][10][Applets][13][Configuration]
 PreloadWeight=42
@@ -71,7 +93,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][10][Applets][162][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][10][Applets][18]
 immutability=1
@@ -95,7 +117,6 @@ plugin=org.kde.plasma.volume
 PreloadWeight=100
 
 [Containments][10][Applets][20][Configuration][General]
-currentTab=streams
 migrated=true
 showVirtualDevices=true
 
@@ -751,7 +772,7 @@ DialogWidth=720
 
 [Containments][25][Applets][194][Configuration][General]
 favIcon=https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png
-url=https://chat.openai.com/
+url=https://chatgpt.com/
 useMinViewWidth=false
 
 [Containments][25][Applets][26]
@@ -1115,7 +1136,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][307][Applets][322][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][307][Applets][323]
 immutability=1
@@ -1165,7 +1186,11 @@ PreloadWeight=42
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
+[Containments][307][Applets][379][Configuration]
+PreloadWeight=55
+
 [Containments][307][Applets][380][Configuration]
+PreloadWeight=60
 selectedConfig=0
 
 [Containments][307][ConfigDialog]
@@ -1698,11 +1723,11 @@ SlidePaths=/home/zany130/.local/share/wallpapers/,/usr/share/wallpapers/
 [Containments][51]
 ItemGeometries-0x0=
 ItemGeometries-1396x785=
-ItemGeometries-1536x864=
+ItemGeometries-1536x864=Applet-384:1072,272,464,448,0;
 ItemGeometries-1920x1080=
 ItemGeometries-2048x864=
 ItemGeometries-3840x2160=
-ItemGeometriesHorizontal=
+ItemGeometriesHorizontal=Applet-384:1072,272,464,448,0;
 activityId=f577afb5-1dac-4cd8-932c-770f8518f05f
 formfactor=0
 immutability=1
@@ -1710,6 +1735,14 @@ lastScreen=2
 location=0
 plugin=org.kde.desktopcontainment
 wallpaperplugin=com.github.catsout.wallpaperEngineKde
+
+[Containments][51][Applets][384]
+immutability=1
+plugin=org.kde.plasma.notes
+
+[Containments][51][Applets][384][Configuration][General]
+fontSize=10
+noteId=cb466fa7-4102-4842-b9e9-b0d9ebca01
 
 [Containments][51][ConfigDialog]
 DialogHeight=540

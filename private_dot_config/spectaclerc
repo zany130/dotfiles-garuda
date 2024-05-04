@@ -16,14 +16,14 @@ useReleaseToCapture=true
 
 [GuiConfig]
 captureDelay=3
-captureMode=4
+captureMode=0
 includeDecorations=false
 window-position=3072,536
 
 [ImageSave]
 imageFilenameTemplate=Screenshot_%T_%d
 lastImageSaveAsLocation=file:///home/zany130/OneDrive/Dad/Screenshot_Mail - Production - Outlook - Vivaldi_2.png
-lastImageSaveLocation=file:///home/zany130/Pictures/Screenshots/Screenshot_%25T_%25d-45.png
+lastImageSaveLocation=file:///home/zany130/Pictures/Screenshots/Screenshot_%25T_%25d-62.png
 translatedScreenshotsFolder=Screenshots
 
 [KFileDialog Settings]
