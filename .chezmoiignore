@@ -1,6 +1,5 @@
 **/*.src.ini
 key.txt.age
-.config/chezmoi/**
 .config/Mailspring/**
 .config/Microsoft/Microsoft Teams/Service Worker/**
 .config/heroic/tools/**
