@@ -6,7 +6,7 @@
 [user]
 	name = zany130
 	email = andresdortiz@gmail.com
-	signingkey = 6A6580A7FE3EBFBE
+	signingKey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE/cl6NWMyiZqK+r9isozxtJL0Dne8PGuzKteWLM0VdR
 [commit]
 	gpgsign = true
 [gpg]
