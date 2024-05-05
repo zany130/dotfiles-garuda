@@ -35,7 +35,7 @@ resolutions=640x480,800x600,1024x768,1152x864,1280x960,1400x1050,1920x1080,2560x
 keystrokes=Send hello world§hello world\\n
 main_width=2048
 main_height=796
-main_maximize=false
+main_maximize=true
 main_sort_column_id=4
 main_sort_order=1
 expanded_group=
@@ -207,3 +207,10 @@ gateway_usage=0
 no-suppress=0
 freerdp_log_level=INFO
 sound=local
+
+[remmina_info]
+periodic_news_permitted=false
+periodic_news_last_checksum=
+periodic_usage_stats_permitted=false
+info_uid_prefix=51V259PEQAZLQC
+disable_tip=true

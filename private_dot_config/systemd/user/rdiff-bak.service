@@ -3,4 +3,4 @@ Description=Backup dot files with rdiff-bak
 
 [Service]
 Type=oneshot
-ExecStart=rdiff-backup --verbosity 5 backup --print-statistics --include-special-files --include-globbing-filelist /home/zany130/.config/include-list.txt /home/zany130 /mnt/GAMES/RdiffBak/
+ExecStart=rdiff-backup --verbosity 5 backup --print-statistics --include-special-files --include-globbing-filelist /home/zany130/.config/include-list.txt /home/zany130 /mnt/DATA/RdiffBak/

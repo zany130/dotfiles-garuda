@@ -14,7 +14,7 @@ scanAcrossMounts=false
 scanRemoteMounts=false
 scheme=0
 showSmallFiles=false
-skipList[$e]=/dev/,/proc/,/sys/,/root/,/.snapshots,$HOME/pCloudDrive
+skipList[$e]=/dev/,/proc/,/sys/,/root/,/.snapshots,$HOME/pCloudDrive,$HOME/.local/share/Steam/
 varyLabelFontSizes=true
 
 [window]

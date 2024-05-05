@@ -3,4 +3,4 @@ Description=Clean up rdiff-bak snapshots
 
 [Service]
 Type=oneshot
-ExecStart=rdiff-backup --verbosity 5 remove increments --older-than 30D /mnt/GAMES/RdiffBak/
+ExecStart=rdiff-backup --verbosity 5 remove increments --older-than 30D /mnt/DATA/RdiffBak/

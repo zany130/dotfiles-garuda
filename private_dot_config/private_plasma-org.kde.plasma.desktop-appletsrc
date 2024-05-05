@@ -93,7 +93,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][10][Applets][162][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][10][Applets][18]
 immutability=1
@@ -189,7 +189,7 @@ plugin=org.kde.plasma.diskquota
 PreloadWeight=60
 
 [Containments][10][Applets][361][Configuration]
-PreloadWeight=42
+PreloadWeight=62
 selectedConfig=0
 
 [Containments][10][Applets][362]
@@ -1136,7 +1136,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][307][Applets][322][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][307][Applets][323]
 immutability=1
@@ -1723,11 +1723,11 @@ SlidePaths=/home/zany130/.local/share/wallpapers/,/usr/share/wallpapers/
 [Containments][51]
 ItemGeometries-0x0=
 ItemGeometries-1396x785=
-ItemGeometries-1536x864=Applet-384:1072,272,464,448,0;
+ItemGeometries-1536x864=
 ItemGeometries-1920x1080=
 ItemGeometries-2048x864=
 ItemGeometries-3840x2160=
-ItemGeometriesHorizontal=Applet-384:1072,272,464,448,0;
+ItemGeometriesHorizontal=
 activityId=f577afb5-1dac-4cd8-932c-770f8518f05f
 formfactor=0
 immutability=1
@@ -1735,14 +1735,6 @@ lastScreen=2
 location=0
 plugin=org.kde.desktopcontainment
 wallpaperplugin=com.github.catsout.wallpaperEngineKde
-
-[Containments][51][Applets][384]
-immutability=1
-plugin=org.kde.plasma.notes
-
-[Containments][51][Applets][384][Configuration][General]
-fontSize=10
-noteId=cb466fa7-4102-4842-b9e9-b0d9ebca01
 
 [Containments][51][ConfigDialog]
 DialogHeight=540
