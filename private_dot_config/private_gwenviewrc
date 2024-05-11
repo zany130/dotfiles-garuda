@@ -67,26 +67,26 @@ MenuBar=Disabled
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Screenshots/1668540_20231209171123_1.png
-File10[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/pd80_bluenoise_rgba.png
-File2[$e]=/usr/share/wallpapers/garuda-wallpapers/Cinnamon SGS.png
-File3[$e]=$HOME/Pictures/Screenshot_20240121.png
-File4[$e]=$HOME/report
-File5[$e]=$HOME/Pictures/Screenshot_Fishbowl Client - Deliciosa Food Group (production)_1.png
-File6[$e]=$HOME/Pictures/Vivaldi Captures/2024-03-01 14.04.09 netorgft6936187-my.sharepoint.com fc5148adbf10.png
-File7[$e]=/run/media/zany130/Medicat/autorun.ico
-File8[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/Overlay.png
-File9[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/P3R_lut.png
-Name1[$e]=1668540_20231209171123_1.png
-Name10[$e]=pd80_bluenoise_rgba.png
-Name2[$e]=Cinnamon SGS.png
-Name3[$e]=Screenshot_20240121.png
-Name4[$e]=report
-Name5[$e]=Screenshot_Fishbowl Client - Deliciosa Food Group (production)_1.png
-Name6[$e]=2024-03-01 14.04.09 netorgft6936187-my.sharepoint.com fc5148adbf10.png
-Name7[$e]=autorun.ico
-Name8[$e]=Overlay.png
-Name9[$e]=P3R_lut.png
+File1[$e]=$HOME/Pictures/Screenshot_20240121.png
+File10[$e]=$HOME/Pictures/Screenshots/Screenshot_%T_%d-68.png
+File2[$e]=$HOME/report
+File3[$e]=$HOME/Pictures/Screenshot_Fishbowl Client - Deliciosa Food Group (production)_1.png
+File4[$e]=$HOME/Pictures/Vivaldi Captures/2024-03-01 14.04.09 netorgft6936187-my.sharepoint.com fc5148adbf10.png
+File5[$e]=/run/media/zany130/Medicat/autorun.ico
+File6[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/Overlay.png
+File7[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/P3R_lut.png
+File8[$e]=$HOME/.steam/steam/steamapps/common/P3R/P3R/Binaries/Win64/reshade-shaders/Textures/pd80_bluenoise_rgba.png
+File9[$e]=$HOME/Pictures/corsair-icue-icon.webp
+Name1[$e]=Screenshot_20240121.png
+Name10[$e]=Screenshot_%T_%d-68.png
+Name2[$e]=report
+Name3[$e]=Screenshot_Fishbowl Client - Deliciosa Food Group (production)_1.png
+Name4[$e]=2024-03-01 14.04.09 netorgft6936187-my.sharepoint.com fc5148adbf10.png
+Name5[$e]=autorun.ico
+Name6[$e]=Overlay.png
+Name7[$e]=P3R_lut.png
+Name8[$e]=pd80_bluenoise_rgba.png
+Name9[$e]=corsair-icue-icon.webp
 
 [SemanticInfoDialog]
 3 screens: Height=282
@@ -95,4 +95,5 @@ Name9[$e]=P3R_lut.png
 [SideBar]
 InformationSplitterSizes=210,265
 IsVisible ViewMode=true
-SideBarSplitterSizes=215,1177
+IsVisible ViewMode FullScreen=true
+SideBarSplitterSizes=215,1317

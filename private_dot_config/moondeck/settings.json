@@ -1,6 +1,6 @@
 {
-    "version": 17,
-    "clientId": "e500f30d-b9df-47f5-962e-3118fe449b62",
+    "version": 18,
+    "clientId": "d66c5ae5-ae4b-4eae-99f0-95f6874ce776",
     "currentHostId": null,
     "gameSession": {
         "autoApplyAppId": false,
@@ -11,11 +11,12 @@
         "verticalAlignment": "right",
         "offsetX": "",
         "offsetY": "",
-        "offsetForHltb": false
+        "offsetForHltb": false,
+        "zIndex": ""
     },
     "buttonStyle": {
         "showFocusRing": true,
-        "theme": "HighContrast"
+        "theme": "Clean"
     },
     "hostSettings": {},
     "runnerDebugLogs": false,

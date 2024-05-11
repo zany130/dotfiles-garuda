@@ -3,6 +3,7 @@
     "autoload": {
         "DualSense Wireless Controller": "DualSenseHotKeys",
         "Wireless Controller": "DualSenseHotKeys",
-        "Sony Interactive Entertainment DualSense Wireless Controller": "DualSenseHotKeys"
+        "Sony Interactive Entertainment DualSense Wireless Controller": "DualSenseHotKeys",
+        "Scuf Gaming SCUF Envision Controller": "HotKeys"
     }
 }

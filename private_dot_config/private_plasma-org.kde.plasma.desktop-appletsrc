@@ -189,7 +189,7 @@ plugin=org.kde.plasma.diskquota
 PreloadWeight=60
 
 [Containments][10][Applets][361][Configuration]
-PreloadWeight=62
+PreloadWeight=82
 selectedConfig=0
 
 [Containments][10][Applets][362]
@@ -262,7 +262,7 @@ scaleIconsToFit=true
 ItemGeometries-0x0=Applet-263:880,160,512,192,0;Applet-159:1008,416,272,240,0;
 ItemGeometries-1396x785=Applet-159:864,352,272,272,0;Applet-263:912,160,480,192,0;
 ItemGeometries-1536x864=Applet-263:944,160,464,192,0;Applet-159:1008,400,272,256,0;
-ItemGeometriesHorizontal=Applet-263:880,160,512,192,0;Applet-159:1008,416,272,240,0;
+ItemGeometriesHorizontal=Applet-159:864,352,272,272,0;Applet-263:912,160,480,192,0;
 activityId=ba3b1a17-4ea8-4002-91c3-ed494409356a
 formfactor=0
 immutability=1
@@ -324,7 +324,7 @@ SlidePaths=/home/zany130/.local/share/wallpapers/,/usr/share/wallpapers/
 [Containments][157]
 ItemGeometries-0x0=Applet-375:32,400,560,160,0;Applet-262:784,48,512,192,0;Applet-267:928,240,464,272,0;
 ItemGeometries-2048x864=Applet-375:48,64,480,176,0;Applet-262:784,48,480,192,0;Applet-267:1568,16,464,368,0;
-ItemGeometriesHorizontal=Applet-375:32,400,560,160,0;Applet-262:784,48,512,192,0;Applet-267:928,240,464,272,0;
+ItemGeometriesHorizontal=Applet-375:48,64,480,176,0;Applet-262:784,48,480,192,0;Applet-267:1568,16,464,368,0;
 activityId=ba3b1a17-4ea8-4002-91c3-ed494409356a
 formfactor=0
 immutability=1
@@ -757,24 +757,6 @@ plugin=org.kde.plasma.icon
 localPath=/home/zany130/.local/share/plasma_icons/FishBowl Manufacturing--Fishbowl Client--1698414712.319365.desktop
 url=file:///home/zany130/.local/share/applications/FishBowl Manufacturing--Fishbowl Client--1698414712.319365.desktop
 
-[Containments][25][Applets][194]
-immutability=1
-plugin=org.kde.plasma.webbrowser
-
-[Containments][25][Applets][194][Configuration]
-PreloadWeight=100
-popupHeight=414
-popupWidth=288
-
-[Containments][25][Applets][194][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][25][Applets][194][Configuration][General]
-favIcon=https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png
-url=https://chatgpt.com/
-useMinViewWidth=false
-
 [Containments][25][Applets][26]
 immutability=1
 plugin=org.kde.plasma.icontasks
@@ -789,12 +771,29 @@ launchers=applications:org.kde.kdeconnect.sms.desktop,applications:binggpt.deskt
 showOnlyCurrentDesktop=false
 showOnlyCurrentScreen=false
 
+[Containments][25][Applets][384]
+immutability=1
+plugin=com.samirgaire10.chatgpt-plasma6
+
+[Containments][25][Applets][384][Configuration]
+PreloadWeight=60
+popupHeight=822
+popupWidth=720
+
+[Containments][25][Applets][384][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][25][Applets][384][Configuration][General]
+favIcon=https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png
+url=https://chatgpt.com/
+
 [Containments][25][ConfigDialog]
 DialogHeight=84
 DialogWidth=2048
 
 [Containments][25][General]
-AppletOrder=194;26;142;144;138
+AppletOrder=384;26;142;144;138
 
 [Containments][278]
 activityId=
@@ -1193,6 +1192,9 @@ PreloadWeight=55
 PreloadWeight=60
 selectedConfig=0
 
+[Containments][307][Applets][385][Configuration]
+selectedConfig=0
+
 [Containments][307][ConfigDialog]
 DialogHeight=830
 DialogWidth=2048
@@ -1233,8 +1235,13 @@ global=Alt+F1
 immutability=1
 plugin=org.kde.windowbuttons
 
+[Containments][326][Applets][328][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][326][Applets][328][Configuration][General]
 buttonSizePercentage=42
+buttons=3|4|5|10|2|9
 containmentType=Plasma
 inactiveStateEnabled=true
 lengthFirstMargin=10
@@ -1311,7 +1318,7 @@ showName=false
 showTechnicalInfo=true
 
 [Containments][326][General]
-AppletOrder=327;328;329;330;331;332;333;334;348
+AppletOrder=327;329;330;331;332;333;334;348;328
 
 [Containments][335]
 activityId=
@@ -1360,7 +1367,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][335][Applets][343][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 
 [Containments][335][Applets][344]
 immutability=1
@@ -1423,6 +1430,9 @@ PreloadWeight=42
 [Containments][335][Applets][381]
 immutability=1
 plugin=com.github.exequtic.apdatifier
+
+[Containments][335][Applets][381][Configuration]
+PreloadWeight=55
 
 [Containments][335][General]
 extraItems=org.kde.kdeconnect,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.printmanager,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,com.github.exequtic.apdatifier

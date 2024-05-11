@@ -246,6 +246,9 @@
    <Filename>hp-uiscan.desktop</Filename>
    <Filename>apk_preview.desktop</Filename>
    <Filename>Fishbowl Client.desktop</Filename>
+   <Filename>cassowaryMicrosoftEdge-2.desktop</Filename>
+   <Filename>cassowaryMicrosoftEdge-3.desktop</Filename>
+   <Filename>cassowaryMicrosoftEdge-4.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>appimagekit_a95b0372c044dea3017ce471291894e1-App_Outlet-2.desktop</Filename>
@@ -255,37 +258,38 @@
   </Exclude>
   <Layout>
    <Merge type="files"/>
-   <Filename>Fishbowl Client.desktop</Filename>
-   <Filename>appimagekit_dfb3c124e4e911f212a97f1edb72155f-BetterDiscord.desktop</Filename>
+   <Filename>io.github.antimicrox.antimicrox.desktop</Filename>
+   <Filename>appimagepool.desktop</Filename>
+   <Filename>appimagekit_cb3598f29d918b4d29caa9a31d913958-AppImage_Pool.desktop</Filename>
+   <Filename>appimagekit_69c1e5aeb2de6a325213691429ccb631-balenaEtcher.desktop</Filename>
+   <Filename>org.corectrl.CoreCtrl.desktop</Filename>
+   <Filename>xyz.tytanium.DoorKnocker.desktop</Filename>
+   <Filename>io.github.seadve.Kooha.desktop</Filename>
+   <Filename>appimagekit_a9c5e5540e95b6ac07b3c3af0d8ee693-MoonDeckBuddy.desktop</Filename>
+   <Filename>normcap.desktop</Filename>
+   <Filename>com.github.Matoking.protontricks.desktop</Filename>
+   <Filename>qtscrcpy.desktop</Filename>
+   <Filename>appimagekit_c80c47acec7ad7e5d73e403c10638777-Steam_ROM_Manager.desktop</Filename>
+   <Filename>appimagekit_a4518b49b2933664c0a927e2794482fa-WebCatalog.desktop</Filename>
    <Filename>binggpt.desktop</Filename>
    <Filename>io.github.philipk.boilr.desktop</Filename>
    <Filename>cassowary_linux.desktop</Filename>
    <Filename>appimagekit_4d5deac242e79ec814acdf86d937a66a-ChatALL.desktop</Filename>
-   <Filename>clamtk.desktop</Filename>
    <Filename>com.github.hluk.copyq.desktop</Filename>
-   <Filename>appimagekit_b11460ca914cf0bb653b369947f329af-GameImage.desktop</Filename>
-   <Filename>org.localsend.localsend_app.desktop</Filename>
    <Filename>cassowaryMicrosoftEdge.desktop</Filename>
-   <Filename>noisetorch.desktop</Filename>
+   <Filename>cassowaryMicrosoftEdge-4.desktop</Filename>
+   <Filename>cassowaryMicrosoftEdge-3.desktop</Filename>
+   <Filename>cassowaryMicrosoftEdge-2.desktop</Filename>
    <Filename>codes.merritt.Nyrna.desktop</Filename>
    <Filename>onedriver.desktop</Filename>
    <Filename>io.github.alainm23.planify.desktop</Filename>
-   <Filename>scrcpy.desktop</Filename>
-   <Filename>scrcpy-console.desktop</Filename>
-   <Filename>stacer.desktop</Filename>
-   <Filename>appimagekit_0b45d9e013eba401af4c47c9079b5b3c-Steam_ROM_Manager.desktop</Filename>
-   <Filename>appimagekit_f5866f6b37c977801c3a2bcd6b24bd6b-WebCatalog.desktop</Filename>
    <Filename>org.kde.plasma-welcome.desktop</Filename>
-   <Filename>cassowaryWindowsPowerShell.desktop</Filename>
-   <Filename>org.kde.xwaylandvideobridge.desktop</Filename>
    <Filename>apk_preview.desktop</Filename>
    <Filename>appimagelaunchersettings.desktop</Filename>
    <Filename>org.kde.ark.desktop</Filename>
-   <Filename>balena-etcher-electron.desktop</Filename>
    <Filename>bitwarden.desktop</Filename>
    <Filename>com.usebottles.bottles.desktop</Filename>
    <Filename>code-oss.desktop</Filename>
-   <Filename>org.corectrl.corectrl.desktop</Filename>
    <Filename>discover_overlay.desktop</Filename>
    <Filename>discover_overlay_configure.desktop</Filename>
    <Filename>org.gnome.DiskUtility.desktop</Filename>
@@ -307,23 +311,19 @@
    <Filename>modem-manager-gui.desktop</Filename>
    <Filename>OpenRGB.desktop</Filename>
    <Filename>org.gnome.seahorse.Application.desktop</Filename>
-   <Filename>PRINCE-3.desktop</Filename>
    <Filename>protontricks.desktop</Filename>
    <Filename>net.davidotek.pupgui2.desktop</Filename>
-   <Filename>remoteplaywhatever-2.desktop</Filename>
    <Filename>org.kde.smb4k.desktop</Filename>
    <Filename>stoken-gui-small.desktop</Filename>
    <Filename>stoken-gui.desktop</Filename>
    <Filename>solaar.desktop</Filename>
    <Filename>org.kde.spectacle.desktop</Filename>
-   <Filename>xgpsspeed.desktop</Filename>
    <Filename>steam-metadata-editor.desktop</Filename>
    <Filename>ventoy.desktop</Filename>
    <Filename>vim.desktop</Filename>
    <Filename>winetricks.desktop</Filename>
    <Merge type="menus"/>
    <Menuname>XUtilities</Menuname>
-   <Filename>xgps.desktop</Filename>
    <Separator/>
    <Menuname>More</Menuname>
   </Layout>

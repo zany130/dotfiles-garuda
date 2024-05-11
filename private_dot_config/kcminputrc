@@ -15,7 +15,7 @@ TapDragLock=true
 TapToClick=true
 
 [Libinput][1356][3302][Sony Interactive Entertainment DualSense Wireless Controller Touchpad]
-Enabled=true
+Enabled=false
 
 [Libinput][1356][3302][Wireless Controller Touchpad]
 ClickMethod=1
@@ -32,7 +32,7 @@ TapDragLock=true
 TapToClick=true
 
 [Libinput][1356][3302][input-remapper Sony Interactive Entertainment DualSense Wireless Contr forwarde]
-Enabled=true
+Enabled=false
 
 [Libinput][1356][3302][input-remapper Wireless Controller Touchpad forwarded]
 Enabled=false

@@ -8,7 +8,7 @@ DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=577
 DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=1044
 
 [General]
-SplitterSizes=746,1298
+SplitterSizes=274,476
 
 [KFileDialog Settings]
 Recent Files[$e]=game-jolt-client,file:///opt/Fishbowl/client/bin/Fishbowl Client

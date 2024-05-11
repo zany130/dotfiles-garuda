@@ -2,7 +2,7 @@
 Autoplay=false
 
 [FileDialogSize]
-3 screens: Height=790
+3 screens: Height=822
 3 screens: Width=1018
 DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=813
 DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=1012
@@ -23,8 +23,8 @@ HeaderSectionIndices=0,1,2,3,4,5,6,7
 Icon=41
 MountPoint=301
 Size=80
-SortColumn=0
-SortOrder=0
+SortColumn=1
+SortOrder=1
 Type=124
 UsageBar=1676
 
