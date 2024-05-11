@@ -2,5 +2,5 @@
 DefaultWebShortcut=brave
 EnableWebShortcuts=true
 KeywordDelimiter=:
-PreferredWebShortcuts=wikit,wikipedia,youtube,brave,duckduckgo,yahoo
+PreferredWebShortcuts=google_maps,kde_forums,invent,google,kreddit,wikia,ubuntu,invent_issues,google_movie,codeberg,kde_store,google_images,youtube,google_news,github,urbandictionary,wikit,kde_techbase,yahoo,duckduckgo,bug,pypi,gitlab,wine,wikipedia,kde_userbase
 UsePreferredWebShortcutsOnly=false

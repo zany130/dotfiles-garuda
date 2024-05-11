@@ -189,7 +189,7 @@ plugin=org.kde.plasma.diskquota
 PreloadWeight=60
 
 [Containments][10][Applets][361][Configuration]
-PreloadWeight=82
+PreloadWeight=92
 selectedConfig=0
 
 [Containments][10][Applets][362]
