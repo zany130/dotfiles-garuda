@@ -1,0 +1,159 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 1,
+                "code": 306,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTMETA + KEY_EQUAL",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 1,
+                "code": 307,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTALT + KEY_F4",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 1,
+                "code": 305,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTMETA + KEY_MINUS",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 3,
+                "code": 17,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37",
+                "analog_threshold": 1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioLowerVolume",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 3,
+                "code": 17,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37",
+                "analog_threshold": -1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioRaiseVolume",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 3,
+                "code": 16,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37",
+                "analog_threshold": 1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioNext",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 3,
+                "code": 16,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37",
+                "analog_threshold": -1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioPrev",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 1,
+                "code": 312,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "XF86AudioMute",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 311,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 1,
+                "code": 304,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "",
+        "mapping_type": "key_macro"
+    }
+]

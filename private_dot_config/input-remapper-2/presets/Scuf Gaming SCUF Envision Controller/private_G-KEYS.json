@@ -1,0 +1,82 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 315,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_HOME",
+        "name": "G1",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 316,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 1,
+                "code": 114,
+                "origin_hash": "6549e276dcf6ffba08e2fc451219a32a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_PAGEUP",
+        "name": "G2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 317,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 1,
+                "code": 115,
+                "origin_hash": "6549e276dcf6ffba08e2fc451219a32a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_PAGEDOWN",
+        "name": "G3",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 318,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            },
+            {
+                "type": 1,
+                "code": 113,
+                "origin_hash": "6549e276dcf6ffba08e2fc451219a32a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_END",
+        "name": "G4",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 319,
+                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTMETA + KEY_LEFTCTRL + KEY_S",
+        "name": "G5",
+        "mapping_type": "key_macro"
+    }
+]
