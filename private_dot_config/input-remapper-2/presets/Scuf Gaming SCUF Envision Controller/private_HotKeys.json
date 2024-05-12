@@ -10,7 +10,7 @@
         "target_uinput": "keyboard",
         "output_symbol": "KEY_HOME",
         "name": "G1",
-        "mapping_type": "key_macro",
+        "mapping_type": "key_macro"
     },
     {
         "input_combination": [
@@ -46,7 +46,7 @@
         "target_uinput": "keyboard",
         "output_symbol": "KEY_END",
         "name": "G3",
-        "mapping_type": "key_macro",
+        "mapping_type": "key_macro"
     },
     {
         "input_combination": [
@@ -64,20 +64,7 @@
         "target_uinput": "keyboard",
         "output_symbol": "KEY_LEFTSHIFT + KEY_F12",
         "name": "G4",
-        "mapping_type": "key_macro",
-    },
-    {
-        "input_combination": [
-            {
-                "type": 1,
-                "code": 319,
-                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
-            }
-        ],
-        "target_uinput": "keyboard",
-        "output_symbol": "disable",
-        "name": "G5",
-        "mapping_type": "key_macro",
+        "mapping_type": "key_macro"
     },
     {
         "input_combination": [
@@ -223,18 +210,6 @@
         "input_combination": [
             {
                 "type": 1,
-                "code": 704,
-                "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
-            }
-        ],
-        "target_uinput": "keyboard",
-        "output_symbol": "disable",
-        "mapping_type": "key_macro",
-    },
-    {
-        "input_combination": [
-            {
-                "type": 1,
                 "code": 311,
                 "origin_hash": "b4d4c75a8c188c20d61daa527ecf2e37"
             },
@@ -258,6 +233,7 @@
         ],
         "target_uinput": "keyboard",
         "output_symbol": "disable",
+        "name": "G2ORIG",
         "mapping_type": "key_macro"
     },
     {
@@ -270,6 +246,7 @@
         ],
         "target_uinput": "keyboard",
         "output_symbol": "disable",
+        "name": "G3ORIG",
         "mapping_type": "key_macro"
     },
     {
@@ -282,6 +259,7 @@
         ],
         "target_uinput": "keyboard",
         "output_symbol": "disable",
+        "name": "G4ORIG",
         "mapping_type": "key_macro"
     }
 ]

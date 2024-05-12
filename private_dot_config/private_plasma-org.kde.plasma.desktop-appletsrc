@@ -165,7 +165,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][10][Applets][30][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][10][Applets][32][Configuration]
 PreloadWeight=42
@@ -262,7 +262,7 @@ scaleIconsToFit=true
 ItemGeometries-0x0=Applet-263:880,160,512,192,0;Applet-159:1008,416,272,240,0;
 ItemGeometries-1396x785=Applet-159:864,352,272,272,0;Applet-263:912,160,480,192,0;
 ItemGeometries-1536x864=Applet-263:944,160,464,192,0;Applet-159:1008,400,272,256,0;
-ItemGeometriesHorizontal=Applet-159:864,352,272,272,0;Applet-263:912,160,480,192,0;
+ItemGeometriesHorizontal=Applet-263:880,160,512,192,0;Applet-159:1008,416,272,240,0;
 activityId=ba3b1a17-4ea8-4002-91c3-ed494409356a
 formfactor=0
 immutability=1
@@ -295,7 +295,7 @@ SlidePaths=/home/zany130/.local/share/wallpapers/,/usr/share/wallpapers/
 ItemGeometries-0x0=Applet-264:32,32,448,192,0;
 ItemGeometries-1396x785=Applet-264:32,32,448,192,0;
 ItemGeometries-1536x864=Applet-264:32,32,480,192,0;
-ItemGeometriesHorizontal=Applet-264:32,32,480,192,0;
+ItemGeometriesHorizontal=Applet-264:32,32,448,192,0;
 activityId=ba3b1a17-4ea8-4002-91c3-ed494409356a
 formfactor=0
 immutability=1
