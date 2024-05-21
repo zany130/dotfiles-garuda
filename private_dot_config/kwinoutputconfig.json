@@ -61,7 +61,7 @@
                 "sdrBrightness": 200,
                 "sdrGamutWideness": 0,
                 "transform": "Normal",
-                "vrrPolicy": "Always",
+                "vrrPolicy": "Automatic",
                 "wideColorGamut": false
             }
         ],
@@ -76,28 +76,28 @@
                         "enabled": true,
                         "outputIndex": 0,
                         "position": {
-                            "x": 2932,
-                            "y": 572
+                            "x": 1536,
+                            "y": 337
                         },
                         "priority": 0
                     },
                     {
-                        "enabled": true,
+                        "enabled": false,
                         "outputIndex": 1,
                         "position": {
-                            "x": 0,
-                            "y": 0
+                            "x": -1397,
+                            "y": -103
                         },
-                        "priority": 1
+                        "priority": -1
                     },
                     {
                         "enabled": true,
                         "outputIndex": 2,
                         "position": {
-                            "x": 1396,
-                            "y": 235
+                            "x": 0,
+                            "y": 0
                         },
-                        "priority": 2
+                        "priority": 1
                     }
                 ]
             },

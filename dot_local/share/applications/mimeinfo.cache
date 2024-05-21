@@ -56,4 +56,4 @@ x-scheme-handler/steam=steam-native.desktop;
 x-scheme-handler/steamlink=steam-native.desktop;
 x-scheme-handler/steamvr=valve-URI-steamvr.desktop;
 x-scheme-handler/vrmonitor=valve-URI-vrmonitor.desktop;
-x-scheme-handler/webcatalog=appimagekit_a4518b49b2933664c0a927e2794482fa-WebCatalog.desktop;
+x-scheme-handler/webcatalog=appimagekit_02a1dcd7eb57a05e2e5f249115863322-WebCatalog.desktop;

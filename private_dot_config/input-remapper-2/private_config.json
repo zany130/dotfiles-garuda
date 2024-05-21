@@ -4,6 +4,8 @@
         "DualSense Wireless Controller": "DualSenseHotKeys",
         "Wireless Controller": "DualSenseHotKeys",
         "Sony Interactive Entertainment DualSense Wireless Controller": "DualSenseHotKeys",
-        "Scuf Gaming SCUF Envision Controller": "HotKeys"
+        "Scuf Gaming SCUF Envision Controller": "HotKeys",
+        "Scuf Gaming SCUF PC Controller Dongle": "HotKeys",
+        "Scuf Gaming SCUF Envision Pro Controller": "HotKeys"
     }
 }

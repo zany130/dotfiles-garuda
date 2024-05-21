@@ -18,6 +18,8 @@ roots:
     store: heroic
   - path: ~/.config/lutris
     store: lutris
+  - path: /mnt/DATA/SteamLibrary
+    store: steam
 redirects: []
 backup:
   path: /home/zany130/ludusavi-backup
@@ -145,7 +147,7 @@ scan:
 cloud:
   remote:
     Custom:
-      id: pCloud
+      id: Andres_pCloud
   path: ludusavi-backup
   synchronize: true
 apps:

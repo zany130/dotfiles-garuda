@@ -10,7 +10,7 @@ emojirunnerEnabled=true
 krunner_sshEnabled=true
 
 [Plugins][Favorites]
-plugins=krunner_services,krunner_plasma-desktop,krunner_kwin,krunner_systemsettings,krunner_symbols,emojirunner,krunner_spellcheck,krunner_kill,krunner_shell,krunner_webshortcuts,calculator,unitconverter,krunner_appstream
+plugins=krunner_kill,krunner_services,krunner_shell,krunner_appstream,krunner_plasma-desktop,krunner_kwin,krunner_systemsettings,krunner_spellcheck,krunner_webshortcuts,calculator,unitconverter,emojirunner,krunner_symbols
 
 [Runners][Kill Runner]
 sorting=1
@@ -18,4 +18,4 @@ triggerWord=kill
 useTriggerWord=true
 
 [Runners][krunner_jetbrainsrunner]
-checkedUpdateDate=Sun May 5 2024
+checkedUpdateDate=Sun May 19 2024

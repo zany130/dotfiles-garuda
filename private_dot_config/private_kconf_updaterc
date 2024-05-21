@@ -187,9 +187,9 @@ done=split-variants
 mtime=1701816132
 
 [migrate-calendar-to-plugin-id.upd]
-ctime=1713396131
+ctime=1716161802
 done=kwin-6.0-remove-breeze-tabbox-default,migrate-calendar-plugins
-mtime=1713342537
+mtime=1715290605
 
 [okular.upd]
 ctime=1709419427
@@ -197,14 +197,14 @@ done=annotation-toolbar,builtin-annotations
 mtime=1708590309
 
 [plasma6.0-remove-dpi-settings.upd]
-ctime=1713396131
+ctime=1716161802
 done=migrate-calendar-plugins,plasma6.0-remove-dpi-settings
-mtime=1713342537
+mtime=1715290605
 
 [plasma6.0-remove-old-shortcuts.upd]
-ctime=1713396131
+ctime=1716161802
 done=plasma6.0-remove-dpi-settings,plasma6.0-remove-old-shortcuts
-mtime=1713342537
+mtime=1715290605
 
 [plasmashell-5.27-use-panel-thickness-in-default-group.upd]
 ctime=1704512406
@@ -212,14 +212,14 @@ done=plasmashell-5.27-use-panel-thickness-in-default-group
 mtime=1702320594
 
 [plasmashell-6.0-keep-custom-position-of-panels.upd]
-ctime=1713396131
+ctime=1716161802
 done=plasma6.0-remove-old-shortcuts,plasmashell-6.0-keep-custom-position-of-panels
-mtime=1713342537
+mtime=1715290605
 
 [plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels.upd]
-ctime=1713396131
+ctime=1716161802
 done=plasmashell-6.0-keep-custom-position-of-panels,plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels
-mtime=1713342537
+mtime=1715290605
 
 [smb4k_3_0_0.upd]
 ctime=1709419428

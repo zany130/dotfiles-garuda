@@ -1,9 +1,3 @@
-[Production]
-config_file = /home/zany130/.config/onedrive/accounts/Production/config
-auto_sync = False
-account_type = Business
-free_space = 980.1GiB
-
 [SharePoint_deliciosafoodgroup.com_Documents]
 config_file = /home/zany130/.config/onedrive/accounts/SharePoint_deliciosafoodgroup.com_Documents/config
 auto_sync = True

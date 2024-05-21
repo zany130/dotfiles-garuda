@@ -1,7 +1,16 @@
 [Desktop Entry]
-Type=Application
-Name=Vesktop
+Comment[en_US]=Vesktop autostart script
 Comment=Vesktop autostart script
-Exec="/usr/lib/vesktop/vesktop" "--enable-blink-features=MiddleClickAutoscroll"
+Exec=/usr/lib/vesktop/vesktop --enable-blink-features=MiddleClickAutoscroll --start-minimized
+GenericName[en_US]=
+GenericName=
+MimeType=
+Name[en_US]=Vesktop
+Name=Vesktop
+Path=
 StartupNotify=false
 Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

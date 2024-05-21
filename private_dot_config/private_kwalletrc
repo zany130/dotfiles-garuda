@@ -1,5 +1,5 @@
 [Auto Allow]
-kdewallet=krfb,discord,kwalletmanager5,kwallet-query,krunner,Toolbox: JetBrains Account,Vivaldi,plasmashell,Chromium,Microsoft Edge,ksshaskpass,krdc,KDE System,WebCord,nwjs,kded5,code-oss,kiod5,drkonqi,signond,teams-for-linux,Toolbox,kded6
+kdewallet=krfb,discord,kwalletmanager5,kwallet-query,krunner,Toolbox: JetBrains Account,Vivaldi,plasmashell,Chromium,Microsoft Edge,ksshaskpass,krdc,KDE System,WebCord,nwjs,kded5,code-oss,kiod5,drkonqi,signond,teams-for-linux,Toolbox,kded6,kiod6
 
 [Wallet]
 Close When Idle=false
