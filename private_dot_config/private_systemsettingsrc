@@ -2,6 +2,8 @@
 Autoplay=false
 
 [FileDialogSize]
+2 screens: Height=822
+2 screens: Width=1018
 3 screens: Height=478
 3 screens: Width=1018
 DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=813

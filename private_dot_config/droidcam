@@ -1,9 +1,9 @@
 v4
-ip=192.168.2.127
+ip=192.168.2.92
 port=4747
-audio=1
+audio=0
 video=1
-size=0x0
+size=640x480
 confirm_close=1
 vertical_flip=0
 horizontal_flip=0

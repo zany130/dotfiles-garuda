@@ -10,7 +10,7 @@ emojirunnerEnabled=true
 krunner_sshEnabled=true
 
 [Plugins][Favorites]
-plugins=krunner_kill,krunner_services,krunner_shell,krunner_appstream,krunner_plasma-desktop,krunner_kwin,krunner_systemsettings,krunner_spellcheck,krunner_webshortcuts,calculator,unitconverter,emojirunner,krunner_symbols
+plugins=krunner_kill,krunner_services,krunner_shell,locations,baloosearch,krunner_recentdocuments,krunner_appstream,krunner_plasma-desktop,krunner_kwin,krunner_systemsettings,krunner_spellcheck,krunner_webshortcuts,calculator,unitconverter,emojirunner,krunner_symbols,krunner_dictionary
 
 [Runners][Kill Runner]
 sorting=1

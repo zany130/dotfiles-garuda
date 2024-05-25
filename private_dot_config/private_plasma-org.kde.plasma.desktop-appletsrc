@@ -18,7 +18,7 @@ lastScreen=0
 location=3
 plugin=org.kde.plasma.private.systemtray
 popupHeight=498
-popupWidth=641
+popupWidth=626
 wallpaperplugin=org.kde.image
 
 [Containments][10][Applets][11]
@@ -93,7 +93,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][10][Applets][162][Configuration]
-PreloadWeight=0
+PreloadWeight=35
 
 [Containments][10][Applets][18]
 immutability=1
@@ -170,12 +170,8 @@ PreloadWeight=0
 [Containments][10][Applets][32][Configuration]
 PreloadWeight=42
 
-[Containments][10][Applets][355]
-immutability=1
-plugin=com.github.boraerciyas.controlcentre
-
 [Containments][10][Applets][355][Configuration]
-PreloadWeight=12
+PreloadWeight=42
 
 [Containments][10][Applets][359]
 immutability=1
@@ -189,7 +185,6 @@ plugin=org.kde.plasma.diskquota
 PreloadWeight=60
 
 [Containments][10][Applets][361][Configuration]
-PreloadWeight=97
 selectedConfig=0
 
 [Containments][10][Applets][362]
@@ -253,16 +248,16 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][10][General]
-extraItems=org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.cameraindicator,org.kde.plasma.brightness,martchus.syncthingplasmoid-qt6,org.kde.plasma.bluetooth,org.kde.plasma.manage-inputmethod,org.kde.plasma.diskquota,com.github.boraerciyas.controlcentre,com.github.exequtic.apdatifier
-hiddenItems=CopyQ_copyq,toolbox,openrgb,PreMiD1,chrome_status_icon_3,Desktop Sharing,Portal,deckboard1,tray-id,tray-icon tray app,MoonDeckBuddy,TeamViewer,chrome_status_icon_2,PreMiD Portable1,Discover Notifier_org.kde.DiscoverNotifier,org.kde.plasma.brightness,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.networkmanagement,spotify-client,plasmashell_microphone,Wallet Manager,KotatogramDesktop
+extraItems=org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.cameraindicator,org.kde.plasma.brightness,martchus.syncthingplasmoid-qt6,org.kde.plasma.bluetooth,org.kde.plasma.manage-inputmethod,org.kde.plasma.diskquota,com.github.exequtic.apdatifier,com.github.boraerciyas.controlcentre
+hiddenItems=CopyQ_copyq,toolbox,openrgb,PreMiD1,chrome_status_icon_3,Desktop Sharing,Portal,deckboard1,tray-id,tray-icon tray app,MoonDeckBuddy,TeamViewer,chrome_status_icon_2,PreMiD Portable1,Discover Notifier_org.kde.DiscoverNotifier,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.networkmanagement,spotify-client,plasmashell_microphone,Wallet Manager,KotatogramDesktop,octopi-notifier,org.kde.plasma.brightness
 knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,com.github.exequtic.apdatifier
 scaleIconsToFit=true
 
 [Containments][154]
-ItemGeometries-0x0=Applet-263:880,160,512,192,0;Applet-159:1008,416,272,240,0;
+ItemGeometries-0x0=Applet-263:880,160,512,192,0;
 ItemGeometries-1396x785=Applet-159:864,352,272,272,0;Applet-263:912,160,480,192,0;
 ItemGeometries-1536x864=Applet-263:944,160,464,192,0;
-ItemGeometriesHorizontal=Applet-263:944,160,464,192,0;
+ItemGeometriesHorizontal=Applet-263:880,160,512,192,0;
 activityId=ba3b1a17-4ea8-4002-91c3-ed494409356a
 formfactor=0
 immutability=1
@@ -787,12 +782,24 @@ DialogWidth=720
 favIcon=https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png
 url=https://chatgpt.com/
 
+[Containments][25][Applets][392]
+immutability=1
+plugin=org.kde.plasma.private.BusyTasksPlasmoid
+
+[Containments][25][Applets][392][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][25][Applets][392][Configuration][General]
+password=Hacker172!
+usesmem=true
+
 [Containments][25][ConfigDialog]
 DialogHeight=84
 DialogWidth=2048
 
 [Containments][25][General]
-AppletOrder=384;26;142;144;138
+AppletOrder=384;26;142;144;392;138
 
 [Containments][278]
 activityId=
@@ -1134,7 +1141,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][307][Applets][322][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][307][Applets][323]
 immutability=1
@@ -1192,6 +1199,10 @@ PreloadWeight=60
 selectedConfig=0
 
 [Containments][307][Applets][385][Configuration]
+PreloadWeight=42
+selectedConfig=0
+
+[Containments][307][Applets][393][Configuration]
 selectedConfig=0
 
 [Containments][307][ConfigDialog]
@@ -1307,7 +1318,7 @@ immutability=1
 plugin=org.kde.plasma.userswitcher
 
 [Containments][326][Applets][348][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 popupHeight=175
 popupWidth=216
 
@@ -1420,7 +1431,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][335][Applets][352][Configuration]
-PreloadWeight=0
+PreloadWeight=15
 
 [Containments][335][Applets][353]
 immutability=1
@@ -1551,6 +1562,15 @@ DialogWidth=720
 [Containments][4][Applets][365][Configuration][General]
 graphs=[{"_v":1,"type":"memory","colors":["highlightColor","negativeTextColor"],"sensorsType":["physical","swap"],"thresholds":[70,90]}]
 
+[Containments][4][Applets][386]
+immutability=1
+plugin=com.github.boraerciyas.controlcentre
+
+[Containments][4][Applets][386][Configuration]
+PreloadWeight=100
+popupHeight=450
+popupWidth=360
+
 [Containments][4][Applets][43]
 immutability=1
 plugin=org.kde.plasma.panelspacer
@@ -1610,21 +1630,21 @@ DialogHeight=84
 DialogWidth=2048
 
 [Containments][4][General]
-AppletOrder=117;7;297;43;260;365;259;44;364;9;87;31
+AppletOrder=117;7;297;43;260;365;259;44;364;386;9;87;31
 
 [Containments][49]
 ItemGeometries-0x0=Applet-268:784,32,480,192,0;Applet-377:816,304,96,96,0;
 ItemGeometries-1280x720=Applet-39:0,160,640,160,0;Applet-35:816,144,464,480,0;Applet-52:352,320,464,96,0;
-ItemGeometries-1396x785=Applet-377:32,48,384,176,0;Applet-268:416,16,496,192,0;
+ItemGeometries-1396x785=Applet-377:32,48,384,176,0;Applet-268:416,16,496,192,0;Applet-391:2721.78,763,532,54,0;
 ItemGeometries-1536x864=Applet-193:384.043,32,320,448,0;Applet-192:704.043,287.993,256,448,0;Applet-190:1039.97,16,400,208,0;
 ItemGeometries-1920x1080=Applet-39:528,80,640,240,0;Applet-52:560,320,1008,208,0;Applet-35:688,320,848,672,0;
-ItemGeometries-2048x864=Applet-377:32,48,480,224,0;Applet-268:1440,32,512,192,0;
+ItemGeometries-2048x864=Applet-377:32,48,480,224,0;Applet-268:1440,32,512,192,0;Applet-391:3373.78,842,532,54,0;
 ItemGeometries-2560x1080=Applet-39:848,80,640,240,0;Applet-52:1520,0,1008,208,0;Applet-35:1648,208,848,768,0;
 ItemGeometries-2560x1440=Applet-39:832,64,640,160,0;Applet-52:1536,16,464,96,0;Applet-35:1584,288,464,480,0;
 ItemGeometries-3200x1800=Applet-39:528,80,640,240,0;Applet-52:1200,0,1008,208,0;Applet-35:1328,208,848,768,0;
 ItemGeometries-3840x2160=Applet-39:848,80,640,240,0;Applet-52:1520,0,1008,208,0;Applet-35:1648,208,848,768,0;
 ItemGeometries-4096x2160=Applet-39:976,80,640,240,0;Applet-52:1648,0,1008,208,0;Applet-35:1776,208,848,768,0;
-ItemGeometriesHorizontal=Applet-377:32,48,480,224,0;Applet-268:1440,32,512,192,0;
+ItemGeometriesHorizontal=Applet-377:32,48,480,224,0;Applet-268:1440,32,512,192,0;Applet-391:3373.78,842,532,54,0;
 activityId=f577afb5-1dac-4cd8-932c-770f8518f05f
 formfactor=0
 immutability=1
@@ -1649,6 +1669,19 @@ DialogWidth=720
 command=motivate
 interval=1800000
 waitForCompletion=true
+
+[Containments][49][Applets][391]
+immutability=1
+plugin=org.kde.plasma.private.BusyTasksPlasmoid
+
+[Containments][49][Applets][391][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][49][Applets][391][Configuration][General]
+password=Hacker172!
+showinfo=false
+usesmem=true
 
 [Containments][49][ConfigDialog]
 DialogHeight=540
@@ -1688,7 +1721,7 @@ ItemGeometries-1396x785=
 ItemGeometries-1489x785=Applet-42:496,0,640,160,0;
 ItemGeometries-1536x864=
 ItemGeometries-1920x1080=Applet-42:640,0,640,160,0;
-ItemGeometries-2048x864=Applet-356:1952,656,96,80,0;
+ItemGeometries-2048x864=
 ItemGeometries-2560x1080=Applet-42:1728,0,640,160,0;
 ItemGeometries-2560x1440=Applet-42:960,0,640,160,0;
 ItemGeometries-3840x2160=Applet-356:3740.14,1951.03,96,80,0;

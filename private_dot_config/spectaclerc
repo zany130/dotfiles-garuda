@@ -18,14 +18,14 @@ useReleaseToCapture=true
 
 [GuiConfig]
 captureDelay=3
-captureMode=0
+captureMode=4
 includeDecorations=false
 window-position=3072,536
 
 [ImageSave]
 imageFilenameTemplate=Screenshot_%T_%d
 lastImageSaveAsLocation=file:///run/user/1000/7351d9f3_1271_4936_9263_157eb60250bb/storage/emulated/0/DCIM/Camera/Screenshot_%25T_%25d.png
-lastImageSaveLocation=file:///home/zany130/Pictures/Screenshots/Screenshot_%25T_%25d-17.png
+lastImageSaveLocation=file:///home/zany130/Pictures/Screenshots/Screenshot_%25T_%25d-22.png
 translatedScreenshotsFolder=Screenshots
 
 [VideoSave]

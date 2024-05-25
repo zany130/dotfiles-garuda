@@ -76,28 +76,28 @@
                         "enabled": true,
                         "outputIndex": 0,
                         "position": {
-                            "x": 1536,
-                            "y": 337
+                            "x": 2933,
+                            "y": 476
                         },
                         "priority": 0
                     },
                     {
-                        "enabled": false,
-                        "outputIndex": 1,
-                        "position": {
-                            "x": -1397,
-                            "y": -103
-                        },
-                        "priority": -1
-                    },
-                    {
                         "enabled": true,
-                        "outputIndex": 2,
+                        "outputIndex": 1,
                         "position": {
                             "x": 0,
                             "y": 0
                         },
                         "priority": 1
+                    },
+                    {
+                        "enabled": true,
+                        "outputIndex": 2,
+                        "position": {
+                            "x": 1397,
+                            "y": 139
+                        },
+                        "priority": 2
                     }
                 ]
             },
