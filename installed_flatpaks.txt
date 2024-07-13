@@ -1,0 +1,14 @@
+com.github.Matoking.protontricks
+com.github.derrod.legendary
+com.google.Chrome
+com.leinardi.gst
+com.quexten.Goldwarden
+com.supermodel3.Supermodel
+com.usebottles.bottles
+dev.ares.ares
+io.github.achetagames.epic_asset_manager
+io.github.alainm23.planify
+io.github.hmlendea.geforcenow-electron
+io.github.shiiion.primehack
+re.chiaki.Chiaki
+xyz.tytanium.DoorKnocker
