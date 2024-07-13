@@ -1,11 +1,14 @@
 {
-  "version": 42,
+  "version": 51,
   "enable_file_log": true,
   "backend_threading": "Auto",
-  "res_scale": 1,
+  "res_scale": 2,
   "res_scale_custom": 1,
   "max_anisotropy": -1,
   "aspect_ratio": "Fixed16x9",
+  "anti_aliasing": "SmaaMedium",
+  "scaling_filter": "Bilinear",
+  "scaling_filter_level": 80,
   "graphics_shaders_dump_path": "",
   "logging_enable_debug": false,
   "logging_enable_stub": true,
@@ -20,16 +23,19 @@
   "system_language": "AmericanEnglish",
   "system_region": "USA",
   "system_time_zone": "UTC",
-  "system_time_offset": 0,
+  "system_time_offset": -740,
   "docked_mode": false,
   "enable_discord_integration": true,
   "check_updates_on_start": true,
   "show_confirm_exit": true,
-  "hide_cursor_on_idle": false,
+  "remember_window_state": true,
+  "enable_hardware_acceleration": true,
+  "hide_cursor": 0,
   "enable_vsync": true,
   "enable_shader_cache": true,
   "enable_texture_recompression": false,
   "enable_macro_hle": true,
+  "enable_color_space_passthrough": false,
   "enable_ptc": true,
   "enable_internet_access": false,
   "enable_fs_integrity_checks": true,
@@ -56,8 +62,24 @@
     "sort_ascending": false
   },
   "game_dirs": [
-    "/home/zany130/Emulation/roms/switch"
+    "/home/zany130/Emulation/roms/switch",
+    "/mnt/GAMES/Emulation/roms/switch"
   ],
+  "shown_file_types": {
+    "nsp": true,
+    "pfs0": true,
+    "xci": true,
+    "nca": true,
+    "nro": true,
+    "nso": true
+  },
+  "window_startup": {
+    "window_size_width": 1877,
+    "window_size_height": 654,
+    "window_position_x": 8066,
+    "window_position_y": 1642,
+    "window_maximized": false
+  },
   "language_code": "en_US",
   "enable_custom_theme": false,
   "custom_theme_path": "",
@@ -106,12 +128,7 @@
       "range_right": 1,
       "trigger_threshold": 0.5,
       "motion": {
-        "slot": 0,
-        "alt_slot": 0,
-        "mirror_input": false,
-        "dsu_server_host": "127.0.0.1",
-        "dsu_server_port": 26760,
-        "motion_backend": "CemuHook",
+        "motion_backend": "GamepadDriver",
         "sensitivity": 100,
         "gyro_deadzone": 1,
         "enable_motion": true
@@ -122,7 +139,7 @@
         "enable_rumble": true
       },
       "left_joycon": {
-        "button_minus": "Minus",
+        "button_minus": "Back",
         "button_l": "LeftShoulder",
         "button_zl": "LeftTrigger",
         "button_sl": "Unbound",
@@ -133,7 +150,7 @@
         "dpad_right": "DpadRight"
       },
       "right_joycon": {
-        "button_plus": "Plus",
+        "button_plus": "Start",
         "button_r": "RightShoulder",
         "button_zr": "RightTrigger",
         "button_sl": "Unbound",
@@ -145,11 +162,14 @@
       },
       "version": 1,
       "backend": "GamepadSDL2",
-      "id": "0-f6790003-28de-0000-ff11-000001000000",
-      "controller_type": "JoyconPair",
+      "id": "0-68fe0003-04b4-0000-1224-000011010000",
+      "controller_type": "ProController",
       "player_index": "Player1"
     }
   ],
   "graphics_backend": "Vulkan",
-  "preferred_gpu": "0x1002_0x163F"
+  "preferred_gpu": "0x1002_0x73DF",
+  "multiplayer_mode": 0,
+  "multiplayer_lan_interface_id": "0",
+  "use_hypervisor": true
 }

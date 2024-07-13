@@ -3,7 +3,7 @@ appsListPageSorting=276
 installedPageSorting=276
 
 [FlatpakSources]
-Sources=flathub,flathub,flathub-beta
+Sources=flathub-beta,flathub,flathub
 
 [ResourcesModel]
 currentApplicationBackend=flatpak-backend
@@ -12,5 +12,5 @@ currentApplicationBackend=flatpak-backend
 UseOfflineUpdates=true
 
 [Window]
-geometry=2933,476,2048,830
-visibility=4
+geometry=1536,337,1018,822
+visibility=2

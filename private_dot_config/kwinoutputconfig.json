@@ -3,6 +3,8 @@
         "data": [
             {
                 "autoRotation": "InTabletMode",
+                "brightness": 1,
+                "colorProfileSource": "sRGB",
                 "connectorName": "DP-1",
                 "edidHash": "7dda44bc7ba33866f2b551b3e298ce21",
                 "edidIdentifier": "GSM 23456 14329 3 2021 0",
@@ -24,6 +26,8 @@
             },
             {
                 "autoRotation": "InTabletMode",
+                "brightness": 1,
+                "colorProfileSource": "sRGB",
                 "connectorName": "DP-2",
                 "edidHash": "c49f9ab91e9855c7d7cf6d21d07ae07d",
                 "edidIdentifier": "GSM 49352 16843009 1 2022 0",
@@ -45,6 +49,8 @@
             },
             {
                 "autoRotation": "InTabletMode",
+                "brightness": 1,
+                "colorProfileSource": "sRGB",
                 "connectorName": "HDMI-A-2",
                 "edidHash": "c6a872e304e0d0ad22ab3c640fb842b4",
                 "edidIdentifier": "GSM 23381 540640 1 2023 0",
@@ -63,6 +69,49 @@
                 "transform": "Normal",
                 "vrrPolicy": "Automatic",
                 "wideColorGamut": false
+            },
+            {
+                "autoRotation": "InTabletMode",
+                "colorProfileSource": "sRGB",
+                "connectorName": "HDMI-A-2",
+                "edidHash": "f5820a09ba4ec050df5a601a46c26e9d",
+                "edidIdentifier": "GSM 23455 14329 3 2021 0",
+                "highDynamicRange": false,
+                "iccProfilePath": "",
+                "mode": {
+                    "height": 1080,
+                    "refreshRate": 59978,
+                    "width": 2560
+                },
+                "overscan": 0,
+                "rgbRange": "Automatic",
+                "scale": 1,
+                "sdrBrightness": 200,
+                "sdrGamutWideness": 0,
+                "transform": "Normal",
+                "vrrPolicy": "Automatic",
+                "wideColorGamut": false
+            },
+            {
+                "autoRotation": "InTabletMode",
+                "brightness": 1,
+                "colorProfileSource": "sRGB",
+                "connectorName": "Virtual-Virtual2",
+                "highDynamicRange": false,
+                "iccProfilePath": "",
+                "mode": {
+                    "height": 1080,
+                    "refreshRate": 60000,
+                    "width": 1920
+                },
+                "overscan": 0,
+                "rgbRange": "Automatic",
+                "scale": 1,
+                "sdrBrightness": 200,
+                "sdrGamutWideness": 0,
+                "transform": "Normal",
+                "vrrPolicy": "Automatic",
+                "wideColorGamut": false
             }
         ],
         "name": "outputs"
@@ -76,28 +125,28 @@
                         "enabled": true,
                         "outputIndex": 0,
                         "position": {
-                            "x": 2933,
-                            "y": 476
+                            "x": 1536,
+                            "y": 337
                         },
                         "priority": 0
                     },
                     {
-                        "enabled": true,
+                        "enabled": false,
                         "outputIndex": 1,
                         "position": {
-                            "x": 0,
-                            "y": 0
+                            "x": -1397,
+                            "y": -190
                         },
-                        "priority": 1
+                        "priority": -1
                     },
                     {
                         "enabled": true,
                         "outputIndex": 2,
                         "position": {
-                            "x": 1397,
-                            "y": 139
+                            "x": 0,
+                            "y": 0
                         },
-                        "priority": 2
+                        "priority": 1
                     }
                 ]
             },
@@ -181,6 +230,89 @@
                             "y": 0
                         },
                         "priority": 1
+                    }
+                ]
+            },
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 2,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0
+                    }
+                ]
+            },
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 1,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0
+                    }
+                ]
+            },
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 3,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0
+                    }
+                ]
+            },
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 0,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "enabled": true,
+                        "outputIndex": 2,
+                        "position": {
+                            "x": 2048,
+                            "y": 0
+                        },
+                        "priority": 1
+                    },
+                    {
+                        "enabled": true,
+                        "outputIndex": 1,
+                        "position": {
+                            "x": 3584,
+                            "y": 0
+                        },
+                        "priority": 2
+                    },
+                    {
+                        "enabled": true,
+                        "outputIndex": 4,
+                        "position": {
+                            "x": 4981,
+                            "y": 0
+                        },
+                        "priority": 3
                     }
                 ]
             }

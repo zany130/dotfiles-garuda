@@ -14,7 +14,7 @@ X-AppImage-Old-Icon=steam-rom-manager
 X-AppImage-Old-Name=Steam ROM Manager
 X-AppImage-Identifier=c80c47acec7ad7e5d73e403c10638777
 Actions=Remove;
-X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2024-05-25 15:13:12 UTC
 
 [Desktop Action Remove]
 Name=Remove AppImage from system

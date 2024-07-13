@@ -106,6 +106,7 @@ jpeg=true
 jpeggray=true
 kactivitymanagerd_fileitem_linking_plugin=true
 kdeconnectfileitemaction=true
+kdiff3fileitemaction=true
 kio-admin=true
 kleodecryptverifyfiles=true
 kleoencryptfiles=true

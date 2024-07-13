@@ -1,16 +1,7 @@
 [Desktop Entry]
-Comment[en_US]=Vesktop autostart script
-Comment=Vesktop autostart script
-Exec=/usr/lib/vesktop/vesktop --enable-blink-features=MiddleClickAutoscroll --start-minimized
-GenericName[en_US]=
-GenericName=
-MimeType=
-Name[en_US]=Vesktop
+Type=Application
 Name=Vesktop
-Path=
+Comment=Vesktop autostart script
+Exec="/usr/lib/electron31/electron" "--enable-features=WaylandWindowDecorations" "--ozone-platform-hint=auto" "/usr/lib/vesktop/app.asar" "--enable-blink-features=MiddleClickAutoscroll"
 StartupNotify=false
 Terminal=false
-TerminalOptions=
-Type=Application
-X-KDE-SubstituteUID=false
-X-KDE-Username=

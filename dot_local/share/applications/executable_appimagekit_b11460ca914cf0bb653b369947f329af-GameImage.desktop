@@ -9,7 +9,7 @@ TryExec=/home/zany130/Applications/GameImage-x86_64_fc9b94d87405c74302405b4cd6e0
 X-AppImage-Old-Icon=gameimage
 X-AppImage-Identifier=b11460ca914cf0bb653b369947f329af
 Actions=Remove;
-X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2024-05-25 15:13:12 UTC
 
 [Desktop Action Remove]
 Name=Remove AppImage from system

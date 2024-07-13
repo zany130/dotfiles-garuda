@@ -29,22 +29,8 @@ plugin=com.github.exequtic.apdatifier
 PreloadWeight=100
 
 [Containments][10][Applets][11][Configuration][Appearance]
-relevantIcon=true
-selectedIcon=apdatifier-packages
-
-[Containments][10][Applets][11][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][10][Applets][11][Configuration][General]
-archNews=true
-aur=true
-flatpak=true
-plasmoids=true
-wrapper=/usr/bin/paru
-
-[Containments][10][Applets][11][Configuration][Upgrade]
-terminal=/usr/bin/alacritty
+listView=1
+sorting=false
 
 [Containments][10][Applets][12]
 immutability=1
@@ -93,7 +79,11 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][10][Applets][162][Configuration]
-PreloadWeight=35
+PreloadWeight=0
+
+[Containments][10][Applets][162][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
 [Containments][10][Applets][18]
 immutability=1
@@ -185,7 +175,12 @@ plugin=org.kde.plasma.diskquota
 PreloadWeight=60
 
 [Containments][10][Applets][361][Configuration]
+PreloadWeight=100
+passiveStates=
+preferIconsFromTheme=false
 selectedConfig=0
+showTabTexts=false
+size=25,25
 
 [Containments][10][Applets][362]
 immutability=1
@@ -201,6 +196,9 @@ debugLog=
 PreloadWeight=42
 
 [Containments][10][Applets][375][Configuration]
+PreloadWeight=42
+
+[Containments][10][Applets][394][Configuration]
 PreloadWeight=42
 
 [Containments][10][Applets][46][Configuration]
@@ -248,16 +246,17 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][10][General]
-extraItems=org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.cameraindicator,org.kde.plasma.brightness,martchus.syncthingplasmoid-qt6,org.kde.plasma.bluetooth,org.kde.plasma.manage-inputmethod,org.kde.plasma.diskquota,com.github.exequtic.apdatifier,com.github.boraerciyas.controlcentre
-hiddenItems=CopyQ_copyq,toolbox,openrgb,PreMiD1,chrome_status_icon_3,Desktop Sharing,Portal,deckboard1,tray-id,tray-icon tray app,MoonDeckBuddy,TeamViewer,chrome_status_icon_2,PreMiD Portable1,Discover Notifier_org.kde.DiscoverNotifier,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.networkmanagement,spotify-client,plasmashell_microphone,Wallet Manager,KotatogramDesktop,octopi-notifier,org.kde.plasma.brightness
+extraItems=org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.cameraindicator,org.kde.plasma.brightness,martchus.syncthingplasmoid-qt6,org.kde.plasma.bluetooth,org.kde.plasma.manage-inputmethod,org.kde.plasma.diskquota,com.github.exequtic.apdatifier
+hiddenItems=CopyQ_copyq,toolbox,openrgb,PreMiD1,chrome_status_icon_3,Desktop Sharing,Portal,deckboard1,tray-id,tray-icon tray app,MoonDeckBuddy,TeamViewer,chrome_status_icon_2,PreMiD Portable1,Discover Notifier_org.kde.DiscoverNotifier,org.kde.kdeconnect,spotify-client,plasmashell_microphone,Wallet Manager,KotatogramDesktop,octopi-notifier
 knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,com.github.exequtic.apdatifier
 scaleIconsToFit=true
 
 [Containments][154]
 ItemGeometries-0x0=Applet-263:880,160,512,192,0;
-ItemGeometries-1396x785=Applet-159:864,352,272,272,0;Applet-263:912,160,480,192,0;
+ItemGeometries-1396x785=Applet-263:912,160,480,192,0;
 ItemGeometries-1536x864=Applet-263:944,160,464,192,0;
-ItemGeometriesHorizontal=Applet-263:880,160,512,192,0;
+ItemGeometries-2048x864=Applet-263:1456,160,464,192,0;
+ItemGeometriesHorizontal=Applet-263:944,160,464,192,0;
 activityId=ba3b1a17-4ea8-4002-91c3-ed494409356a
 formfactor=0
 immutability=1
@@ -286,10 +285,10 @@ Image=file:///usr/share/wallpapers/garuda-wallpapers/Black Dragon.png
 SlidePaths=/home/zany130/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][155]
-ItemGeometries-0x0=Applet-264:32,32,448,192,0;
-ItemGeometries-1396x785=Applet-264:32,32,448,192,0;
+ItemGeometries-0x0=Applet-264:32,32,464,192,0;
+ItemGeometries-1396x785=Applet-264:32,32,464,192,0;
 ItemGeometries-1536x864=Applet-264:32,32,480,192,0;
-ItemGeometriesHorizontal=Applet-264:32,32,448,192,0;
+ItemGeometriesHorizontal=Applet-264:32,32,480,192,0;
 activityId=ba3b1a17-4ea8-4002-91c3-ed494409356a
 formfactor=0
 immutability=1
@@ -317,8 +316,9 @@ SlidePaths=/home/zany130/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][157]
 ItemGeometries-0x0=Applet-375:32,400,560,160,0;Applet-262:784,48,512,192,0;Applet-267:928,240,464,272,0;
-ItemGeometries-2048x864=Applet-375:48,64,480,176,0;Applet-262:784,48,480,192,0;Applet-267:1568,16,464,368,0;
-ItemGeometriesHorizontal=Applet-375:48,64,480,176,0;Applet-262:784,48,480,192,0;Applet-267:1568,16,464,368,0;
+ItemGeometries-1396x785=Applet-375:48,64,480,176,0;Applet-262:528,64,480,192,0;Applet-267:768,16,464,368,0;
+ItemGeometries-2048x864=Applet-375:48,64,480,176,0;Applet-262:528,64,480,192,0;Applet-267:1536,0,464,368,0;
+ItemGeometriesHorizontal=Applet-375:48,64,480,176,0;Applet-262:528,64,480,192,0;Applet-267:1536,0,464,368,0;
 activityId=ba3b1a17-4ea8-4002-91c3-ed494409356a
 formfactor=0
 immutability=1
@@ -359,10 +359,11 @@ ToolBoxButtonY=34
 
 [Containments][157][Wallpaper][com.github.catsout.wallpaperEngineKde][General]
 DisplayMode=2
+FilterStr=01111111011111111111111111111111111
 PerOptChanged=true
 SteamLibraryPath[$e]=file:$HOME/.local/share/Steam
-WallpaperSource[$e]=file:$HOME/.local/share/Steam/steamapps/workshop/content/431960/843532366/gifscene.json+scene
-WallpaperWorkShopId=843532366
+WallpaperSource[$e]=file:$HOME/.local/share/Steam/steamapps/workshop/content/431960/1915396780/Above Nyc 4K V2.mp4+video
+WallpaperWorkShopId=1915396780
 
 [Containments][157][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/garuda-wallpapers/Black Dragon.png
@@ -547,8 +548,16 @@ plugin=org.kde.plasma.icon
 localPath=/home/zany130/.local/share/plasma_icons/steam (5).desktop
 url=file:///home/zany130/.local/share/applications/steam.desktop
 
+[Containments][223][Applets][400]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][223][Applets][400][Configuration]
+localPath=/home/zany130/.local/share/plasma_icons/Return (2).desktop
+url=file:///home/zany130/.local/share/applications/Return.desktop
+
 [Containments][223][General]
-AppletOrder=224;257
+AppletOrder=224;257;400
 
 [Containments][225]
 activityId=
@@ -571,8 +580,16 @@ maxStripes=1
 showOnlyCurrentDesktop=false
 showOnlyCurrentScreen=false
 
+[Containments][225][Applets][398]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][225][Applets][398][Configuration]
+localPath=/home/zany130/.local/share/plasma_icons/Return (1).desktop
+url=file:///home/zany130/.local/share/applications/Return.desktop
+
 [Containments][225][General]
-AppletOrder=226
+AppletOrder=226;398
 
 [Containments][236]
 activityId=
@@ -761,45 +778,33 @@ DialogWidth=680
 
 [Containments][25][Applets][26][Configuration][General]
 fill=false
-launchers=applications:org.kde.kdeconnect.sms.desktop,applications:binggpt.desktop,applications:waydroid.com.asus.aihome.desktop,applications:waydroid.com.google.android.apps.chromecast.app.desktop,applications:garuda-welcome.desktop,applications:vivaldi-stable.desktop,applications:org.kde.dolphin.desktop,applications:libreoffice-startcenter.desktop,applications:code-oss.desktop,applications:github-desktop.desktop,applications:logseq-desktop-2.desktop,applications:io.github.alainm23.planify.desktop,applications:teams-for-linux.desktop,applications:spotify-2.desktop,applications:unityhub.desktop,applications:jetbrains-toolbox.desktop,applications:org.zealdocs.zeal.desktop,applications:retroarch.desktop,applications:net.lutris.Lutris.desktop,applications:Waydroid.desktop
+launchers=applications:org.kde.kdeconnect.sms.desktop,applications:garuda-welcome.desktop,applications:vivaldi-stable.desktop,applications:org.kde.dolphin.desktop,applications:spotify-2.desktop,applications:libreoffice-startcenter.desktop,applications:io.github.alainm23.planify.desktop,applications:code-oss.desktop,applications:logseq-desktop-2.desktop,applications:unityhub.desktop,applications:jetbrains-toolbox.desktop,applications:org.zealdocs.zeal.desktop
 showOnlyCurrentDesktop=false
 showOnlyCurrentScreen=false
 
-[Containments][25][Applets][384]
+[Containments][25][Applets][395]
 immutability=1
-plugin=com.samirgaire10.chatgpt-plasma6
+plugin=ChatAI-Plasmoid
 
-[Containments][25][Applets][384][Configuration]
-PreloadWeight=80
-popupHeight=822
-popupWidth=720
+[Containments][25][Applets][395][Configuration]
+PreloadWeight=100
+popupHeight=702
+popupWidth=504
 
-[Containments][25][Applets][384][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][25][Applets][384][Configuration][General]
-favIcon=https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png
-url=https://chatgpt.com/
-
-[Containments][25][Applets][392]
+[Containments][25][Applets][397]
 immutability=1
-plugin=org.kde.plasma.private.BusyTasksPlasmoid
+plugin=org.kde.plasma.icon
 
-[Containments][25][Applets][392][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][25][Applets][392][Configuration][General]
-password=Hacker172!
-usesmem=true
+[Containments][25][Applets][397][Configuration]
+localPath=/home/zany130/.local/share/plasma_icons/Return.desktop
+url=file:///home/zany130/.local/share/applications/Return.desktop
 
 [Containments][25][ConfigDialog]
 DialogHeight=84
 DialogWidth=2048
 
 [Containments][25][General]
-AppletOrder=384;26;142;144;392;138
+AppletOrder=395;26;142;144;138;397
 
 [Containments][278]
 activityId=
@@ -932,7 +937,7 @@ plugin=org.kde.plasma.networkmanagement
 [Containments][278][Applets][296][Configuration]
 PreloadWeight=42
 
-[Containments][278][Applets][378]
+[Containments][278][Applets][385]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
@@ -958,8 +963,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][298][Applets][299][Configuration]
 PreloadWeight=100
-popupHeight=678
-popupWidth=857
+popupHeight=575
+popupWidth=669
 
 [Containments][298][Applets][299][Configuration][ConfigDialog]
 DialogHeight=540
@@ -1050,8 +1055,8 @@ immutability=1
 plugin=org.kde.plasma.userswitcher
 
 [Containments][298][Applets][320][Configuration]
-PreloadWeight=55
-popupHeight=153
+PreloadWeight=60
+popupHeight=192
 popupWidth=216
 
 [Containments][298][Applets][320][Configuration][General]
@@ -1115,7 +1120,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][307][Applets][316][Configuration]
-PreloadWeight=95
+PreloadWeight=100
 
 [Containments][307][Applets][316][Configuration][General]
 currentTab=streams
@@ -1141,7 +1146,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][307][Applets][322][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][307][Applets][323]
 immutability=1
@@ -1187,12 +1192,8 @@ PreloadWeight=42
 [Containments][307][Applets][376][Configuration]
 PreloadWeight=42
 
-[Containments][307][Applets][379]
-immutability=1
-plugin=com.github.exequtic.apdatifier
-
 [Containments][307][Applets][379][Configuration]
-PreloadWeight=55
+PreloadWeight=42
 
 [Containments][307][Applets][380][Configuration]
 PreloadWeight=60
@@ -1200,9 +1201,24 @@ selectedConfig=0
 
 [Containments][307][Applets][385][Configuration]
 PreloadWeight=42
-selectedConfig=0
+
+[Containments][307][Applets][386]
+immutability=1
+plugin=com.github.exequtic.apdatifier
+
+[Containments][307][Applets][386][Configuration]
+PreloadWeight=60
 
 [Containments][307][Applets][393][Configuration]
+selectedConfig=0
+
+[Containments][307][Applets][396][Configuration]
+selectedConfig=0
+
+[Containments][307][Applets][399][Configuration]
+selectedConfig=0
+
+[Containments][307][Applets][401][Configuration]
 selectedConfig=0
 
 [Containments][307][ConfigDialog]
@@ -1230,8 +1246,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][326][Applets][327][Configuration]
 PreloadWeight=100
-popupHeight=510
-popupWidth=824
+popupHeight=507
+popupWidth=669
 
 [Containments][326][Applets][327][Configuration][General]
 favoritesPortedToKAstats=true
@@ -1286,7 +1302,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][326][Applets][332][Configuration]
-PreloadWeight=65
+PreloadWeight=100
 popupHeight=461
 popupWidth=821
 
@@ -1318,8 +1334,8 @@ immutability=1
 plugin=org.kde.plasma.userswitcher
 
 [Containments][326][Applets][348][Configuration]
-PreloadWeight=70
-popupHeight=175
+PreloadWeight=75
+popupHeight=192
 popupWidth=216
 
 [Containments][326][Applets][348][Configuration][General]
@@ -1344,6 +1360,9 @@ wallpaperplugin=org.kde.image
 [Containments][335][Applets][336]
 immutability=1
 plugin=org.kde.kdeconnect
+
+[Containments][335][Applets][336][Configuration]
+PreloadWeight=55
 
 [Containments][335][Applets][337]
 immutability=1
@@ -1380,14 +1399,14 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][335][Applets][343][Configuration]
-PreloadWeight=70
+PreloadWeight=85
 
 [Containments][335][Applets][344]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][335][Applets][344][Configuration]
-PreloadWeight=70
+PreloadWeight=90
 
 [Containments][335][Applets][344][Configuration][General]
 currentTab=streams
@@ -1431,7 +1450,7 @@ immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][335][Applets][352][Configuration]
-PreloadWeight=15
+PreloadWeight=0
 
 [Containments][335][Applets][353]
 immutability=1
@@ -1443,12 +1462,19 @@ PreloadWeight=0
 [Containments][335][Applets][369][Configuration]
 PreloadWeight=42
 
-[Containments][335][Applets][381]
+[Containments][335][Applets][381][Configuration]
+PreloadWeight=42
+
+[Containments][335][Applets][388]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
-[Containments][335][Applets][381][Configuration]
-PreloadWeight=55
+[Containments][335][Applets][388][Configuration]
+PreloadWeight=75
+
+[Containments][335][Applets][388][Configuration][Appearance]
+listView=1
+sorting=false
 
 [Containments][335][General]
 extraItems=org.kde.kdeconnect,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.printmanager,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,com.github.exequtic.apdatifier
@@ -1469,7 +1495,7 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][4][Applets][117][Configuration]
 PreloadWeight=100
-popupHeight=640
+popupHeight=510
 popupWidth=669
 
 [Containments][4][Applets][117][Configuration][ConfigDialog]
@@ -1505,6 +1531,10 @@ DialogWidth=720
 [Containments][4][Applets][260]
 immutability=1
 plugin=org.kde.plasma.catwalk
+
+[Containments][4][Applets][260][Configuration]
+popupHeight=400
+popupWidth=560
 
 [Containments][4][Applets][260][Configuration][ConfigDialog]
 DialogHeight=540
@@ -1561,15 +1591,6 @@ DialogWidth=720
 
 [Containments][4][Applets][365][Configuration][General]
 graphs=[{"_v":1,"type":"memory","colors":["highlightColor","negativeTextColor"],"sensorsType":["physical","swap"],"thresholds":[70,90]}]
-
-[Containments][4][Applets][386]
-immutability=1
-plugin=com.github.boraerciyas.controlcentre
-
-[Containments][4][Applets][386][Configuration]
-PreloadWeight=100
-popupHeight=450
-popupWidth=360
 
 [Containments][4][Applets][43]
 immutability=1
@@ -1630,20 +1651,33 @@ DialogHeight=84
 DialogWidth=2048
 
 [Containments][4][General]
-AppletOrder=117;7;297;43;260;365;259;44;364;386;9;87;31
+AppletOrder=117;7;297;43;260;365;259;44;364;9;87;31
+
+[Containments][402]
+activityId=f577afb5-1dac-4cd8-932c-770f8518f05f
+formfactor=0
+immutability=1
+lastScreen=3
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=com.github.catsout.wallpaperEngineKde
+
+[Containments][402][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/garuda-wallpapers/Black Dragon.png
 
 [Containments][49]
-ItemGeometries-0x0=Applet-268:784,32,480,192,0;Applet-377:816,304,96,96,0;
+ItemGeometries-0x0=Applet-377:32,48,384,176,0;Applet-268:416,16,496,192,0;Applet-391:2721.78,763,532,54,0;
 ItemGeometries-1280x720=Applet-39:0,160,640,160,0;Applet-35:816,144,464,480,0;Applet-52:352,320,464,96,0;
 ItemGeometries-1396x785=Applet-377:32,48,384,176,0;Applet-268:416,16,496,192,0;Applet-391:2721.78,763,532,54,0;
-ItemGeometries-1536x864=Applet-193:384.043,32,320,448,0;Applet-192:704.043,287.993,256,448,0;Applet-190:1039.97,16,400,208,0;
+ItemGeometries-1536x864=Applet-377:32,48,480,224,0;Applet-268:928,32,512,192,0;Applet-391:2861.78,842,532,54,0;
 ItemGeometries-1920x1080=Applet-39:528,80,640,240,0;Applet-52:560,320,1008,208,0;Applet-35:688,320,848,672,0;
 ItemGeometries-2048x864=Applet-377:32,48,480,224,0;Applet-268:1440,32,512,192,0;Applet-391:3373.78,842,532,54,0;
-ItemGeometries-2560x1080=Applet-39:848,80,640,240,0;Applet-52:1520,0,1008,208,0;Applet-35:1648,208,848,768,0;
+ItemGeometries-2560x1080=Applet-268:0,0,416,192,0;Applet-377:0,192,64,64,0;Applet-391:0,256,560,80,0;
 ItemGeometries-2560x1440=Applet-39:832,64,640,160,0;Applet-52:1536,16,464,96,0;Applet-35:1584,288,464,480,0;
 ItemGeometries-3200x1800=Applet-39:528,80,640,240,0;Applet-52:1200,0,1008,208,0;Applet-35:1328,208,848,768,0;
 ItemGeometries-3840x2160=Applet-39:848,80,640,240,0;Applet-52:1520,0,1008,208,0;Applet-35:1648,208,848,768,0;
 ItemGeometries-4096x2160=Applet-39:976,80,640,240,0;Applet-52:1648,0,1008,208,0;Applet-35:1776,208,848,768,0;
+ItemGeometries-819x614=Applet-377:32,48,384,160,0;Applet-268:128,208,496,192,0;Applet-391:2144.78,592,532,54,0;
 ItemGeometriesHorizontal=Applet-377:32,48,480,224,0;Applet-268:1440,32,512,192,0;Applet-391:3373.78,842,532,54,0;
 activityId=f577afb5-1dac-4cd8-932c-770f8518f05f
 formfactor=0
@@ -1684,8 +1718,8 @@ showinfo=false
 usesmem=true
 
 [Containments][49][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
+DialogHeight=830
+DialogWidth=2048
 
 [Containments][49][General]
 ToolBoxButtonState=topcenter
@@ -1703,9 +1737,8 @@ PerOptChanged=true
 RandomizeWallpaper=true
 SteamLibraryPath[$e]=file:$HOME/.local/share/Steam
 SwitchTimer=13
-VideoBackend=1
-WallpaperSource[$e]=file:$HOME/.local/share/Steam/steamapps/workshop/content/431960/2826681794/scene.json+scene
-WallpaperWorkShopId=2826681794
+WallpaperSource[$e]=file:$HOME/.local/share/Steam/steamapps/workshop/content/431960/2735219327/scene.json+scene
+WallpaperWorkShopId=2735219327
 
 [Containments][49][Wallpaper][org.kde.color][General]
 Color=11,11,11
@@ -1715,7 +1748,7 @@ Image=file:///usr/share/wallpapers/garuda-wallpapers/Black Dragon.png
 SlidePaths=/home/zany130/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][50]
-ItemGeometries-0x0=Applet-356:1296,576,96,80,0;
+ItemGeometries-0x0=
 ItemGeometries-1280x720=Applet-42:320,0,640,160,0;
 ItemGeometries-1396x785=
 ItemGeometries-1489x785=Applet-42:496,0,640,160,0;
@@ -1726,6 +1759,7 @@ ItemGeometries-2560x1080=Applet-42:1728,0,640,160,0;
 ItemGeometries-2560x1440=Applet-42:960,0,640,160,0;
 ItemGeometries-3840x2160=Applet-356:3740.14,1951.03,96,80,0;
 ItemGeometries-4096x2160=Applet-42:1728,0,640,160,0;
+ItemGeometries-698x393=
 ItemGeometriesHorizontal=
 activityId=f577afb5-1dac-4cd8-932c-770f8518f05f
 formfactor=0
@@ -1767,6 +1801,7 @@ ItemGeometries-1536x864=
 ItemGeometries-1920x1080=
 ItemGeometries-2048x864=
 ItemGeometries-3840x2160=
+ItemGeometries-819x614=
 ItemGeometriesHorizontal=
 activityId=f577afb5-1dac-4cd8-932c-770f8518f05f
 formfactor=0
@@ -1795,8 +1830,8 @@ RandomizeWallpaper=true
 SteamLibraryPath[$e]=file:$HOME/.local/share/Steam
 SwitchTimer=15
 VideoBackend=1
-WallpaperSource[$e]=file:$HOME/.local/share/Steam/steamapps/workshop/content/431960/2370927443/scene.json+scene
-WallpaperWorkShopId=2370927443
+WallpaperSource[$e]=file:$HOME/.local/share/Steam/steamapps/workshop/content/431960/3162808469/scene.json+scene
+WallpaperWorkShopId=3162808469
 
 [Containments][51][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/garuda-wallpapers/Black Dragon.png
@@ -1861,7 +1896,7 @@ plugin=org.kde.plasma.cameraindicator
 immutability=1
 plugin=org.kde.plasma.brightness
 
-[Containments][66][Applets][382]
+[Containments][66][Applets][392]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
@@ -2138,7 +2173,7 @@ plugin=org.kde.plasma.brightness
 [Containments][96][Applets][164][Configuration]
 PreloadWeight=26
 
-[Containments][96][Applets][383]
+[Containments][96][Applets][393]
 immutability=1
 plugin=com.github.exequtic.apdatifier
 
@@ -2183,5 +2218,5 @@ logo=Manjaro
 formFactor=0
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,ba3b1a17-4ea8-4002-91c3-ed494409356a,5,desktop:/Engine.ini,desktop:/SHIELD_Android_TV.guiscrcpy.desktop,desktop:/vivaldi-cjghomknobclkmheceabjkcffohjpbem-Default.desktop,desktop:/SaveBackup.desktop,desktop:/EmuDeck.desktop,0,f577afb5-1dac-4cd8-932c-770f8518f05f,13,desktop:/Hogwarts Legacy,desktop:/The Legend of Heroes Trails of Cold Steel IV,desktop:/PCMark 10.desktop,desktop:/3DMark.desktop,desktop:/Legrand Legacy.desktop,desktop:/iVRy Driver for SteamVR.desktop,desktop:/Anima Gate of Memories.desktop,desktop:/RPG Maker VX.desktop,desktop:/RPG Maker XP.desktop,desktop:/steam.desktop,desktop:/VRMark.desktop,desktop:/Wallpaper Engine.desktop,desktop:/Left 4 Dead 2.desktop
+itemsOnDisabledScreens=0,f577afb5-1dac-4cd8-932c-770f8518f05f,13,desktop:/3DMark.desktop,desktop:/PCMark 10.desktop,desktop:/RPG Maker VX.desktop,desktop:/Anima Gate of Memories.desktop,desktop:/Hogwarts Legacy,desktop:/VRMark.desktop,desktop:/steam.desktop,desktop:/Legrand Legacy.desktop,desktop:/Wallpaper Engine.desktop,desktop:/RPG Maker XP.desktop,desktop:/iVRy Driver for SteamVR.desktop,desktop:/Left 4 Dead 2.desktop,desktop:/The Legend of Heroes Trails of Cold Steel IV,0,ba3b1a17-4ea8-4002-91c3-ed494409356a,5,desktop:/SHIELD_Android_TV.guiscrcpy.desktop,desktop:/EmuDeck.desktop,desktop:/vivaldi-cjghomknobclkmheceabjkcffohjpbem-Default.desktop,desktop:/SaveBackup.desktop,desktop:/Engine.ini,3,f577afb5-1dac-4cd8-932c-770f8518f05f,19,desktop:/Persona 3 Reload.desktop,desktop:/Attack on Titan 2 - A.O.T.2.desktop,desktop:/Steam Linux Runtime 1.0 (scout).desktop,desktop:/Horizon Zero Dawn Complete Edition.desktop,desktop:/systemreport-20231224040004.txt,desktop:/systemreport-20240523020626.txt,desktop:/GOD EATER 3.desktop,desktop:/net.lutris.megaman-legends-2-51.desktop,desktop:/The Legend of Heroes Trails of Cold Steel IV.desktop,desktop:/Fahrenheit Indigo Prophecy Remastered.desktop,desktop:/steam-logs.tar.gz,desktop:/Hogwarts Legacy.desktop,desktop:/The Legend of Heroes Trails into Reverie.desktop,desktop:/Doki Doki Literature Club.desktop,desktop:/Windows 11.desktop,desktop:/Tales of Arise.desktop,desktop:/8-Bit Bayonetta.desktop,desktop:/CHRONO TRIGGER.desktop,desktop:/Steam Linux Runtime 2.0 (soldier).desktop
 screenMapping=

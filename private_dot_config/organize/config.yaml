@@ -28,7 +28,7 @@ rules:
     - name: move Recordings into "Recordings" folder
       locations:
           - ~/Videos/
-          - /mnt/GAMES/Videos/
+          - /mnt/DATA/Videos/
       filters:
           - name:
                 contains:
@@ -163,7 +163,7 @@ rules:
             - wmv
       actions:
           - move:
-                dest: /mnt/GAMES/Videos/
+                dest: /mnt/DATA/Videos/
                 on_conflict: rename_new
                 rename_template: "{name}-{counter}{extension}"
 #--------------------------------------------------------------------

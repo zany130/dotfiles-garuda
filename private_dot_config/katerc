@@ -2,12 +2,16 @@
 Autoplay=false
 
 [FileDialogSize]
+2 screens: Height=540
+2 screens: Width=1024
 3 screens: Height=564
 3 screens: Width=1042
 
 [General]
 Close After Last=true
 Days Meta Infos=30
+Quickopen Filter Mode=0
+Quickopen List Mode=true
 Save Meta Infos=true
 Show Full Path in Title=false
 Show Menu Bar=true
@@ -131,23 +135,25 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Replace History=/mnt/GAMES/Emulation/roms/
-Search History=plugin,caso,cas,casout,device,QtWebEngine,lib,clam,kde-service,reshade,pausemode,displayMode,display,displaymode,gdk,/mnt/GAMES/Games/ROMs/,proton-ge,keyboard,dxvk,proton
+Replace History=diff,/mnt/GAMES/Emulation/roms/
+Search History=sudo install,no such,256,fs,utc,path,now,plugin,caso,cas,casout,device,QtWebEngine,lib,clam,kde-service,reshade,pausemode,displayMode,display,displaymode,gdk,/mnt/GAMES/Games/ROMs/,proton-ge,keyboard,dxvk,proton
 
 [Konsole]
 AutoSyncronize=true
 
 [MainWindow]
-2 screens: Height=864
-2 screens: Width=1536
-3 screens: Height=864
-3 screens: Width=1536
+2 screens: Height=392
+2 screens: Width=2040
+3 screens: Height=822
+3 screens: Width=1018
+3 screens: Window-Maximized=true
 DP-1 HDMI-A-1 HDMI-A-2 Height 2048x864 DP-1=405
 DP-1 HDMI-A-1 HDMI-A-2 Width 2048x864 DP-1=1020
 
 [filetree]
 editShade=4,86,103
 listMode=false
+middleClickToClose=false
 shadingEnabled=true
 showCloseButton=false
 showFullPathOnRoots=false

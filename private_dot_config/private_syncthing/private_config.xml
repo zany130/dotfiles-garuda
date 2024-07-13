@@ -678,7 +678,7 @@
     <device id="Q56IESU-5UHYROE-LVPLNMM-AHAAP3U-4PRA7RC-7Q5XWUP-CYVFMAP-JUEHHAQ" name="steamdeck" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
         <address>dynamic</address>
         <paused>false</paused>
-        <autoAcceptFolders>false</autoAcceptFolders>
+        <autoAcceptFolders>true</autoAcceptFolders>
         <maxSendKbps>0</maxSendKbps>
         <maxRecvKbps>0</maxRecvKbps>
         <maxRequestKiB>0</maxRequestKiB>

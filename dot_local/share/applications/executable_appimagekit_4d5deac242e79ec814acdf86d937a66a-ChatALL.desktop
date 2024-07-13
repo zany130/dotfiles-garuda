@@ -14,7 +14,7 @@ X-AppImage-Old-Icon=chatall
 X-AppImage-Old-Name=ChatALL
 X-AppImage-Identifier=4d5deac242e79ec814acdf86d937a66a
 Actions=Remove;
-X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2024-05-25 15:13:12 UTC
 
 [Desktop Action Remove]
 Name=Remove AppImage from system

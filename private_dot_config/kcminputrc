@@ -4,8 +4,20 @@ NumLock=0
 RepeatDelay=250
 RepeatRate=25
 
+[Libinput][0][0][DP-2]
+Enabled=true
+
 [Libinput][1133][16440][Logitech Wireless Mouse PID:4038]
-NaturalScroll=true
+NaturalScroll=false
+
+[Libinput][1204][9234][Flydigi Flydigi APEX 4]
+Enabled=true
+PointerAcceleration=-0.600
+PointerAccelerationProfile=1
+
+[Libinput][1204][9234][Flydigi Flydigi VADER3]
+PointerAcceleration=-0.800
+PointerAccelerationProfile=1
 
 [Libinput][1356][3302][DualSense Wireless Controller Touchpad]
 ClickMethod=2

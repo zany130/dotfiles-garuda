@@ -6,20 +6,21 @@ manifest:
 language: en-US
 theme: dark
 roots:
-  - path: ~/.steam/steam
-    store: steam
-  - path: /mnt/GAMES/SteamLibrary
-    store: steam
-  - path: /home/zany130/.config/heroic
-    store: heroic
-  - path: ~/Games/Heroic
-    store: heroic
-  - path: /mnt/GAMES/Games/Heroic
-    store: heroic
-  - path: ~/.config/lutris
-    store: lutris
-  - path: /mnt/DATA/SteamLibrary
-    store: steam
+  - store: steam
+    path: ~/.steam/steam
+  - store: steam
+    path: /mnt/GAMES/SteamLibrary
+  - store: heroic
+    path: /home/zany130/.config/heroic
+  - store: heroic
+    path: ~/Games/Heroic
+  - store: heroic
+    path: /mnt/GAMES/Games/Heroic
+  - store: lutris
+    path: ~/.config/lutris
+    database: ~
+  - store: steam
+    path: /mnt/DATA/SteamLibrary
 redirects: []
 backup:
   path: /home/zany130/ludusavi-backup
@@ -27,6 +28,13 @@ backup:
     - "NieR: Automata"
   filter:
     excludeStoreScreenshots: true
+    cloud:
+      exclude: false
+      epic: false
+      gog: false
+      origin: false
+      steam: false
+      uplay: false
     ignoredPaths:
       - ~/.config/steamtinkerlaunch/downloads/shaders
       - "**/SK_Res/"

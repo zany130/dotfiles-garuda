@@ -669,10 +669,24 @@
   </Exclude>
   <Layout>
    <Merge type="files"/>
-   <Filename>appimagekit_099186df536421ceb67b6c657ec9effe-Raven_Reader.desktop</Filename>
+   <Filename>bcml.desktop</Filename>
+   <Filename>BotWSaveManger--BotWSaveManager.UI--1697680598.211381.desktop</Filename>
+   <Filename>cmd.desktop</Filename>
+   <Filename>io.github.achetagames.epic_asset_manager.desktop</Filename>
+   <Filename>explorer.desktop</Filename>
+   <Filename>FishBowl Manufacturing--Fishbowl Client--1698414712.319365.desktop</Filename>
+   <Filename>com.quexten.Goldwarden.desktop</Filename>
+   <Filename>ModOrganizer-steamtinkerlaunch-dl.desktop</Filename>
+   <Filename>cassowaryPlaynite.desktop</Filename>
+   <Filename>cassowaryPlaynite-2.desktop</Filename>
+   <Filename>powershell.desktop</Filename>
+   <Filename>powershell-core.desktop</Filename>
+   <Filename>windows.desktop</Filename>
    <Filename>vrrtest.desktop</Filename>
-   <Filename>Waydroid.desktop</Filename>
   </Layout>
+  <Include>
+   <Filename>cassowaryPlaynite-2.desktop</Filename>
+  </Include>
  </Menu>
  <Menu>
   <Name>.hidden</Name>

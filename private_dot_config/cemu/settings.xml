@@ -36,6 +36,7 @@
         <y>-1</y>
     </pad_size>
     <pad_maximized>false</pad_maximized>
+    <show_icon_column>true</show_icon_column>
     <GameList>
         <style>0</style>
         <order></order>

@@ -1,11 +1,11 @@
 [General]
-height=486
+height=790
 lastVisitedPage=processes.page
 maximized=true
 pageOrder=overview.page,RandR_SystemMonitor_Page.page,GPU_Util.page,history.page,processes.page,applications.page,new_page.page,monitoring-0.2.0.page,IO.page,IO.page
 sidebarCollapsed=true
 startPage=
-width=1018
+width=770
 
 [MainWindow]
 3 screens: Height=830

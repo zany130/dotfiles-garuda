@@ -7,7 +7,7 @@ Autoplay=false
 3 screens: Height=528
 3 screens: Width=1024
 3 screens: Window-Maximized=true
-DirHistory[$e]=$HOME/Downloads/Extracted/,$HOME/Downloads/,$HOME/mods/Persona 3 Reload/Release/Mods/,$HOME/mods/Persona 3 Reload/,$HOME/Applications/,$HOME/,$HOME/Emulation/mods/BOTW-WiiU/,$HOME/Emulation/roms/wiiu/,$HOME/.config/Ryujinx/sdcard/,$HOME/Applications/Ryujinx/
+DirHistory[$e]=$HOME/mods/Persona 3 Reload/Release/Mods/,$HOME/Downloads/,$HOME/Downloads/Extracted/,$HOME/mods/Persona 3 Reload/,$HOME/Applications/,$HOME/,$HOME/Emulation/mods/BOTW-WiiU/,$HOME/Emulation/roms/wiiu/,$HOME/.config/Ryujinx/sdcard/,$HOME/Applications/Ryujinx/
 
 [Extraction]
 closeAfterExtraction=true

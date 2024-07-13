@@ -14,7 +14,7 @@ X-AppImage-Old-Icon=betterdiscord-installer
 X-AppImage-Old-Name=BetterDiscord
 X-AppImage-Identifier=dfb3c124e4e911f212a97f1edb72155f
 Actions=Remove;
-X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2024-05-25 15:13:12 UTC
 
 [Desktop Action Remove]
 Name=Remove AppImage from system

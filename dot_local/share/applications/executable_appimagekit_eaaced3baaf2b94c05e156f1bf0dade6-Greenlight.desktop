@@ -14,7 +14,7 @@ X-AppImage-Old-Icon=greenlight
 X-AppImage-Old-Name=Greenlight
 X-AppImage-Identifier=eaaced3baaf2b94c05e156f1bf0dade6
 Actions=Remove;
-X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2023-09-11 05:02:05 UTC
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2024-05-25 15:13:12 UTC
 
 [Desktop Action Remove]
 Name=Remove AppImage from system
